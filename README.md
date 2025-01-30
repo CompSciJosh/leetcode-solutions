@@ -35,17 +35,21 @@ i: ls
 i: cd leetcode-solutions
 
 i: ls
+
 o: Arrays-and-Hashing
 
 i: ls -a
+
 o: .			..			.git			Arrays-and-Hashing
 
 i: git add Arrays-and-Hashing/Easy/remove_element.py
 
 i: git commit -m "Solution for 'Remove Element' problem"
+
 o:[main] Solution for 'Remove Element' problem
  1 file changed, 64 insertions(+)
  create mode 100644 Arrays-and-Hashing/Easy/remove_element.py
 
 i: git push origin main
+
 o: Enter passphrase for key '/Users/___________________/.ssh/id_xxxxxxx': 
