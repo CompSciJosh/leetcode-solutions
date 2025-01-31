@@ -57,6 +57,7 @@ o: Enter passphrase for key '/Users/___________________/.ssh/id_xxxxxxx':
 """ ************************************************************************** """
 
 If it appears that multiple changes were mistakenly grouped under the same commit in your GitHub repository, and you need to split these into separate commits under unique messages follow the steps sequentaily below.
+
 E.g.: The current interactive rebase (git rebase -i HEAD~3) does not show all the files or commits you expect, suggesting that some changes might have been squashed or merged together in the history.
 
 If there are multiple commits with the same commit message:
