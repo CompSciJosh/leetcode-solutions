@@ -1,3 +1,4 @@
+<h1> My Git Tutorial Notes </h1>
 1. Navigate to Your Local Repository
 	Open your terminal and navigate to the root directory of your local repository:
 		cd ~/Documents/leetcode-solutions/leetcode-solutions
