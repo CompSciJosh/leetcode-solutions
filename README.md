@@ -7,7 +7,7 @@
 		<pre><code>
 		cd ~/Documents/leetcode-solutions/leetcode-solutions
 	  </code></pre>
-		<h3> 2. Add the New File to Git </h3>
+		<h3>2. Add the New File to Git /h3>
 		<p>Use the git add command to stage the new file:</p>
 	  <pre><code>
 		git add Arrays-and-Hashing/Easy/remove_element.py
@@ -21,38 +21,38 @@
 		<p>Push the changes to the remote repository on GitHub:</p>
 		<pre><code>
 		git push origin main
-		</code><pre>
+		</code></pre>
 		<h3>5. Verify on GitHub</h3>
-	Visit your GitHub repository in your browser to confirm that remove_element.py has been added under the correct directory.
+		<p>Visit your GitHub repository in your browser to confirm that remove_element.py has been added under the correct directory.</p>
 
-Example:
+<p>Example:</p>
 
-i: ls
+i: <pre><code>ls</code></pre>
 
-i: cd Documents
+i: <pre><code>cd Documents</code></pre>
 
-i: ls
+i: <pre><code>ls</code></pre>
 
-i: cd leetcode-solutions
+i: <pre><code>cd leetcode-solutions</code></pre>
 
-i: ls
+i: <pre><code>ls</code></pre>
 
-i: cd leetcode-solutions
+i: <pre><code>cd leetcode-solutions</code></pre>
 
-i: ls <br>
+i: <pre><code>ls</code></pre>
 o: Arrays-and-Hashing
 
-i: ls -a <br>
+i: <pre><code>ls -a</code></pre>
 o: .			..			.git			Arrays-and-Hashing
 
-i: git add Arrays-and-Hashing/Easy/remove_element.py
+i: <pre><code>git add Arrays-and-Hashing/Easy/remove_element.py</code></pre>
 
-i: git commit -m "Solution for 'Remove Element' problem" <br>
+i: <pre><code>git commit -m "Solution for 'Remove Element' problem"</code></pre>
 o:[main] Solution for 'Remove Element' problem <br>
 1 file changed, 64 insertions(+) <br>
 create mode 100644 Arrays-and-Hashing/Easy/remove_element.py
 
-i: git push origin main <br>
+i: <pre><code>git push origin main</code></pre>
 o: Enter passphrase for key '/Users/___________________/.ssh/id_xxxxxxx': 
 
 """ ********************************************************************************************************************************* """
