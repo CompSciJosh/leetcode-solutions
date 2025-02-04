@@ -1,21 +1,28 @@
-<h1> My Git Tutorial Notes </h1>
-1. Navigate to Your Local Repository
-	Open your terminal and navigate to the root directory of your local repository:
+<!DOCTYPE html>
+<html>
+<body>
+	<h1> My Git Tutorial Notes </h1>
+		<h3>1. Navigate to Your Local Repository</h3>
+		<p>Open your terminal and navigate to the root directory of your local repository:</p>
+		<pre><code>
 		cd ~/Documents/leetcode-solutions/leetcode-solutions
-
-2. Add the New File to Git
-	Use the git add command to stage the new file::
+	  </code></pre>
+		<h3> 2. Add the New File to Git </h3>
+		<p>Use the git add command to stage the new file:</p>
+	  <pre><code>
 		git add Arrays-and-Hashing/Easy/remove_element.py
-
-3. Commit the Changes
-	Write a commit message describing the changes:
+	  </pre></code>
+		<h3>3. Commit the Changes</h3>
+		<p>Write a commit message describing the changes:</p>
+		<pre><code>
 		git commit -m "Solution for 'Remove Element' problem"
-
-4. Push the Changes to GitHub
-	Push the changes to the remote repository on GitHub:
+		</code></pre>
+		<h3>4. Push the Changes to GitHub</h3>
+		<p>Push the changes to the remote repository on GitHub:</p>
+		<pre><code>
 		git push origin main
-
-5. Verify on GitHub
+		</code><pre>
+		<h3>5. Verify on GitHub</h3>
 	Visit your GitHub repository in your browser to confirm that remove_element.py has been added under the correct directory.
 
 Example:
@@ -87,6 +94,7 @@ Summary:<br><br>
 	Why This Works?<br>
 		This process effectively splits the combined commit (d58bebc) into multiple smaller commits, each associated with the specific file and a unique commit message. By doing this, your GitHub repository will reflect the correct history where each file has its own descriptive commit.
 
-
+	</body>
+</html>
 
 
