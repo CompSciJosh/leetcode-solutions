@@ -76,25 +76,24 @@ If there are multiple commits with the same commit message:<br>
  		<pre><code>git reset HEAD^</code></pre>
 		
 
-4. Commit Each File Separately: For each file, create a new commit with the correct message. <br> For example: <br> 
-	git add roman_to_integer.py <br> 
-	git commit -m "Solution for 'Roman to Integer' problem" <br><br>
-	git add remove_element.py <br>
-	git commit -m "Solution for 'Remove Element' problem" <br><br> 
-	git add remove_duplicates.py <br> 
-	git commit -m "Solution for 'Remove Duplicates' problem" <br> 
+<h3>4. Commit Each File Separately: For each file, create a new commit with the correct message. <br> For example: </h3>
+	<pre><code>git add roman_to_integer.py</code></pre>
+	<pre><code>git commit -m "Solution for 'Roman to Integer' problem"</code></pre>
+	<pre><code>git add remove_element.py </code></pre>
+	<pre><code>git commit -m "Solution for 'Remove Element' problem"</code></pre> 
+	<pre><code>git add remove_duplicates.py </code></pre>
+	<pre><code>git commit -m "Solution for 'Remove Duplicates' problem"</code></pre>
 
-5. Continue the Rebase: Once you've created separate commits for each file, continue the rebase: <br>
-	git rebase --continue
+<h3>5. Continue the Rebase: Once you've created separate commits for each file, continue the rebase: </h3>
+	<pre><code>git rebase --continue</code></pre>
 
-6. Force Push the Updated History: Since this rewrites commit history, force push to update the remote repository: <br>
-	git push --force
-<br><br><br>
-Summary:<br><br>
-	Why This Works?<br>
-		This process effectively splits the combined commit (d58bebc) into multiple smaller commits, each associated with the specific file and a unique commit message. By doing this, your GitHub repository will reflect the correct history where each file has its own descriptive commit.
+<h3>6. Force Push the Updated History: Since this rewrites commit history, force push to update the remote repository: </h3>
+	<pre><code>git push --force</code></pre>
+<h3>Summary:</h3>
+	<h4>Why This Works?</h4>
+		<p><h5>This process effectively splits the combined commit (d58bebc) into multiple smaller commits, each associated with the specific file and a unique commit message. By doing this, your GitHub repository will reflect the correct history where each file has its own descriptive commit.</h5></p>
 
-	</body>
+</body>
 </html>
 
 
