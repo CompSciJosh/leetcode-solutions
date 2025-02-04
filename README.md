@@ -7,7 +7,7 @@
 		<pre><code>
 		cd ~/Documents/leetcode-solutions/leetcode-solutions
 	  </code></pre>
-		<h3>2. Add the New File to Git /h3>
+		<h3>2. Add the New File to Git</h3>
 		<p>Use the git add command to stage the new file:</p>
 	  <pre><code>
 		git add Arrays-and-Hashing/Easy/remove_element.py
@@ -55,25 +55,25 @@ create mode 100644 Arrays-and-Hashing/Easy/remove_element.py
 i: <pre><code>git push origin main</code></pre>
 o: Enter passphrase for key '/Users/___________________/.ssh/id_xxxxxxx': 
 
-""" ********************************************************************************************************************************* """
+<hr>
 
-If it appears that multiple changes were mistakenly grouped under the same commit in your GitHub repository, and you need to split these into separate commits under unique messages follow the steps sequentaily below. <br>
-E.g.: The current interactive rebase (git rebase -i HEAD~3) does not show all the files or commits you expect, suggesting that some changes might have been squashed or merged together in the history.
+<p>If it appears that multiple changes were mistakenly grouped under the same commit in your GitHub repository, and you need to split these into separate commits under unique messages follow the steps sequentaily below.
+E.g.: The current interactive rebase (git rebase -i HEAD~3) does not show all the files or commits you expect, suggesting that some changes might have been squashed or merged together in the history.</p>
 
-If there are multiple commits with the same commit message:
-1. Start Interactive Rebase for Commit to Split: 
-	Since the files you mentioned are all part of the commit d58bebc (the last one in your git rebase -i HEAD~3 list), start by rebasing to that point: <br>
-		git rebase -i HEAD\~3
+If there are multiple commits with the same commit message:<br>
+<h3>1. Start Interactive Rebase for Commit to Split:</h3>
+	<p>Since the files you mentioned are all part of the commit d58bebc (the last one in your git rebase -i HEAD~3 list), start by rebasing to that point:</p>
+		<pre><code>git rebase -i HEAD\~3</code></pre>
 
-2. Mark the Commit to Edit: In the editor that opens, change the word 'pick' to 'edit' for the commit where the changes are grouped (e.g., d58bebc):
-	Save and close the editor: <br>
+<h3>2. Mark the Commit to Edit: In the editor that opens, change the word 'pick' to 'edit' for the commit where the changes are grouped (e.g., d58bebc):</h3>
+	<p>Save and close the editor: <br>
 		Press Ctrl + O <br>
 		Press Enter <br>
-		Press Ctrl + X 
+		Press Ctrl + X </p>
 
-3. Unstage the Changes: After Git pauses the rebase, unstage all the changes in the selected commit: <br>
-	This will leave the changes from d58bebc in your working directory without committing them. <br>
- 		git reset HEAD^
+<h3>3. Unstage the Changes: After Git pauses the rebase, unstage all the changes in the selected commit: </h3>
+	<p>This will leave the changes from d58bebc in your working directory without committing them. </p>
+ 		<pre><code>git reset HEAD^</code></pre>
 		
 
 4. Commit Each File Separately: For each file, create a new commit with the correct message. <br> For example: <br> 
