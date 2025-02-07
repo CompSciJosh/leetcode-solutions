@@ -5,13 +5,13 @@
 		<h3>1. Navigate to Your Local Repository</h3>
 		<p>Open your terminal and navigate to the root directory of your local repository:</p>
 		<pre><code>
-		cd ~/Documents/leetcode-solutions/leetcode-solutions
-	  </code></pre>
+			cd ~/Documents/leetcode-solutions/leetcode-solutions
+		</code></pre>
 		<h3>2. Add the New File to Git</h3>
 		<p>Use the git add command to stage the new file:</p>
-	  <pre><code>
+	<pre><code>
 		git add Arrays-and-Hashing/Easy/remove_element.py
-	  </pre></code>
+	</code></pre>
 		<h3>3. Commit the Changes</h3>
 		<p>Write a commit message describing the changes:</p>
 		<pre><code>
