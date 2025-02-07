@@ -5,7 +5,7 @@
 		<h3>1. Navigate to Your Local Repository</h3>
 		<p>Open your terminal and navigate to the root directory of your local repository:</p>
 		<pre><code>
-			cd ~/Documents/leetcode-solutions/leetcode-solutions
+		cd ~/Documents/leetcode-solutions/leetcode-solutions
 		</code></pre>
 		<h3>2. Add the New File to Git</h3>
 		<p>Use the git add command to stage the new file:</p>
