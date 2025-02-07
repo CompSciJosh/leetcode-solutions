@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body>	
 <h1 align="center"> My Git Tutorial Notes </h1>
 <h3>1. Navigate to Your Local Repository</h3>
 <p>Open your terminal and navigate to the root directory of your local repository:</p>
@@ -112,6 +112,13 @@ git push --force</code></pre>
 <h4>Why This Works?</h4>
 <p><h5>This process effectively splits the combined commit (d58bebc) into multiple smaller commits, each associated with the specific file and a unique commit message. By doing this, your GitHub repository will reflect the correct history where each file has its own descriptive commit.</h5></p>
 
+<hr>
+<br>
+<h1 align="center"> Solution If Updating Repository Via GitHub Interface & Terminal </h1>
+
+<p align="center">
+<img src="github-pull-and-fetch.png" alt="GitHub Pull & Fetch" width="700">
+</p>
 </body>
 </html>
 
