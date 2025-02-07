@@ -1,29 +1,29 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1 align="center"> My Git Tutorial Notes </h1>
-		<h3>1. Navigate to Your Local Repository</h3>
-		<p>Open your terminal and navigate to the root directory of your local repository:</p>
-		<pre><code>
-		cd ~/Documents/leetcode-solutions/leetcode-solutions
-		</code></pre>
-		<h3>2. Add the New File to Git</h3>
-		<p>Use the git add command to stage the new file:</p>
-	<pre><code>
-		git add Arrays-and-Hashing/Easy/remove_element.py
-	</code></pre>
-		<h3>3. Commit the Changes</h3>
-		<p>Write a commit message describing the changes:</p>
-		<pre><code>
-		git commit -m "Solution for 'Remove Element' problem"
-		</code></pre>
-		<h3>4. Push the Changes to GitHub</h3>
-		<p>Push the changes to the remote repository on GitHub:</p>
-		<pre><code>
-		git push origin main
-		</code></pre>
-		<h3>5. Verify on GitHub</h3>
-		<p>Visit your GitHub repository in your browser to confirm that remove_element.py has been added under the correct directory.</p>
+<h1 align="center"> My Git Tutorial Notes </h1>
+<h3>1. Navigate to Your Local Repository</h3>
+<p>Open your terminal and navigate to the root directory of your local repository:</p>
+<pre><code>
+cd ~/Documents/leetcode-solutions/leetcode-solutions
+</code></pre>
+<h3>2. Add the New File to Git</h3>
+<p>Use the git add command to stage the new file:</p>
+<pre><code>
+git add Arrays-and-Hashing/Easy/remove_element.py
+</code></pre>
+<h3>3. Commit the Changes</h3>
+<p>Write a commit message describing the changes:</p>
+<pre><code>
+git commit -m "Solution for 'Remove Element' problem"
+</code></pre>
+<h3>4. Push the Changes to GitHub</h3>
+<p>Push the changes to the remote repository on GitHub:</p>
+<pre><code>
+git push origin main
+</code></pre>
+<h3>5. Verify on GitHub</h3>
+<p>Visit your GitHub repository in your browser to confirm that remove_element.py has been added under the correct directory.</p>
 
 <p>Example:</p>
 
@@ -62,8 +62,10 @@ E.g.: The current interactive rebase (git rebase -i HEAD~3) does not show all th
 
 If there are multiple commits with the same commit message:<br>
 <h3>1. Start Interactive Rebase for Commit to Split:</h3>
-	<p>Since the files you mentioned are all part of the commit d58bebc (the last one in your git rebase -i HEAD~3 list), start by rebasing to that point:</p>
-		<pre><code>git rebase -i HEAD\~3</code></pre>
+<p>Since the files you mentioned are all part of the commit d58bebc (the last one in your git rebase -i HEAD~3 list), start by rebasing to that point:</p>
+<pre><code>
+git rebase -i HEAD\~3
+</code></pre>
 
 <h3>2. Mark the Commit to Edit: In the editor that opens, change the word 'pick' to 'edit' for the commit where the changes are grouped (e.g., d58bebc):</h3>
 	<p>Save and close the editor: <br>
@@ -72,26 +74,43 @@ If there are multiple commits with the same commit message:<br>
 		Press Ctrl + X </p>
 
 <h3>3. Unstage the Changes: After Git pauses the rebase, unstage all the changes in the selected commit: </h3>
-	<p>This will leave the changes from d58bebc in your working directory without committing them. </p>
- 		<pre><code>git reset HEAD^</code></pre>
+<p>This will leave the changes from d58bebc in your working directory without committing them. </p>
+<pre><code>
+git reset HEAD^
+</code></pre>
 		
 
 <h3>4. Commit Each File Separately: For each file, create a new commit with the correct message. <br> For example: </h3>
-	<pre><code>git add roman_to_integer.py</code></pre>
-	<pre><code>git commit -m "Solution for 'Roman to Integer' problem"</code></pre>
-	<pre><code>git add remove_element.py </code></pre>
-	<pre><code>git commit -m "Solution for 'Remove Element' problem"</code></pre> 
-	<pre><code>git add remove_duplicates.py </code></pre>
-	<pre><code>git commit -m "Solution for 'Remove Duplicates' problem"</code></pre>
+<pre><code>
+git add roman_to_integer.py
+</code></pre>
+<pre><code>
+git commit -m "Solution for 'Roman to Integer' problem"
+</code></pre>
+<pre><code>
+git add remove_element.py
+</code></pre>
+<pre><code>
+git commit -m "Solution for 'Remove Element' problem"
+</code></pre> 
+<pre><code>
+git add remove_duplicates.py
+</code></pre>
+<pre><code>
+git commit -m "Solution for 'Remove Duplicates' problem"
+</code></pre>
 
 <h3>5. Continue the Rebase: Once you've created separate commits for each file, continue the rebase: </h3>
-	<pre><code>git rebase --continue</code></pre>
+<pre><code>
+git rebase --continue
+</code></pre>
 
 <h3>6. Force Push the Updated History: Since this rewrites commit history, force push to update the remote repository: </h3>
-	<pre><code>git push --force</code></pre>
+<pre><code>
+git push --force</code></pre>
 <h3>Summary:</h3>
-	<h4>Why This Works?</h4>
-		<p><h5>This process effectively splits the combined commit (d58bebc) into multiple smaller commits, each associated with the specific file and a unique commit message. By doing this, your GitHub repository will reflect the correct history where each file has its own descriptive commit.</h5></p>
+<h4>Why This Works?</h4>
+<p><h5>This process effectively splits the combined commit (d58bebc) into multiple smaller commits, each associated with the specific file and a unique commit message. By doing this, your GitHub repository will reflect the correct history where each file has its own descriptive commit.</h5></p>
 
 </body>
 </html>
