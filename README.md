@@ -27,9 +27,9 @@ git push origin main
 
 <p>Example:</p>
 
-i: <pre><code>ls</code></pre>
+input: <pre><code>ls</code></pre>
 
-i: <pre><code>cd Documents</code></pre>
+input: <pre><code>cd Documents</code></pre>
 
 i: <pre><code>ls</code></pre>
 
