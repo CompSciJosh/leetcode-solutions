@@ -31,9 +31,9 @@ input: <pre><code>ls</code></pre>
 
 input: <pre><code>cd Documents</code></pre>
 
-i: <pre><code>ls</code></pre>
+input: <pre><code>ls</code></pre>
 
-i: <pre><code>cd leetcode-solutions</code></pre>
+input: <pre><code>cd leetcode-solutions</code></pre>
 
 i: <pre><code>ls</code></pre>
 
