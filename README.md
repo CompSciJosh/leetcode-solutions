@@ -40,15 +40,15 @@ input: <pre><code>ls</code></pre>
 i: <pre><code>cd leetcode-solutions</code></pre>
 
 input: <pre><code>ls</code></pre>
-output: Arrays-and-Hashing
+output:<br> Arrays-and-Hashing
 
 input: <pre><code>ls -a</code></pre>
-output: .			..			.git			Arrays-and-Hashing
+output:<br> .			..			.git			Arrays-and-Hashing
 
 input: <pre><code>git add Arrays-and-Hashing/Easy/remove_element.py</code></pre>
 
 input: <pre><code>git commit -m "Solution for 'Remove Element' problem"</code></pre>
-output:[main] Solution for 'Remove Element' problem <br>
+output:<br>[main] Solution for 'Remove Element' problem <br>
 1 file changed, 64 insertions(+) <br>
 create mode 100644 Arrays-and-Hashing/Easy/remove_element.py
 
