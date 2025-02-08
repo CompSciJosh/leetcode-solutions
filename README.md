@@ -114,7 +114,7 @@ git push --force</code></pre>
 
 <hr>
 <br>
-<h1 align="center"> Solution if Updating Repository via GitHub Interface and Terminal </h1>
+<h1 align="center"> Solution if Updating Repository <br>via GitHub Interface and Terminal </h1>
 
 <p align="center">
 <img src="github-pull-and-fetch.png" alt="GitHub Pull & Fetch" width="700">
