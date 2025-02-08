@@ -37,7 +37,7 @@ input: <pre><code>cd leetcode-solutions</code></pre>
 
 input: <pre><code>ls</code></pre>
 
-i: <pre><code>cd leetcode-solutions</code></pre>
+input: <pre><code>cd leetcode-solutions</code></pre>
 
 input: <pre><code>ls</code></pre>
 output:<br> Arrays-and-Hashing
@@ -52,8 +52,8 @@ output:<br>[main] Solution for 'Remove Element' problem <br>
 1 file changed, 64 insertions(+) <br>
 create mode 100644 Arrays-and-Hashing/Easy/remove_element.py
 
-i: <pre><code>git push origin main</code></pre>
-o: Enter passphrase for key '/Users/___________________/.ssh/id_xxxxxxx': 
+input: <pre><code>git push origin main</code></pre>
+output:<br> Enter passphrase for key '/Users/___________________/.ssh/id_xxxxxxx': 
 
 <hr>
 
