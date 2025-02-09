@@ -120,7 +120,7 @@ git push --force</code></pre>
 </p>
 
 <hr>
-<h1 align="center"> Solution if Add, Commit, and Push is Rejected </h1>
+<h1 align="center"> Solution if Add, Commit, Push is Rejected </h1>
 <p align="center">
 <b> Error Message Output: </b><br>
 	 ! [rejected]        main -> main (fetch first)
