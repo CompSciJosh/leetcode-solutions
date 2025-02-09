@@ -119,6 +119,11 @@ git push --force</code></pre>
 <p align="center">
 <img src="github-pull-and-fetch.png" alt="GitHub Pull & Fetch" width="700">
 </p>
+
+<hr>
+<p align="center">
+<img src="pull-and-rebase-remote-changes.png" alt="GitHub Pull & Rebase" width="700">
+</p>
 </body>
 </html>
 
