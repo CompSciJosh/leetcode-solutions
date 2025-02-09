@@ -113,7 +113,6 @@ git push --force</code></pre>
 <p><h5>This process effectively splits the combined commit (d58bebc) into multiple smaller commits, each associated with the specific file and a unique commit message. By doing this, your GitHub repository will reflect the correct history where each file has its own descriptive commit.</h5></p>
 
 <hr>
-<br>
 <h1 align="center"> Solution if Updating Repository <br>via GitHub Interface and Terminal </h1>
 
 <p align="center">
@@ -121,7 +120,17 @@ git push --force</code></pre>
 </p>
 
 <hr>
+<h1 align="center"> Solution if Add, Commit, and Push is Rejected </h1>
 <p align="center">
+<b> Error Message Output: </b><br>
+	 ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:CompSciJosh/leetcode-solutions.git'<br>
+hint: Updates were rejected because the remote contains work that you do<br>
+hint: not have locally. This is usually caused by another repository pushing<br>
+hint: to the same ref. You may want to first integrate the remote changes<br>
+hint: (e.g., 'git pull ...') before pushing again.<br>
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
+<b>Solution:</b>
 <img src="pull-and-rebase-remote-changes.png" alt="GitHub Pull & Rebase" width="700">
 </p>
 </body>
