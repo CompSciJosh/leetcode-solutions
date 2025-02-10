@@ -113,7 +113,7 @@ git push --force</code></pre>
 <p><h5>This process effectively splits the combined commit (d58bebc) into multiple smaller commits, each associated with the specific file and a unique commit message. By doing this, your GitHub repository will reflect the correct history where each file has its own descriptive commit.</h5></p>
 
 <hr>
-<h1 align="center"> Solution If Add, Commit, Push Is Rejected<br> Due To Updating Repository Via<br> GitHub Interface Rather Than Via Terminal</h1>
+<h1 align="center"> If Add, Commit, Push Is Rejected<br> Due To Updating Repository Via<br> GitHub Interface Rather Than Via Terminal</h1>
 <p align="center">
 <b> Error Message Output After Entering 'git push origin main': </b><br>
 </p>
