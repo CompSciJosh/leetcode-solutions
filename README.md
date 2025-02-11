@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>	
-<h1 align="center">My Git Notes</h1>
+<h1 align="center">How To Use Git</h1>
 <h3>1. Navigate to Your Local Repository</h3>
 <p>Open your terminal and navigate to the root directory of your local repository:</p>
 <pre><code>
