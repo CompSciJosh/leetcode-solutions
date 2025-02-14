@@ -39,7 +39,11 @@ n == nums.length
 
 """
 
-"""*************** SOLUTION ***************"""
+""" 
+Beginning of Solution
+"""
+from typing import List
+
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
 	# Option 1:
@@ -52,3 +56,17 @@ class Solution:
 
 	# Option 2:
         return nums * 2  # Repeat the list twice
+"""
+End of Solution
+"""
+numbers = [2, 4, 6, 8]
+
+dbl_length = 2 * len(numbers)
+
+solution = Solution()
+
+combined_arr = solution.getConcatenation(numbers)
+
+txt = f"The ans of length {dbl_length} is: {combined_arr}"
+
+print(txt)
