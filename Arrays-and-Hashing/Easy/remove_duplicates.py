@@ -54,7 +54,9 @@ Constraints:
 nums is sorted in non-decreasing order.
 """
 
-"""***************SOLUTION***************"""
+""" 
+Beginning of Solution
+"""
 
 from typing import List
 
@@ -67,6 +69,9 @@ class Solution:
                 nums[k] = nums[i]
                 k += 1
         return k
+"""
+End of Solution
+"""
         
 sorted_nums = [0,0,1,1,1,2,2,3,3,3,4,4]
 
