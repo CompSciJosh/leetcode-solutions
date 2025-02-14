@@ -57,6 +57,8 @@ Constraints:
 0 <= val <= 100
 """
 """*************** SOLUTION ***************"""
+from typing import List
+
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         k = 0
@@ -66,3 +68,16 @@ class Solution:
                 nums[k] = nums[i]
                 k += 1
         return k
+
+arr = [2,4,3,0,4,4,5]
+value = 4
+
+solution = Solution()
+
+print(f"The original integer array is {arr}.\n")
+
+not_equal_to_val = solution.removeElement(arr, value)
+
+txt = f"The value to be removed is {value}.\nThe first {not_equal_to_val} elements are not equal to {value} in the updated array.\nUpdated array: {arr}"
+
+print(txt)
