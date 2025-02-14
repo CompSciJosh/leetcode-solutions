@@ -56,7 +56,11 @@ Constraints:
 0 <= nums[i] <= 50
 0 <= val <= 100
 """
-"""*************** SOLUTION ***************"""
+
+"""
+Beginning of Solution
+"""
+
 from typing import List
 
 class Solution:
@@ -68,6 +72,9 @@ class Solution:
                 nums[k] = nums[i]
                 k += 1
         return k
+"""
+End of Solution
+"""
 
 arr = [2,4,3,0,4,4,5]
 value = 4
