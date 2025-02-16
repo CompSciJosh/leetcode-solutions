@@ -6,9 +6,7 @@
 
 """
 Description:
-Given two strings s and t, return true if t is an 
-anagram
- of s, and false otherwise.
+Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
  
 
@@ -35,7 +33,9 @@ s and t consist of lowercase English letters.
 Follow up: What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
 """
 
-"""*************** SOLUTION ***************"""
+""" 
+Beginning of Solution
+"""
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
@@ -52,3 +52,20 @@ class Solution:
             if num != 0:
                 return False
         return True
+
+"""
+End of Solution
+"""
+
+word_1, word_2 = "batman", "manbat"
+
+solution = Solution()
+
+same_letters = solution.isAnagram(word_1, word_2)
+
+lowercase_bool = str(same_letters).lower()
+
+txt = f"It is {lowercase_bool} that {word_1} and {word_2} have the same letters and are anagrams."
+
+print(txt)
+
