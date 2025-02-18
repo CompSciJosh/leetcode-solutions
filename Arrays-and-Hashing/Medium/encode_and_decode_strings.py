@@ -25,8 +25,8 @@ Output:[]
 
 """
 
-"""*************** SOLUTION ***************"""
-
+"""*************** Code Below ***************"""
+from typing import List
 
 class Solution:
 # Example Input: ["my", "queen", "i", "love", "you"]
@@ -54,3 +54,28 @@ class Solution:
             i = j + 1 + length  # Move to the next segment
             
         return res
+"""
+End of Solution
+"""
+
+# could choose to not use 'self' in the function and implement the function below
+
+# class Solution:
+#     def __init__(self):
+#        pass
+
+list_of_strings = ["abra", "kadabra", "ala", "kazam"]
+
+solution = Solution()
+
+encoded_strings = solution.encode(list_of_strings)
+
+txt = f"The initial list of strings (i.e. {list_of_strings}) encoded is: {encoded_strings}"
+
+print(txt)
+
+decoded_strings = solution.decode(encoded_strings)
+
+txt_2 = f"The encoded list of strings (i.e. {encoded_strings}) decoded is: {decoded_strings}"
+
+print(txt_2)
