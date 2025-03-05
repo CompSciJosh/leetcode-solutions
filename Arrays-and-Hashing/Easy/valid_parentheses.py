@@ -36,18 +36,18 @@ Beginning of Solution
 """
 class Solution:
     def is_valid(self, s: str) -> bool:
-        stack = []
-        close_to_open = {")": "(", "]" : "[", "}" : "{"} # key:value pairs
+        stack = [] # dynamic list; Python list
+        close_to_open = {")": "(", "]" : "[", "}" : "{"} # dictionary - key:value pairs
 
         for c in s: # for every char in the string
             if c in close_to_open: # if the char, which is a key, is in the dictionary close_to_open
                 """ if the stack is not empty and the value at the top of the stack 
                     is equivalent to the value of the key:value pair"""
-                if stack and stack[-1] == close_to_open[c]:
+                if stack and stack[-1] == close_to_open[c]: # passing in the closing symbol and getting the open symbol
                     stack.pop() # pop the value at the top of the stack
-                else: # else the stack is empty, we can not add a closing symbol to the stack, return False
+                else: # if they don't match or the stack is empty, return False b/c it means the symbols do not match
                     return False
-            else: # if the symbol read is not in a key in close_to_open then add it to the top of the stack
+            else: # this means it must be an open symbol so the symbol read is not a key in close_to_open then add it to the top of the stack.
                 stack.append(c)
 
         return True if not stack else False # return True if the stack is empty but if it is not empty return False
@@ -60,4 +60,8 @@ solution = Solution()
 result = solution.is_valid(symbols_2)
 print(result)
 
+"""
+Time Complexity: O(n) <- b/c we have to go through each input character, n, once.
+Space Complexity: O(n) <- b/c the stack could be up to the size of the input, n.
+"""
 
