@@ -61,3 +61,36 @@ class Solution:
         head.next = None
 
         return newHead
+# Helper function to convert a list into a linked list
+def create_linked_list(arr):
+    if not arr:
+        return None
+    head = ListNode(arr[0])
+    current = head
+    for val in arr[1:]:
+        current.next = ListNode(val)
+        current = current.next
+    return head
+
+# Helper function to print a linked list
+def print_linked_list(head):
+    current = head
+    result = []
+    while current:
+        result.append(str(current.val))
+        current = current.next
+    print(" -> ".join(result))
+
+# Test the function
+values = [1, 2, 3, 4, 5]  # Example linked list: 1 -> 2 -> 3 -> 4 -> 5
+head = create_linked_list(values)
+
+print("Original Linked List:")
+print_linked_list(head)
+
+# Reverse the linked list
+solution = Solution()
+reversed_head = solution.reverseList(head)
+
+print("Reversed Linked List:")
+print_linked_list(reversed_head)
