@@ -41,14 +41,14 @@ Follow up: A linked list can be reversed either iteratively or recursively. Coul
 """ 
 Beginning of Solution
 """
-#####################
-##### Recursion #####
-#####################
+#############################
+######### Recursion #########
+#############################
 from typing import Optional
 
 # Definition for singly-linked list.
 class ListNode:
-    def __init__(self, val=0, next=None):
+    def __init__(self, val = 0, next = None):
         self.val = val
         self.next = next
 
@@ -64,6 +64,7 @@ class Solution:
         head.next = None
 
         return newHead
+
 # Helper function to convert a list into a linked list
 def create_linked_list(arr):
     if not arr:
