@@ -25,7 +25,6 @@ Input: n = 2
 Output: 5
 Explanation: After 2 minutes, there are 4 colored cells on the boundary and 1 in the center, so we return 5.
 
-
 Constraints:
 1 <= n <= (10)^5
 """
