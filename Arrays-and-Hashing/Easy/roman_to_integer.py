@@ -83,11 +83,18 @@ End of Solution
 """
 
 romanNumeral = "LIX"
+romanNumeral_1 = "MMMMMMMMMMCMXCIX"
 
 solution = Solution()
 
 conversion = solution.romanToInt(romanNumeral)
 
 txt = f"The roman numeral {romanNumeral} converted to digits is {conversion}"
+
+print(txt)
+
+conversion = solution.romanToInt(romanNumeral_1)
+
+txt = f"The roman numeral {romanNumeral_1} converted to digits is {conversion}"
 
 print(txt)
