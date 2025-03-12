@@ -7,11 +7,13 @@
 """
 Description:
 
-Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
+Given an integer array nums and an integer val, remove all occurrences of val in nums in-place.
+The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
 
 Consider the number of elements in nums which are not equal to val be k, to get accepted, you need to do the following things:
 
-Change the array nums such that the first k elements of nums contain the elements which are not equal to val. The remaining elements of nums are not important as well as the size of nums.
+Change the array nums such that the first k elements of nums contain the elements which are not equal to val.
+The remaining elements of nums are not important as well as the size of nums.
 
 Return k.
 
@@ -65,7 +67,7 @@ Beginning of Solution
 from typing import List
 
 class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
+    def remove_element(self, nums: List[int], val: int) -> int:
         k = 0
         n = len(nums)
         for i in range (n):
@@ -82,10 +84,27 @@ value = 4
 
 solution = Solution()
 
-print(f"The original integer array is {arr}.\n")
+print(f"The original integer array is {arr}.")
 
-not_equal_to_val = solution.removeElement(arr, value)
+not_equal_to_val = solution.remove_element(arr, value)
+
+print(f"k = {not_equal_to_val}")
 
 txt = f"The value to be removed is {value}.\nThe first {not_equal_to_val} elements are not equal to {value} in the updated array.\nUpdated array: {arr}"
 
 print(txt)
+
+#########################
+
+nums_array = [5, 3, 4, 1, 1, 6, 0, 1]
+print(f"\nThe original integer array is {nums_array}.")
+
+target_value = 1
+print(f"The value to be removed is {target_value}.")
+
+number_of_elements = solution.remove_element(nums_array, target_value)
+
+# print("The number of unique values in the array are: ")
+print (f"k = {number_of_elements}")
+print(f"The first {number_of_elements} elements of nums contain the elements which are not equal to val.")
+print(nums_array)
