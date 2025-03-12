@@ -53,7 +53,7 @@ Beginning of Solution
 #         self.next = next
 
 # class Solution:
-#     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+#     def reverse_list(self, head: Optional[ListNode]) -> Optional[ListNode]:
 #         if not head:
 #             return None
 #
@@ -102,15 +102,16 @@ Beginning of Solution
 #####################
 ##### Iteration #####
 #####################
+from typing import Optional
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    def __init__(self, val = 0, next = None):
+        self.val = val
+        self.next = next
 
 class Solution:
-    def reverseList(self, head: ListNode) -> ListNode:
+    def reverse_list(self, head: Optional[ListNode]) -> Optional[ListNode]:
         prev, curr = None, head
 
         while curr:
@@ -119,3 +120,37 @@ class Solution:
             prev = curr
             curr = temp
         return prev
+
+# Helper function to create a linked list from a list
+def create_linked_list(arr):
+    if not arr:
+        return None
+    head = ListNode(arr[0])
+    current = head
+    for val in arr[1:]:
+        current.next = ListNode(val)
+        current = current.next
+    return head
+
+# Helper function to print a linked list
+def print_linked_list(head):
+    current = head
+    result = []
+    while current:
+        result.append(str(current.val))
+        current = current.next
+    print(" -> ".join(result))
+
+# Test the function
+values = [5, 7, 9, 10, 11]  # Example linked list: 5 -> 7 -> 9 -> 10 -> 11
+head = create_linked_list(values)
+
+print("Original Linked List:")
+print_linked_list(head)
+
+# Reverse the linked list
+solution = Solution()
+reversed_head = solution.reverse_list(head)
+
+print("Reversed Linked List:")
+print_linked_list(reversed_head)
