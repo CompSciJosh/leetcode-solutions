@@ -63,6 +63,8 @@ from typing import List
 
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
+    # I will use 2 pointers i and j. Variable i will loop through the array a specified number of times
+    # using a for-loop range() function. Variable j will only increment when the loop is entered
         k = 1
         n = len(nums)
         for i in range (n):
