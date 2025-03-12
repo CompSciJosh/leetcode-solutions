@@ -41,9 +41,9 @@ Follow up: A linked list can be reversed either iteratively or recursively. Coul
 """ 
 Beginning of Solution
 """
-#############################
-######### Recursion #########
-#############################
+#######################################
+######### Option 1: Recursion #########
+#######################################
 # from typing import Optional
 
 # Definition for singly-linked list.
@@ -99,9 +99,9 @@ Beginning of Solution
 # print("Reversed Linked List:")
 # print_linked_list(reversed_head)
 
-#####################
-##### Iteration #####
-#####################
+###############################
+##### Option 2: Iteration #####
+###############################
 from typing import Optional
 
 # Definition for singly-linked list.
