@@ -27,7 +27,6 @@ Explanation: After 2 minutes, there are 4 colored cells on the boundary and 1 in
 
 
 Constraints:
-
 1 <= n <= (10)^5
 """
 
