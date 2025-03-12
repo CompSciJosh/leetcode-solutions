@@ -75,6 +75,7 @@ End of Solution
 """
         
 sorted_nums = [0,0,1,1,1,2,2,3,3,3,4,4]
+print(f"The given array is {sorted_nums}")
 
 solution = Solution()
 
@@ -83,3 +84,18 @@ num_of_unique_elements = solution.removeDuplicates(sorted_nums)
 txt = f"There are {num_of_unique_elements} unique elements.\nThe first {num_of_unique_elements} elements of the following array are unique: {sorted_nums}"
 
 print(txt)
+
+###############################
+# Input List
+nums = [0,1,1,2,3,3]
+print(f"\nThe given array is {nums}")
+
+# Create an instance of the Solution class
+solution = Solution()
+
+# Call the method and store the results
+uniquesValues = solution.removeDuplicates(nums)
+
+# Print the results
+print("The length of the array after removing duplicates: k =" , uniquesValues)
+print("The modified array: numsArray =", nums)
