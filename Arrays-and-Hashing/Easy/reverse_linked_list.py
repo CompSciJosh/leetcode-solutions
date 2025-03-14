@@ -141,8 +141,8 @@ def create_linked_list(arr):
 
 # Helper function to print a linked list
 def print_linked_list(head):
-    current = head
-    result = []
+    current = head # Assigns current to the first node of the linked list
+    result = [] # Creates an empty list to store the node values as a string
     while current:
         result.append(str(current.val))
         current = current.next
