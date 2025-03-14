@@ -137,6 +137,7 @@ def create_linked_list(arr):
         current.next = ListNode(val) # ListNode(val) creates a new node ... current.next links the new node to 'current.next'
         current = current.next # Moves current to this new node (to continue adding nodes)
     return head # After the loop, head still points to the first node of the linked list
+    # Returns head so that the linked list can be used elsewhere
 
 # Helper function to print a linked list
 def print_linked_list(head):
