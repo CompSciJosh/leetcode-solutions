@@ -100,3 +100,8 @@ test_cases = [
 for idx, test in enumerate(test_cases):
     result = solution(test)
     print(f"Test case {idx + 1}: {result}")
+
+"""
+Time Complexity: O(sum(T)), as we process exactly one hour for each hour of work required across all items. 
+Space Complexity: O(N), as we only store the queue of at most N items.
+"""
