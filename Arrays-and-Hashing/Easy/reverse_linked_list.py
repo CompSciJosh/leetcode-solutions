@@ -107,19 +107,24 @@ from typing import Optional
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, val = 0, next = None):
-        self.val = val
-        self.next = next
+        self.val = val # Stores the integer value of the node (default 0)
+        self.next = next # A reference (pointer) to the next node (default None)
+        # Example:
+        # node1 = ListNode(5)
+        # node2 = ListNode(7)
+        # node1.next = node2  ...Links node1 (5) to node2 (7)
 
 class Solution:
-    def reverse_list(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev, curr = None, head
+    # Means that a function parameter or return type can be either ListNode or None
+    def reverse_list(self, head: Optional[ListNode]) -> Optional[ListNode]: # function take head which is the first node of the linked list
+        prev, curr = None, head # prev is initialized to None/Null (it will be the new last node) ... curr is set to head
 
-        while curr:
-            temp = curr.next
-            curr.next = prev
-            prev = curr
-            curr = temp
-        return prev
+        while curr: # Loop continues until we reach the end (curr = None)
+            temp = curr.next # Stores next node (to avoid losing reference)
+            curr.next = prev # Reverses the pointer of the current node
+            prev = curr # Moves prev pointer forward
+            curr = temp # Moves curr pointer to the next node
+        return prev # prev will be the first node of the reversed list
 
 # Helper function to create a linked list from a list
 def create_linked_list(arr):
