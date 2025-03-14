@@ -128,14 +128,15 @@ class Solution:
 
 # Helper function to create a linked list from a list
 def create_linked_list(arr):
-    if not arr:
+    if not arr: # Checks if the list is empty, if empty return None (i.e. no linked list is created)
         return None
-    head = ListNode(arr[0])
-    current = head
-    for val in arr[1:]:
-        current.next = ListNode(val)
-        current = current.next
-    return head
+
+    head = ListNode(arr[0]) # Create the first node using the first value of arr
+    current = head # current points to head, which helps in adding new nodes later
+    for val in arr[1:]: # Loops through all elements after the first one
+        current.next = ListNode(val) # ListNode(val) creates a new node ... current.next links the new node to 'current.next'
+        current = current.next # Moves current to this new node (to continue adding nodes)
+    return head # After the loop, head still points to the first node of the linked list
 
 # Helper function to print a linked list
 def print_linked_list(head):
