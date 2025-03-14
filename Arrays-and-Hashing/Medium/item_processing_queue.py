@@ -1,10 +1,19 @@
 # Joshua Jackson
-# Problem: None
-# url: None
+# Similar Problem No. 1: "Task Scheduler" (#621)
+# Similar Problem No. 2: "Single-Threaded CPU" (#1834)
+# Similar Problem No. 3: "Design Circular Queue" (#622)
+# Similar Problem No. 4: "Design Circular Deque" (#641)
+# Similar Problem No. 5: "Number of Recent Calls" (#933)
 # Language: Python
 # Difficulty: Medium
 
 """
+This problem has elements of round-robin scheduling with varying time requirements.
+It combines queue processing with simulation, which makes it an interesting hybrid problem.
+
+Start with "Task Scheduler" (#621) and "Single-Threaded CPU" (#1834) as they involve the most similar concepts of
+processing items in a specific order with time tracking.
+
 Description:
 There are N clients who have ordered N handmade items.
 The K-th client ordered exactly one item that takes T[K] hours to make.
