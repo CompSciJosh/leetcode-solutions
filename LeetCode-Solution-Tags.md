@@ -1,0 +1,55 @@
+# **LeetCode Problem, Difficulty and Tag(s)**
+
+###### 1. **Two Sum**: _(Easy) Array, Hash Table_
+###### 13. **Roman to Integer**: _(Easy) Hash Table, Math, String_
+###### 20. **Valid Parenthesis**: _(Easy) String, Stack_
+###### 26. **Remove Duplicates From Sorted Array**: _(Easy) Array, Two Pointers_
+###### 27. **Remove Element**: _(Easy) Array, Two Pointers_
+###### 49. **Group Anagrams**: _(Medium) Array, Hash Table, String, Sorting_
+###### 155. **Min Stack**: _(Medium) Stack, Design_
+###### 242. **Valid Anagram**: _(Easy) Hash Table, String, Sorting_
+###### 347. **Top K Frequent Elements**: _(Medium) Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect_
+###### 873. **Length of Longest Fibonacci Subsequence**: _(Medium) Array, Hash Table, Dynamic Programming_
+###### 889. **Construct Binary Tree from Preorder and Postorder Traversal**: _(Medium) Array, Hash Table, Divide and Conquer, Tree, Binary Tree_
+###### 1028. **Recover a Tree From Preorder Traversal**: _(Hard) String, Tree, Depth-First Search, Binary Tree_
+###### 1079. **Letter Tile Possibilities**: _(Medium) Hash Table, String, Backtracking, Counting_
+###### 1092. **Shortest Common Supersequence**: _(Hard) String, Dynamic Programming_
+###### 1261. **Find Elements in a Contaminated Binary Tree**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree_
+###### 1352. **Product of the Last K Numbers**: _(Medium) Array, Math, Design, Data Stream, Prefix Sum_
+###### 1358. **Number of Substrings Containing All Three Characters**: _(Medium) Hash Table, String, Sliding Window_
+###### 1415. **The k-th Lexicographical String of All Happy Strings of Length n**: _(Medium) String, Backtracking_
+###### 1524. **Number of Sub-arrays With Odd Sum**: _(Medium) Array, Math, Dynamic Programming, Prefix Sum_
+###### 1718. **Construct the Lexicographically Largest Valid Sequence**: _(Medium) Array, Backtracking_
+###### 1726. **Tuple with Same Product**: _(Medium) Array, Hash Table, Counting_
+###### 1749. **Maximum Absolute Sum of Any Subarray**: _(Medium) Array, Dynamic Programming_
+###### 1752. **Check if Array Is Sorted and Rotated**: _(Easy) Array_
+###### 1780. **Check if Number is a Sum of Powers of Three**: _(Medium) Math_
+###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
+###### 1800. **Maximum Ascending Subarray Sum**: _(Easy) Array_
+###### 1910. **Remove All Occurrences of a Substring**: _(Medium) String, Stack, Simulation_
+###### 1929. **Concatenation of Array**: _(Easy) Array, Simulation_
+###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
+###### 2161. **Partition Array According to Given Pivot**: _(Medium) Array, Two Pointers, Simulation_
+###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
+###### 2342. **Max Sum of a Pair With Equal Sum of Digits**: _(Medium) Array, Hash Table, Sorting, Heap (Priority Queue)_
+###### 2349. **Design a Number Container System**: _(Medium) Hash Table, Design, Heap (Priority Queue), Ordered Set_
+###### 2364. **Count Number of Bad Pairs**: _(Medium) Array, Hash Table, Math, Counting_
+###### 2375. **Construct Smallest Number From DI String**: _(Medium) String, Backtracking, Stack, Greedy_
+###### 2379. **Minimum Recolors to Get K Consecutive Black Blocks**: _(Easy) String, Sliding Window_
+###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
+###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
+###### 2523. **Closest Prime Numbers in Range**: _(Medium) Math, Number Theory_
+###### 2529. **Maximum Count of Positive Integer and Negative Integer**: _(Easy) Array, Binary Search, Counting_
+###### 2560. **House Robber IV**: _(Medium) Array, Binary Search Tree_
+###### 2570. **Merge Two 2D Arrays by Summing Values**: _(Easy) Array, Hash Table, Two Pointers_
+###### 2579. **Count Total Number of Colored Cells**: _(Medium) Math_
+###### 2698. **Find the Punishment Number of an Integer**: _(Medium) Math, Backtracking_
+###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
+###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
+###### 3105. **Longest Strictly Increasing or Strictly Decreasing Subarray**: _(Easy) Array_
+###### 3151. **Special Array I**: _(Easy) Array_
+###### 3160. **Find the Number of Distinct Colors Among the Balls**: _(Medium) Array, Hash Table, Simulation_
+###### 3174. **Clear Digits**: _(Easy) String, Stack, Simulation_
+###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
+###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
+###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
