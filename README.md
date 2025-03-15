@@ -57,7 +57,7 @@ output:<br> Enter passphrase for key '/Users/___________________/.ssh/id_xxxxxxx
 
 <hr>
 
-<p>If it appears that multiple changes were mistakenly grouped under the same commit in your GitHub repository, and you need to split these into separate commits under unique messages follow the steps sequentaily below.
+<p>If it appears that multiple changes were mistakenly grouped under the same commit in your GitHub repository, and you need to split these into separate commits under unique messages follow the steps sequentially below.
 E.g.: The current interactive rebase (git rebase -i HEAD~3) does not show all the files or commits you expect, suggesting that some changes might have been squashed or merged together in the history.</p>
 
 If there are multiple commits with the same commit message:<br>
@@ -130,13 +130,6 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.<br>
 <p align="center">
 <b>Solution:</b><br><br>
 <img src="pull-and-rebase-remote-changes.png" alt="GitHub Pull & Rebase" width="700">
-</p>
-<hr>
-<h1 align="center"> How To Prevent In The Future </h1>
-
-<p align="center">
-
-<img src="github-pull-and-fetch.png" alt="GitHub Pull & Fetch" width="700">
 </p>
 </body>
 </html>
