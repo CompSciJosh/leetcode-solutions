@@ -43,6 +43,7 @@
 ###### 2560. **House Robber IV**: _(Medium) Array, Binary Search Tree_
 ###### 2570. **Merge Two 2D Arrays by Summing Values**: _(Easy) Array, Hash Table, Two Pointers_
 ###### 2579. **Count Total Number of Colored Cells**: _(Medium) Math_
+###### 2594. **Minimum Time to Repair Cars**: _(Medium) Array, Binary Search_
 ###### 2698. **Find the Punishment Number of an Integer**: _(Medium) Math, Backtracking_
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
