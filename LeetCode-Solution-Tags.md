@@ -37,6 +37,7 @@
 ###### 2364. **Count Number of Bad Pairs**: _(Medium) Array, Hash Table, Math, Counting_
 ###### 2375. **Construct Smallest Number From DI String**: _(Medium) String, Backtracking, Stack, Greedy_
 ###### 2379. **Minimum Recolors to Get K Consecutive Black Blocks**: _(Easy) String, Sliding Window_
+###### 2401. **Longest Nice Subarray**: _(Medium) Array, Bit Manipulation, Sliding Window_
 ###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
 ###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
 ###### 2523. **Closest Prime Numbers in Range**: _(Medium) Math, Number Theory_
