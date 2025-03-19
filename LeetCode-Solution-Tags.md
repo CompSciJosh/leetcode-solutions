@@ -53,6 +53,7 @@
 ###### 3151. **Special Array I**: _(Easy) Array_
 ###### 3160. **Find the Number of Distinct Colors Among the Balls**: _(Medium) Array, Hash Table, Simulation_
 ###### 3174. **Clear Digits**: _(Easy) String, Stack, Simulation_
+###### 3191. **Minimum Operations to Make Binary Array Elements Equal to One I**: _(Medium) Array, Bit Manipulation, Queue, Sliding Window, Prefix Sum_
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
 ###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
 ###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
