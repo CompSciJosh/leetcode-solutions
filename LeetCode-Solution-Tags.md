@@ -50,6 +50,7 @@
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
 ###### 3105. **Longest Strictly Increasing or Strictly Decreasing Subarray**: _(Easy) Array_
+###### 3108. **Minimum Cost Walk in Weighted Graph**: _(Hard) Array, Bit Manipulation, Union Find, Graph_
 ###### 3151. **Special Array I**: _(Easy) Array_
 ###### 3160. **Find the Number of Distinct Colors Among the Balls**: _(Medium) Array, Hash Table, Simulation_
 ###### 3174. **Clear Digits**: _(Easy) String, Stack, Simulation_
