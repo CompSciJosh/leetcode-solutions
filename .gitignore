@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore PyCharm settings
+.idea/
+*.iml
