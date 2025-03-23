@@ -23,6 +23,7 @@
 ###### 1726. **Tuple with Same Product**: _(Medium) Array, Hash Table, Counting_
 ###### 1749. **Maximum Absolute Sum of Any Subarray**: _(Medium) Array, Dynamic Programming_
 ###### 1752. **Check if Array Is Sorted and Rotated**: _(Easy) Array_
+###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
 ###### 1780. **Check if Number is a Sum of Powers of Three**: _(Medium) Math_
 ###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
 ###### 1800. **Maximum Ascending Subarray Sum**: _(Easy) Array_
