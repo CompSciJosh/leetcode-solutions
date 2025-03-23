@@ -23,12 +23,12 @@
 ###### 1726. **Tuple with Same Product**: _(Medium) Array, Hash Table, Counting_
 ###### 1749. **Maximum Absolute Sum of Any Subarray**: _(Medium) Array, Dynamic Programming_
 ###### 1752. **Check if Array Is Sorted and Rotated**: _(Easy) Array_
-###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
 ###### 1780. **Check if Number is a Sum of Powers of Three**: _(Medium) Math_
 ###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
 ###### 1800. **Maximum Ascending Subarray Sum**: _(Easy) Array_
 ###### 1910. **Remove All Occurrences of a Substring**: _(Medium) String, Stack, Simulation_
 ###### 1929. **Concatenation of Array**: _(Easy) Array, Simulation_
+###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
 ###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
 ###### 2115. **Find All Possible Recipes from Given Supplies**: _(Medium) Array, Hash Table, String, Graph, Topological Sort_
 ###### 2161. **Partition Array According to Given Pivot**: _(Medium) Array, Two Pointers, Simulation_
