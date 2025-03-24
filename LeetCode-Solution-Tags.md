@@ -56,6 +56,7 @@
 ###### 3108. **Minimum Cost Walk in Weighted Graph**: _(Hard) Array, Bit Manipulation, Union Find, Graph_
 ###### 3151. **Special Array I**: _(Easy) Array_
 ###### 3160. **Find the Number of Distinct Colors Among the Balls**: _(Medium) Array, Hash Table, Simulation_
+###### 3169. **Count Days Without Meetings**: _(Medium) Array, Sorting_
 ###### 3174. **Clear Digits**: _(Easy) String, Stack, Simulation_
 ###### 3191. **Minimum Operations to Make Binary Array Elements Equal to One I**: _(Medium) Array, Bit Manipulation, Queue, Sliding Window, Prefix Sum_
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
