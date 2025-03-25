@@ -62,3 +62,4 @@
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
 ###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
 ###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
+###### 3394. **Check if Grid can be Cut into Sections**: _(Medium) Array, Sorting_
