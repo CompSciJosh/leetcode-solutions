@@ -50,6 +50,7 @@
 ###### 2594. **Minimum Time to Repair Cars**: _(Medium) Array, Binary Search_
 ###### 2685. **Count the Number of Complete Components**: _(Medium) Depth-First Search, Breadth-First Search, Union Find, Graph_
 ###### 2698. **Find the Punishment Number of an Integer**: _(Medium) Math, Backtracking_
+###### 2780. **Minimum Index of a Valid Split**: _(Medium) Array, Hash Table, Sorting_
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
 ###### 3105. **Longest Strictly Increasing or Strictly Decreasing Subarray**: _(Easy) Array_
