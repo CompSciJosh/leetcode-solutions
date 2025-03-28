@@ -42,6 +42,7 @@
 ###### 2401. **Longest Nice Subarray**: _(Medium) Array, Bit Manipulation, Sliding Window_
 ###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
 ###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
+###### 2503. **Maximum Number of Points From Grid Queries**: _(Hard) Array, Two Pointers, Breadth-First Search, Union Find, Sorting, Heap (Priority Queue), Matrix_
 ###### 2523. **Closest Prime Numbers in Range**: _(Medium) Math, Number Theory_
 ###### 2529. **Maximum Count of Positive Integer and Negative Integer**: _(Easy) Array, Binary Search, Counting_
 ###### 2560. **House Robber IV**: _(Medium) Array, Binary Search Tree_
