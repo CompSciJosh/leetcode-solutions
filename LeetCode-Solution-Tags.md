@@ -9,6 +9,7 @@
 ###### 155. **Min Stack**: _(Medium) Stack, Design_
 ###### 242. **Valid Anagram**: _(Easy) Hash Table, String, Sorting_
 ###### 347. **Top K Frequent Elements**: _(Medium) Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect_
+###### 763. **Partition Labels**: _(Medium) Hash Table, Two Pointers, String, Greedy_
 ###### 873. **Length of Longest Fibonacci Subsequence**: _(Medium) Array, Hash Table, Dynamic Programming_
 ###### 889. **Construct Binary Tree from Preorder and Postorder Traversal**: _(Medium) Array, Hash Table, Divide and Conquer, Tree, Binary Tree_
 ###### 1028. **Recover a Tree From Preorder Traversal**: _(Hard) String, Tree, Depth-First Search, Binary Tree_
