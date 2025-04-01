@@ -32,6 +32,7 @@
 ###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
 ###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
 ###### 2115. **Find All Possible Recipes from Given Supplies**: _(Medium) Array, Hash Table, String, Graph, Topological Sort_
+###### 2140. **Solving Questions With Brainpower**: _(Medium) Array, Dynamic Programming_
 ###### 2161. **Partition Array According to Given Pivot**: _(Medium) Array, Two Pointers, Simulation_
 ###### 2206. **Divide Array Into Equal Pairs**: _(Easy) Array, Hash Table, Bit Manipulation, Counting_
 ###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
