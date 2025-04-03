@@ -57,6 +57,7 @@
 ###### 2780. **Minimum Index of a Valid Split**: _(Medium) Array, Hash Table, Sorting_
 ###### 2818. **Apply Operations to Maximize Score**: _(Hard) Array, Math, Stack, Greedy, Sorting, Monotonic Stack, Number Theory_
 ###### 2873. **Maximum Value of an Ordered Triplet I**: _(Easy) Array_
+###### 2874. **Maximum Value of an Ordered Triplet II**: _(Medium) Array_
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
 ###### 3105. **Longest Strictly Increasing or Strictly Decreasing Subarray**: _(Easy) Array_
