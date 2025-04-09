@@ -74,5 +74,6 @@
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
 ###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
 ###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
+###### 3375. **Minimum Operations to Make Array Values Equal to K** : _(Easy) Array, Hash Table_
 ###### 3394. **Check if Grid can be Cut into Sections**: _(Medium) Array, Sorting_
 ###### 3396. **Minimum Number of Operations to Make Elements in Array Distinct**: _(Easy) Array, Hash Table_
