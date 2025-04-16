@@ -54,6 +54,7 @@
 ###### 2503. **Maximum Number of Points From Grid Queries**: _(Hard) Array, Two Pointers, Breadth-First Search, Union Find, Sorting, Heap (Priority Queue), Matrix_
 ###### 2523. **Closest Prime Numbers in Range**: _(Medium) Math, Number Theory_
 ###### 2529. **Maximum Count of Positive Integer and Negative Integer**: _(Easy) Array, Binary Search, Counting_
+###### 2537. **Count the Number of Good Subarrays**: _(Medium) Array, Hash Table, Sliding Window_
 ###### 2551. **Put Marbles in Bags**: _(Hard) Array, Greedy, Sorting, Heap (Priority Queue)_
 ###### 2560. **House Robber IV**: _(Medium) Array, Binary Search Tree_
 ###### 2570. **Merge Two 2D Arrays by Summing Values**: _(Easy) Array, Hash Table, Two Pointers_
