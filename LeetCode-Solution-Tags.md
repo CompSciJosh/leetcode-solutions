@@ -39,6 +39,7 @@
 ###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
 ###### 2115. **Find All Possible Recipes from Given Supplies**: _(Medium) Array, Hash Table, String, Graph, Topological Sort_
 ###### 2140. **Solving Questions With Brainpower**: _(Medium) Array, Dynamic Programming_
+###### 2176. **Count Equal and Divisible Pairs in an Array**: _(Easy) Array_
 ###### 2179. **Count Good Triplets in an Array**: _(Hard) Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set_
 ###### 2161. **Partition Array According to Given Pivot**: _(Medium) Array, Two Pointers, Simulation_
 ###### 2206. **Divide Array Into Equal Pairs**: _(Easy) Array, Hash Table, Bit Manipulation, Counting_
