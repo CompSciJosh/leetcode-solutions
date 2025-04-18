@@ -5,6 +5,7 @@
 ###### 20. **Valid Parenthesis**: _(Easy) String, Stack_
 ###### 26. **Remove Duplicates From Sorted Array**: _(Easy) Array, Two Pointers_
 ###### 27. **Remove Element**: _(Easy) Array, Two Pointers_
+###### 38. **Count and Say**: _(Medium) String_
 ###### 49. **Group Anagrams**: _(Medium) Array, Hash Table, String, Sorting_
 ###### 155. **Min Stack**: _(Medium) Stack, Design_
 ###### 242. **Valid Anagram**: _(Easy) Hash Table, String, Sorting_
