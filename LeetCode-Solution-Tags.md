@@ -13,6 +13,7 @@
 ###### 368. **Largest Divisible Subset**: _(Medium) Array, Math, Dynamic Programming, Sorting_
 ###### 416. **Partition Equal Subset Sum**: _(Medium) Array, Dynamic Programming_
 ###### 763. **Partition Labels**: _(Medium) Hash Table, Two Pointers, String, Greedy_
+###### 781. **Rabbits in Forest**: _(Medium) Array, Hash Table, Math, Greedy_
 ###### 873. **Length of Longest Fibonacci Subsequence**: _(Medium) Array, Hash Table, Dynamic Programming_
 ###### 889. **Construct Binary Tree from Preorder and Postorder Traversal**: _(Medium) Array, Hash Table, Divide and Conquer, Tree, Binary Tree_
 ###### 1028. **Recover a Tree From Preorder Traversal**: _(Hard) String, Tree, Depth-First Search, Binary Tree_
