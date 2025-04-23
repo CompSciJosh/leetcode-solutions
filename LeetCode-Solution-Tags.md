@@ -23,6 +23,7 @@
 ###### 1261. **Find Elements in a Contaminated Binary Tree**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree_
 ###### 1352. **Product of the Last K Numbers**: _(Medium) Array, Math, Design, Data Stream, Prefix Sum_
 ###### 1358. **Number of Substrings Containing All Three Characters**: _(Medium) Hash Table, String, Sliding Window_
+###### 1399. **Count Largest Group**: _(Easy) Hash Table, Math_
 ###### 1415. **The k-th Lexicographical String of All Happy Strings of Length n**: _(Medium) String, Backtracking_
 ###### 1524. **Number of Sub-arrays With Odd Sum**: _(Medium) Array, Math, Dynamic Programming, Prefix Sum_
 ###### 1534. **Count Good Triplets**: _(Easy) Array, Enumeration_
