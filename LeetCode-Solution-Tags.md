@@ -73,6 +73,7 @@
 ###### 2799. **Count Complete Subarrays in an Array**: _(Medium) Array, Hash Table, Sliding Window_
 ###### 2818. **Apply Operations to Maximize Score**: _(Hard) Array, Math, Stack, Greedy, Sorting, Monotonic Stack, Number Theory_
 ###### 2843. **Count Symmetric Integers**: _(Easy) Math, Enumeration_
+###### 2845. **Count of Interesting Subarrays**: _(Medium) Array, Hash Table, Prefix Sum_
 ###### 2873. **Maximum Value of an Ordered Triplet I**: _(Easy) Array_
 ###### 2874. **Maximum Value of an Ordered Triplet II**: _(Medium) Array_
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
