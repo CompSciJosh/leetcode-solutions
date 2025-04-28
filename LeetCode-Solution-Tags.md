@@ -48,6 +48,7 @@
 ###### 2161. **Partition Array According to Given Pivot**: _(Medium) Array, Two Pointers, Simulation_
 ###### 2206. **Divide Array Into Equal Pairs**: _(Easy) Array, Hash Table, Bit Manipulation, Counting_
 ###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
+###### 2302. **Count Subarrays With Score Less Than K**: _(Hard) Array, Binary Search, Sliding Window, Prefix Sum_
 ###### 2338. **Count the Number of Ideal Arrays**: _(Hard) Math, Dynamic Programming, Combinatorics, Number Theory_
 ###### 2342. **Max Sum of a Pair With Equal Sum of Digits**: _(Medium) Array, Hash Table, Sorting, Heap (Priority Queue)_
 ###### 2349. **Design a Number Container System**: _(Medium) Hash Table, Design, Heap (Priority Queue), Ordered Set_
