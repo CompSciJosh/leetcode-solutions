@@ -100,6 +100,7 @@
 ###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
 ###### 3341. **Find Minimum Time to Reach Last Room I**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
 ###### 3342. **Find Minimum Time to Reach Last Room II**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
+###### 3343. **Count Number of Balanced Permutations**: _(Hard) Math, String. Dynamic Programming, Combinatorics_
 ###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
 ###### 3375. **Minimum Operations to Make Array Values Equal to K** : _(Easy) Array, Hash Table_
 ###### 3392. **Count Subarrays of Length Three With a Condition**: _(Easy) Array_
