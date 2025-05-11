@@ -31,6 +31,7 @@
 ###### 1415. **The k-th Lexicographical String of All Happy Strings of Length n**: _(Medium) String, Backtracking_
 ###### 1524. **Number of Sub-arrays With Odd Sum**: _(Medium) Array, Math, Dynamic Programming, Prefix Sum_
 ###### 1534. **Count Good Triplets**: _(Easy) Array, Enumeration_
+###### 1550. **Three Consecutive Odds**: _(Easy) Array_
 ###### 1718. **Construct the Lexicographically Largest Valid Sequence**: _(Medium) Array, Backtracking_
 ###### 1726. **Tuple with Same Product**: _(Medium) Array, Hash Table, Counting_
 ###### 1749. **Maximum Absolute Sum of Any Subarray**: _(Medium) Array, Dynamic Programming_
