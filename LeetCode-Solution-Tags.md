@@ -47,6 +47,7 @@
 ###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
 ###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
 ###### 2071. **Maximum Number of Tasks You Can Assign**: _(Hard) Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue_
+###### 2094. **Finding 3-Digit Even Numbers**: _(Easy) Array, Hash Table, Sorting, Enumeration_ 
 ###### 2115. **Find All Possible Recipes from Given Supplies**: _(Medium) Array, Hash Table, String, Graph, Topological Sort_
 ###### 2140. **Solving Questions With Brainpower**: _(Medium) Array, Dynamic Programming_
 ###### 2145. **Count the Hidden Sequences**: _(Medium) Array, Prefix Sum_  
