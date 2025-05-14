@@ -102,6 +102,7 @@
 ###### 3272. **Find the Count of Good Integers** : _(Hard) Hash Table, Math, Combinatorics, Enumeration_
 ###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
 ###### 3335. **Total Characters in String After Transformations I**: _(Medium) Hash Table, Math, String, Dynamic Programming, Counting_
+###### 3337. **Total Characters in String After Transformations II**: _(Hard) Hash Table, Math, String, Dynamic Programming, Counting_
 ###### 3341. **Find Minimum Time to Reach Last Room I**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
 ###### 3342. **Find Minimum Time to Reach Last Room II**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
 ###### 3343. **Count Number of Balanced Permutations**: _(Hard) Math, String. Dynamic Programming, Combinatorics_
