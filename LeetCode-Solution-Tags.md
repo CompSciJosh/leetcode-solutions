@@ -86,6 +86,7 @@
 ###### 2845. **Count of Interesting Subarrays**: _(Medium) Array, Hash Table, Prefix Sum_
 ###### 2873. **Maximum Value of an Ordered Triplet I**: _(Easy) Array_
 ###### 2874. **Maximum Value of an Ordered Triplet II**: _(Medium) Array_
+###### 2900. **Longest Unequal Adjacent Groups Subsequence I**: _(Easy) Array, String, Dynamic Programming, Greedy_
 ###### 2918. **Minimum Equal Sum of Two Arrays After Replacing Zeros**: _(Medium) Array, Greedy_
 ###### 2962. **Count Subarrays Where Max Element Appears at Least K Times**: _(Medium) Array, Sliding Window_
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
