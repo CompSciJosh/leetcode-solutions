@@ -8,6 +8,7 @@
 ###### 38. **Count and Say**: _(Medium) String_
 ###### 49. **Group Anagrams**: _(Medium) Array, Hash Table, String, Sorting_
 ###### 75. **Sort Colors**: _(Medium) Array, Two Pointers, Sorting_
+###### 146. **LRU Cache**: _(Medium) Hash Table, Linked List, Design, Doubly-Linked List_
 ###### 155. **Min Stack**: _(Medium) Stack, Design_
 ###### 242. **Valid Anagram**: _(Easy) Hash Table, String, Sorting_
 ###### 347. **Top K Frequent Elements**: _(Medium) Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect_
