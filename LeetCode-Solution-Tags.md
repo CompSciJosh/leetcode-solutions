@@ -7,6 +7,7 @@
 ###### 27. **Remove Element**: _(Easy) Array, Two Pointers_
 ###### 38. **Count and Say**: _(Medium) String_
 ###### 49. **Group Anagrams**: _(Medium) Array, Hash Table, String, Sorting_
+###### 73. **Set Matrix Zeroes**: _(Medium) Array, Hash Table, Matrix_
 ###### 75. **Sort Colors**: _(Medium) Array, Two Pointers, Sorting_
 ###### 146. **LRU Cache**: _(Medium) Hash Table, Linked List, Design, Doubly-Linked List_
 ###### 155. **Min Stack**: _(Medium) Stack, Design_
