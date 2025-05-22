@@ -116,6 +116,7 @@
 ###### 3343. **Count Number of Balanced Permutations**: _(Hard) Math, String. Dynamic Programming, Combinatorics_
 ###### 3355. **Zero Array Transformation I**: _(Medium) Array, Prefix Sum_
 ###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
+###### 3362. **Zero Array Transformation III**: _(Medium) Array, Greedy, Sorting, Heap (Priority Queue), Prefix Sum_
 ###### 3375. **Minimum Operations to Make Array Values Equal to K** : _(Easy) Array, Hash Table_
 ###### 3392. **Count Subarrays of Length Three With a Condition**: _(Easy) Array_
 ###### 3394. **Check if Grid can be Cut into Sections**: _(Medium) Array, Sorting_
