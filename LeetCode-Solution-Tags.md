@@ -99,6 +99,7 @@
 ###### 2999. **Count the Number of Powerful Integers**: _(Hard) Math, String, Dynamic Programming_
 ###### 3024. **Type of Triangle**: _(Easy) Array, Math, Sorting_
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
+###### 3068. **Find the Maximum Sum of Node Values**: _(Hard) Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting_
 ###### 3105. **Longest Strictly Increasing or Strictly Decreasing Subarray**: _(Easy) Array_
 ###### 3108. **Minimum Cost Walk in Weighted Graph**: _(Hard) Array, Bit Manipulation, Union Find, Graph_
 ###### 3151. **Special Array I**: _(Easy) Array_
