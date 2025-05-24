@@ -94,6 +94,7 @@
 ###### 2900. **Longest Unequal Adjacent Groups Subsequence I**: _(Easy) Array, String, Dynamic Programming, Greedy_
 ###### 2901. **Longest Unequal Adjacent Groups Subsequence II**: _(Medium) Array, String, Dynamic Programming_
 ###### 2918. **Minimum Equal Sum of Two Arrays After Replacing Zeros**: _(Medium) Array, Greedy_
+###### 2942. **Find Words Containing Character**: _(Easy) Array, String_      
 ###### 2962. **Count Subarrays Where Max Element Appears at Least K Times**: _(Medium) Array, Sliding Window_
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
 ###### 2999. **Count the Number of Powerful Integers**: _(Hard) Math, String, Dynamic Programming_
