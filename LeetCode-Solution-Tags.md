@@ -54,6 +54,7 @@
 ###### 2071. **Maximum Number of Tasks You Can Assign**: _(Hard) Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue_
 ###### 2094. **Finding 3-Digit Even Numbers**: _(Easy) Array, Hash Table, Sorting, Enumeration_ 
 ###### 2115. **Find All Possible Recipes from Given Supplies**: _(Medium) Array, Hash Table, String, Graph, Topological Sort_
+###### 2131. **Longest Palindrome by Concatenating Two Letter Words**: _(Medium) Array, Hash Table, String, Greedy, Counting_
 ###### 2140. **Solving Questions With Brainpower**: _(Medium) Array, Dynamic Programming_
 ###### 2145. **Count the Hidden Sequences**: _(Medium) Array, Prefix Sum_  
 ###### 2176. **Count Equal and Divisible Pairs in an Array**: _(Easy) Array_
