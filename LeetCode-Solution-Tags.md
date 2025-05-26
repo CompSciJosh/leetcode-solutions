@@ -43,6 +43,7 @@
 ###### 1780. **Check if Number is a Sum of Powers of Three**: _(Medium) Math_
 ###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
 ###### 1800. **Maximum Ascending Subarray Sum**: _(Easy) Array_
+###### 1857. **Largest Color Value in a Directed Graph**: _(Hard) Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting_
 ###### 1863. **Sum of All Subset XOR Totals**: _(Easy) Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration_
 ###### 1910. **Remove All Occurrences of a Substring**: _(Medium) String, Stack, Simulation_
 ###### 1920. **Build Array from Permutation**: _(Easy) Array, Simulation_
