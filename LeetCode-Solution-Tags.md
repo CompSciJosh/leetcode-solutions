@@ -123,6 +123,7 @@
 ###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
 ###### 3362. **Zero Array Transformation III**: _(Medium) Array, Greedy, Sorting, Heap (Priority Queue), Prefix Sum_
 ###### 3372. **Maximize the Number of Target Nodes After Connecting Trees I**: _(Medium) Tree, Depth-First Search, Breadth-First Search_
+###### 3373. **Maximize the Number of Target Nodes After Connecting Trees II**: _(Hard) Tree, Depth-First Search, Breadth-First Search_
 ###### 3375. **Minimum Operations to Make Array Values Equal to K** : _(Easy) Array, Hash Table_
 ###### 3392. **Count Subarrays of Length Three With a Condition**: _(Easy) Array_
 ###### 3394. **Check if Grid can be Cut into Sections**: _(Medium) Array, Sorting_
