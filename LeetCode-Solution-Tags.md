@@ -67,6 +67,7 @@
 ###### 2338. **Count the Number of Ideal Arrays**: _(Hard) Math, Dynamic Programming, Combinatorics, Number Theory_
 ###### 2342. **Max Sum of a Pair With Equal Sum of Digits**: _(Medium) Array, Hash Table, Sorting, Heap (Priority Queue)_
 ###### 2349. **Design a Number Container System**: _(Medium) Hash Table, Design, Heap (Priority Queue), Ordered Set_
+###### 2359. **Find Closest Node to Given Two Nodes**: _(Medium) Depth-First Search, Graph_
 ###### 2364. **Count Number of Bad Pairs**: _(Medium) Array, Hash Table, Math, Counting_
 ###### 2375. **Construct Smallest Number From DI String**: _(Medium) String, Backtracking, Stack, Greedy_
 ###### 2379. **Minimum Recolors to Get K Consecutive Black Blocks**: _(Easy) String, Sliding Window_
