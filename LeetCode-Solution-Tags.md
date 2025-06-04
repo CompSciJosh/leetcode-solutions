@@ -133,3 +133,4 @@
 ###### 3392. **Count Subarrays of Length Three With a Condition**: _(Easy) Array_
 ###### 3394. **Check if Grid can be Cut into Sections**: _(Medium) Array, Sorting_
 ###### 3396. **Minimum Number of Operations to Make Elements in Array Distinct**: _(Easy) Array, Hash Table_
+###### 3403. **Find the Lexicographically Largest String From the Box I**: _(Medium) Two Pointers, String, Enumeration_
