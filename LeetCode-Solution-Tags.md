@@ -25,6 +25,7 @@
 ###### 909. **Snakes and Ladders**: _(Medium) Array, Breadth-First Search, Matrix_
 ###### 1007. **Minimum Domino Rotations For Equal Row**: _(Medium) Array, Greedy_
 ###### 1028. **Recover a Tree From Preorder Traversal**: _(Hard) String, Tree, Depth-First Search, Binary Tree_
+###### 1061. **Lexicographically Smallest Equivalent String**: _(Medium) String, Union Find_
 ###### 1079. **Letter Tile Possibilities**: _(Medium) Hash Table, String, Backtracking, Counting_
 ###### 1092. **Shortest Common Supersequence**: _(Hard) String, Dynamic Programming_
 ###### 1123. **Lowest Common Ancestor of Deepest Leaves**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree_
