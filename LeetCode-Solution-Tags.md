@@ -76,6 +76,7 @@
 ###### 2375. **Construct Smallest Number From DI String**: _(Medium) String, Backtracking, Stack, Greedy_
 ###### 2379. **Minimum Recolors to Get K Consecutive Black Blocks**: _(Easy) String, Sliding Window_
 ###### 2401. **Longest Nice Subarray**: _(Medium) Array, Bit Manipulation, Sliding Window_
+###### 2434. **Using a Robot to Print the Lexicographically Smallest String**: _(Medium) Hash Table, String, Stack, Greedy_
 ###### 2444. **Count Subarrays With Fixed Bounds**: _(Hard) Array, Queue, Sliding Window, Monotonic Queue_
 ###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
 ###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
