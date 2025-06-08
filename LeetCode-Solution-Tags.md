@@ -15,6 +15,7 @@
 ###### 242. **Valid Anagram**: _(Easy) Hash Table, String, Sorting_
 ###### 347. **Top K Frequent Elements**: _(Medium) Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect_
 ###### 368. **Largest Divisible Subset**: _(Medium) Array, Math, Dynamic Programming, Sorting_
+###### 386. **Lexicographical Numbers**: _(Medium) Depth-First Search, Trie_
 ###### 416. **Partition Equal Subset Sum**: _(Medium) Array, Dynamic Programming_
 ###### 763. **Partition Labels**: _(Medium) Hash Table, Two Pointers, String, Greedy_
 ###### 781. **Rabbits in Forest**: _(Medium) Array, Hash Table, Math, Greedy_
