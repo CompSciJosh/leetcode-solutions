@@ -17,6 +17,7 @@
 ###### 368. **Largest Divisible Subset**: _(Medium) Array, Math, Dynamic Programming, Sorting_
 ###### 386. **Lexicographical Numbers**: _(Medium) Depth-First Search, Trie_
 ###### 416. **Partition Equal Subset Sum**: _(Medium) Array, Dynamic Programming_
+###### 440. **K-th Smallest in Lexicographical Order**: _(Hard) Trie_
 ###### 763. **Partition Labels**: _(Medium) Hash Table, Two Pointers, String, Greedy_
 ###### 781. **Rabbits in Forest**: _(Medium) Array, Hash Table, Math, Greedy_
 ###### 790. **Domino and Tromino Tiling**: _(Medium) Dynamic Programming_
