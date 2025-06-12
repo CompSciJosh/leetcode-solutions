@@ -139,5 +139,6 @@
 ###### 3394. **Check if Grid can be Cut into Sections**: _(Medium) Array, Sorting_
 ###### 3396. **Minimum Number of Operations to Make Elements in Array Distinct**: _(Easy) Array, Hash Table_
 ###### 3403. **Find the Lexicographically Largest String From the Box I**: _(Medium) Two Pointers, String, Enumeration_
+###### 3423. **Maximum Difference Between Adjacent Elements in a Circular Array**: _(Easy) Array_
 ###### 3442. **Maximum Difference Between Even and Odd Frequency I**: _(Easy) Hash Table, String, Counting_
 ###### 3445. **Maximum Difference Between Even and Odd Frequency II**: _(Hard) String, Sliding Window, Enumeration, Prefix Sum_
