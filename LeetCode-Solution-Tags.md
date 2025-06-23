@@ -61,6 +61,7 @@
 ###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
 ###### 2016. **Maximum Difference Between Increasing Elements**: _(Easy) Array_
 ###### 2071. **Maximum Number of Tasks You Can Assign**: _(Hard) Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue_
+###### 2081. **Sum of k-Mirror Numbers**: _(Hard) Math, Enumeration_
 ###### 2094. **Finding 3-Digit Even Numbers**: _(Easy) Array, Hash Table, Sorting, Enumeration_ 
 ###### 2115. **Find All Possible Recipes from Given Supplies**: _(Medium) Array, Hash Table, String, Graph, Topological Sort_
 ###### 2131. **Longest Palindrome by Concatenating Two Letter Words**: _(Medium) Array, Hash Table, String, Greedy, Counting_
