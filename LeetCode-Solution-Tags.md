@@ -72,6 +72,7 @@
 ###### 2179. **Count Good Triplets in an Array**: _(Hard) Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set_
 ###### 2161. **Partition Array According to Given Pivot**: _(Medium) Array, Two Pointers, Simulation_
 ###### 2206. **Divide Array Into Equal Pairs**: _(Easy) Array, Hash Table, Bit Manipulation, Counting_
+###### 2200. **Find All K-Distant Indices in an Array**: _(Easy) Array, Two Pointers_
 ###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
 ###### 2294. **Partition Array Such That Maximum Difference Is K**: _(Medium) Array, Greedy, Sorting_
 ###### 2302. **Count Subarrays With Score Less Than K**: _(Hard) Array, Binary Search, Sliding Window, Prefix Sum_
