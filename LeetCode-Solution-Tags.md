@@ -77,6 +77,7 @@
 ###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
 ###### 2294. **Partition Array Such That Maximum Difference Is K**: _(Medium) Array, Greedy, Sorting_
 ###### 2302. **Count Subarrays With Score Less Than K**: _(Hard) Array, Binary Search, Sliding Window, Prefix Sum_
+###### 2311. **Longest Binary Subsequence Less Than or Equal to K:** _(Medium) String, Dynamic Programming, Greedy, Memoization_
 ###### 2338. **Count the Number of Ideal Arrays**: _(Hard) Math, Dynamic Programming, Combinatorics, Number Theory_
 ###### 2342. **Max Sum of a Pair With Equal Sum of Digits**: _(Medium) Array, Hash Table, Sorting, Heap (Priority Queue)_
 ###### 2349. **Design a Number Container System**: _(Medium) Hash Table, Design, Heap (Priority Queue), Ordered Set_
