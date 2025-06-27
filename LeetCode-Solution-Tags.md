@@ -59,6 +59,7 @@
 ###### 1931. **Painting a Grid With Three Different Colors**: _(Hard) Dynamic Programming_
 ###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
 ###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
+###### 2014. **Longest Subsequence Repeated k Times**: _(Hard) String, Backtracking, Greedy, Counting, Enumeration_
 ###### 2016. **Maximum Difference Between Increasing Elements**: _(Easy) Array_
 ###### 2040. **Kth Smallest Product of Two Sorted Arrays**: _(Hard) Array, Binary Search_
 ###### 2071. **Maximum Number of Tasks You Can Assign**: _(Hard) Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue_
