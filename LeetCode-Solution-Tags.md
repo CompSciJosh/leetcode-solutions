@@ -139,6 +139,7 @@
 ###### 3191. **Minimum Operations to Make Binary Array Elements Equal to One I**: _(Medium) Array, Bit Manipulation, Queue, Sliding Window, Prefix Sum_
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
 ###### 3272. **Find the Count of Good Integers** : _(Hard) Hash Table, Math, Combinatorics, Enumeration_
+###### 3304. **Find the K-th Character in String Game I**: _(Easy) Math, Bit Manipulation, Recursion, Simulation_
 ###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
 ###### 3330. **Find the Original Typed String I**: _(Easy) String_
 ###### 3333. **Find the Original Typed String II**: _(Hard) String, Dynamic Programming, Prefix Sum_
