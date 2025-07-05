@@ -37,6 +37,7 @@
 ###### 1298. **Maximum Candies You Can Get from Boxes**: _(Hard) Array, Breadth-First Search, Graph_
 ###### 1352. **Product of the Last K Numbers**: _(Medium) Array, Math, Design, Data Stream, Prefix Sum_
 ###### 1358. **Number of Substrings Containing All Three Characters**: _(Medium) Hash Table, String, Sliding Window_
+###### 1394. **Find Lucky Integer in an Array**: _(Easy) Array, Hash Table, Counting_
 ###### 1399. **Count Largest Group**: _(Easy) Hash Table, Math_
 ###### 1415. **The k-th Lexicographical String of All Happy Strings of Length n**: _(Medium) String, Backtracking_
 ###### 1422. **Maximum Score After Splitting a String**: _(Easy) String, Prefix Sum_
