@@ -55,6 +55,7 @@
 ###### 1800. **Maximum Ascending Subarray Sum**: _(Easy) Array_
 ###### 1857. **Largest Color Value in a Directed Graph**: _(Hard) Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting_
 ###### 1863. **Sum of All Subset XOR Totals**: _(Easy) Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration_
+###### 1865. **Finding Pairs With a Certain Sum**: _(Medium) Array, Hash Table, Design_
 ###### 1910. **Remove All Occurrences of a Substring**: _(Medium) String, Stack, Simulation_
 ###### 1920. **Build Array from Permutation**: _(Easy) Array, Simulation_
 ###### 1922. **Count Good Numbers**: _(Medium) Math, Recursion_
