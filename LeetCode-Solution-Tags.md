@@ -36,6 +36,7 @@
 ###### 1295. **Find Numbers with Even Number of Digits**: _(Easy) Array, Math_
 ###### 1298. **Maximum Candies You Can Get from Boxes**: _(Hard) Array, Breadth-First Search, Graph_
 ###### 1352. **Product of the Last K Numbers**: _(Medium) Array, Math, Design, Data Stream, Prefix Sum_
+###### 1353. **Maximum Number of Events That Can Be Attended**: _(Medium) Array, Greedy, Sorting, Heap (Priority Queue)_
 ###### 1358. **Number of Substrings Containing All Three Characters**: _(Medium) Hash Table, String, Sliding Window_
 ###### 1394. **Find Lucky Integer in an Array**: _(Easy) Array, Hash Table, Counting_
 ###### 1399. **Count Largest Group**: _(Easy) Hash Table, Math_
