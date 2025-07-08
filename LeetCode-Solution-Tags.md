@@ -50,6 +50,7 @@
 ###### 1718. **Construct the Lexicographically Largest Valid Sequence**: _(Medium) Array, Backtracking_
 ###### 1726. **Tuple with Same Product**: _(Medium) Array, Hash Table, Counting_
 ###### 1749. **Maximum Absolute Sum of Any Subarray**: _(Medium) Array, Dynamic Programming_
+###### 1751. **Maximum Number of Events That Can Be Attended II**: _(Hard) Array, Binary Search, Dynamic Programming, Sorting_
 ###### 1752. **Check if Array Is Sorted and Rotated**: _(Easy) Array_
 ###### 1780. **Check if Number is a Sum of Powers of Three**: _(Medium) Math_
 ###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
