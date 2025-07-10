@@ -166,6 +166,7 @@
 ###### 3405. **Count the Number of Arrays with K Matching Adjacent Elements**: _(Hard) Math, Combinatorics_
 ###### 3423. **Maximum Difference Between Adjacent Elements in a Circular Array**: _(Easy) Array_
 ###### 3439. **Reschedule Meetings for Maximum Free Time I**: _(Medium) Array, Greedy, Sliding Window_
+###### 3440. **Reschedule Meetings for Maximum Free Time II**: _(Medium) Array, Greedy, Enumeration_
 ###### 3442. **Maximum Difference Between Even and Odd Frequency I**: _(Easy) Hash Table, String, Counting_
 ###### 3443. **Maximum Manhattan Distance After K Changes**: _(Medium) Hash Table, Math, String, Counting_
 ###### 3445. **Maximum Difference Between Even and Odd Frequency II**: _(Hard) String, Sliding Window, Enumeration, Prefix Sum_
