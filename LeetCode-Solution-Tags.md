@@ -96,6 +96,7 @@
 ###### 2379. **Minimum Recolors to Get K Consecutive Black Blocks**: _(Easy) String, Sliding Window_
 ###### 2401. **Longest Nice Subarray**: _(Medium) Array, Bit Manipulation, Sliding Window_
 ###### 2402. **Meeting Rooms III**: _(Hard) Array, Hash Table, Sorting, Heap (Priority Queue), Simulation_
+###### 2410. **Maximum Matching of Players With Trainers**: _(Medium) Array, Two Pointers, Greedy, Sorting_
 ###### 2434. **Using a Robot to Print the Lexicographically Smallest String**: _(Medium) Hash Table, String, Stack, Greedy_
 ###### 2444. **Count Subarrays With Fixed Bounds**: _(Hard) Array, Queue, Sliding Window, Monotonic Queue_
 ###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
