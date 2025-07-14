@@ -33,6 +33,7 @@
 ###### 1092. **Shortest Common Supersequence**: _(Hard) String, Dynamic Programming_
 ###### 1123. **Lowest Common Ancestor of Deepest Leaves**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree_
 ###### 1261. **Find Elements in a Contaminated Binary Tree**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree_
+###### 1290. **Convert Binary Number in a Linked List to Integer**: _(Easy) Linked List, Math_
 ###### 1295. **Find Numbers with Even Number of Digits**: _(Easy) Array, Math_
 ###### 1298. **Maximum Candies You Can Get from Boxes**: _(Hard) Array, Breadth-First Search, Graph_
 ###### 1352. **Product of the Last K Numbers**: _(Medium) Array, Math, Design, Data Stream, Prefix Sum_
