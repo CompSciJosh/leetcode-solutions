@@ -83,6 +83,7 @@
 ###### 2176. **Count Equal and Divisible Pairs in an Array**: _(Easy) Array_
 ###### 2179. **Count Good Triplets in an Array**: _(Hard) Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set_
 ###### 2161. **Partition Array According to Given Pivot**: _(Medium) Array, Two Pointers, Simulation_
+###### 2163. **Minimum Difference in Sums After Removal of Elements**: _(Hard) Array, Dynamic Programming, Heap (Priority Queue)_
 ###### 2206. **Divide Array Into Equal Pairs**: _(Easy) Array, Hash Table, Bit Manipulation, Counting_
 ###### 2200. **Find All K-Distant Indices in an Array**: _(Easy) Array, Two Pointers_
 ###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
