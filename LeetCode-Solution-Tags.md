@@ -184,3 +184,4 @@
 ###### 3442. **Maximum Difference Between Even and Odd Frequency I**: _(Easy) Hash Table, String, Counting_
 ###### 3443. **Maximum Manhattan Distance After K Changes**: _(Medium) Hash Table, Math, String, Counting_
 ###### 3445. **Maximum Difference Between Even and Odd Frequency II**: _(Hard) String, Sliding Window, Enumeration, Prefix Sum_
+###### 3487. **Maximum Unique Subarray Sum After Deletion**: _(Easy) Array, Hash Table, Greedy, Weekly Contest 441_
