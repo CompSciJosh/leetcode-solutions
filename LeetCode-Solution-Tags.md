@@ -90,6 +90,7 @@
 ###### 2163. **Minimum Difference in Sums After Removal of Elements**: _(Hard) Array, Dynamic Programming, Heap (Priority Queue)_
 ###### 2200. **Find All K-Distant Indices in an Array**: _(Easy) Array, Two Pointers_
 ###### 2206. **Divide Array Into Equal Pairs**: _(Easy) Array, Hash Table, Bit Manipulation, Counting_
+###### 2210. **Count Hills and Valleys in an Array**: _(Easy) Array, Weekly Contest 285_
 ###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
 ###### 2294. **Partition Array Such That Maximum Difference Is K**: _(Medium) Array, Greedy, Sorting_
 ###### 2302. **Count Subarrays With Score Less Than K**: _(Hard) Array, Binary Search, Sliding Window, Prefix Sum_
