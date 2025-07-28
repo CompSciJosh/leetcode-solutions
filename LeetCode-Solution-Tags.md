@@ -75,6 +75,7 @@
 ###### 2014. **Longest Subsequence Repeated k Times**: _(Hard) String, Backtracking, Greedy, Counting, Enumeration_
 ###### 2016. **Maximum Difference Between Increasing Elements**: _(Easy) Array_
 ###### 2040. **Kth Smallest Product of Two Sorted Arrays**: _(Hard) Array, Binary Search_
+###### 2044. **Count Number of Maximum Bitwise-OR Subsets**: _(Medium) Array, Backtracking, Bit Manipulation, Enumeration, Weekly Contest 263_
 ###### 2071. **Maximum Number of Tasks You Can Assign**: _(Hard) Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue_
 ###### 2081. **Sum of k-Mirror Numbers**: _(Hard) Math, Enumeration_
 ###### 2094. **Finding 3-Digit Even Numbers**: _(Easy) Array, Hash Table, Sorting, Enumeration_ 
