@@ -121,6 +121,7 @@
 ###### 2537. **Count the Number of Good Subarrays**: _(Medium) Array, Hash Table, Sliding Window_
 ###### 2551. **Put Marbles in Bags**: _(Hard) Array, Greedy, Sorting, Heap (Priority Queue)_
 ###### 2560. **House Robber IV**: _(Medium) Array, Binary Search Tree_
+###### 2561. **Rearranging Fruits**: _(Hard) Array, Hash Table, Greedy, Sort, Weekly Contest 331_
 ###### 2563. **Count the Number of Fair Pairs**: _(Medium) Array, Two Pointers, Binary Search, Sorting_
 ###### 2566. **Maximum Difference by Remapping a Digit**: _(Easy) Math, Greedy_
 ###### 2570. **Merge Two 2D Arrays by Summing Values**: _(Easy) Array, Hash Table, Two Pointers_
