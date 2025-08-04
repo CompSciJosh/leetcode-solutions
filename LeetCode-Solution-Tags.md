@@ -27,6 +27,7 @@
 ###### 873. **Length of Longest Fibonacci Subsequence**: _(Medium) Array, Hash Table, Dynamic Programming_
 ###### 889. **Construct Binary Tree from Preorder and Postorder Traversal**: _(Medium) Array, Hash Table, Divide and Conquer, Tree, Binary Tree_
 ###### 898. **Bitwise ORs of Subarrays**: _(Medium) Array, Dynamic Programming, Bit Manipulation, Weekly Contest 100_
+###### 904. **Fruit Into Baskets**: _(Medium) Array, Hash Table, Sliding Window, Weekly Contest 102_
 ###### 909. **Snakes and Ladders**: _(Medium) Array, Breadth-First Search, Matrix_
 ###### 1007. **Minimum Domino Rotations For Equal Row**: _(Medium) Array, Greedy_
 ###### 1028. **Recover a Tree From Preorder Traversal**: _(Hard) String, Tree, Depth-First Search, Binary Tree_
