@@ -194,5 +194,6 @@
 ###### 3443. **Maximum Manhattan Distance After K Changes**: _(Medium) Hash Table, Math, String, Counting_
 ###### 3445. **Maximum Difference Between Even and Odd Frequency II**: _(Hard) String, Sliding Window, Enumeration, Prefix Sum_
 ###### 3477. **Fruits Into Baskets II**: _(Easy) Array, Binary Search, Segment Tree, Simulation, Ordered Set, Weekly Contest 440_
+###### 3479. **Fruits Into Baskets III**: _(Medium) Array, Binary Search, Segment Tree, Ordered Set, Weekly Contest 440_
 ###### 3480. **Maximize Subarrays After Removing One Conflicting Pair**: _(Hard) Array, Segment Tree, Enumeration, Prefix Sum, Weekly Contest 440_
 ###### 3487. **Maximum Unique Subarray Sum After Deletion**: _(Easy) Array, Hash Table, Greedy, Weekly Contest 441_
