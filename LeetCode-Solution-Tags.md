@@ -26,6 +26,7 @@
 ###### 790. **Domino and Tromino Tiling**: _(Medium) Dynamic Programming_
 ###### 808. **Soup Servings**: _(Medium) Math, Dynamic Programming, Probability and Statistics, Weekly Contest 78_
 ###### 838. **Push Dominoes**: _(Medium) Two Pointers, String, Dynamic Programming_
+###### 869. **Reordered Power of 2**: _(Medium) Hash Table, Math, Sorting, Counting, Enumeration, Weekly Contest 93_
 ###### 873. **Length of Longest Fibonacci Subsequence**: _(Medium) Array, Hash Table, Dynamic Programming_
 ###### 889. **Construct Binary Tree from Preorder and Postorder Traversal**: _(Medium) Array, Hash Table, Divide and Conquer, Tree, Binary Tree_
 ###### 898. **Bitwise ORs of Subarrays**: _(Medium) Array, Dynamic Programming, Bit Manipulation, Weekly Contest 100_
