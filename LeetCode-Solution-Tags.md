@@ -117,6 +117,7 @@
 ###### 2411. **Smallest Subarrays With Maximum Bitwise OR**: _(Medium) Array, Binary Search, Bit Manipulation, Sliding Window, Biweekly Contest 87_
 ###### 2419. **Longest Subarray With Maximum Bitwise AND**: _(Medium) Array, Bit Manipulation, Brainteaser, Weekly Contest 312_
 ###### 2434. **Using a Robot to Print the Lexicographically Smallest String**: _(Medium) Hash Table, String, Stack, Greedy_
+###### 2438. **Range Product Queries of Powers**: _(Medium) Array, Bit Manipulation, Prefix Sum, Biweekly Contest 89_
 ###### 2444. **Count Subarrays With Fixed Bounds**: _(Hard) Array, Queue, Sliding Window, Monotonic Queue_
 ###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
 ###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
