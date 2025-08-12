@@ -137,6 +137,7 @@
 ###### 2685. **Count the Number of Complete Components**: _(Medium) Depth-First Search, Breadth-First Search, Union Find, Graph_
 ###### 2698. **Find the Punishment Number of an Integer**: _(Medium) Math, Backtracking_
 ###### 2780. **Minimum Index of a Valid Split**: _(Medium) Array, Hash Table, Sorting_
+###### 2787. **Ways to Express an Integer as Sum of Powers**: _(Medium) Dynamic Programming, Biweekly Contest 109_
 ###### 2799. **Count Complete Subarrays in an Array**: _(Medium) Array, Hash Table, Sliding Window_
 ###### 2818. **Apply Operations to Maximize Score**: _(Hard) Array, Math, Stack, Greedy, Sorting, Monotonic Stack, Number Theory_
 ###### 2843. **Count Symmetric Integers**: _(Easy) Math, Enumeration_
