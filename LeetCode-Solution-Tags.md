@@ -15,6 +15,7 @@
 ###### 155. **Min Stack**: _(Medium) Stack, Design_
 ###### 231. **Power of Two**: _(Easy) Math, Bit Manipulation, Recursion_
 ###### 242. **Valid Anagram**: _(Easy) Hash Table, String, Sorting_
+###### 326. **Power of Three**: _(Easy) Math, Recursion_
 ###### 347. **Top K Frequent Elements**: _(Medium) Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect_
 ###### 368. **Largest Divisible Subset**: _(Medium) Array, Math, Dynamic Programming, Sorting_
 ###### 386. **Lexicographical Numbers**: _(Medium) Depth-First Search, Trie_
