@@ -27,6 +27,7 @@
 ###### 781. **Rabbits in Forest**: _(Medium) Array, Hash Table, Math, Greedy_
 ###### 790. **Domino and Tromino Tiling**: _(Medium) Dynamic Programming_
 ###### 808. **Soup Servings**: _(Medium) Math, Dynamic Programming, Probability and Statistics, Weekly Contest 78_
+###### 837. **New 21 Game**: _(Medium) Math, Dynamic Programming, Sliding Window, Probability and Statistics, Weekly Contest 85_
 ###### 838. **Push Dominoes**: _(Medium) Two Pointers, String, Dynamic Programming_
 ###### 869. **Reordered Power of 2**: _(Medium) Hash Table, Math, Sorting, Counting, Enumeration, Weekly Contest 93_
 ###### 873. **Length of Longest Fibonacci Subsequence**: _(Medium) Array, Hash Table, Dynamic Programming_
