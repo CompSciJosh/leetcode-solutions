@@ -23,6 +23,7 @@
 ###### 416. **Partition Equal Subset Sum**: _(Medium) Array, Dynamic Programming_
 ###### 440. **K-th Smallest in Lexicographical Order**: _(Hard) Trie_
 ###### 594. **Longest Harmonious Subsequence**: _Array, Hash Table, Sliding Window, Sorting, Counting_
+###### 679. **24 Game**: _(Hard) Array, Math, Backtracking_
 ###### 763. **Partition Labels**: _(Medium) Hash Table, Two Pointers, String, Greedy_
 ###### 781. **Rabbits in Forest**: _(Medium) Array, Hash Table, Math, Greedy_
 ###### 790. **Domino and Tromino Tiling**: _(Medium) Dynamic Programming_
