@@ -58,6 +58,7 @@
 ###### 1422. **Maximum Score After Splitting a String**: _(Easy) String, Prefix Sum_
 ###### 1432. **Max Difference You Can Get From Changing an Integer**: _(Medium) Math, Greedy_
 ###### 1498. **Number of Subsequences That Satisfy the Given Sum Condition**: _(Medium) Array, Two Pointers, Binary Search, Sorting_
+###### 1504. **Count Submatrices With All Ones**: _(Medium) Array, Dynamic Programming, Stack, Matrix, Monotonic Stack, Weekly Contest 196_
 ###### 1524. **Number of Sub-arrays With Odd Sum**: _(Medium) Array, Math, Dynamic Programming, Prefix Sum_
 ###### 1534. **Count Good Triplets**: _(Easy) Array, Enumeration_
 ###### 1550. **Three Consecutive Odds**: _(Easy) Array_
