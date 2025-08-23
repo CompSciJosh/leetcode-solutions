@@ -177,6 +177,7 @@
 ###### 3174. **Clear Digits**: _(Easy) String, Stack, Simulation_
 ###### 3191. **Minimum Operations to Make Binary Array Elements Equal to One I**: _(Medium) Array, Bit Manipulation, Queue, Sliding Window, Prefix Sum_
 ###### 3195. **Find the Minimum Area to Cover All Ones I**: _(Medium) Array, Matrix, Weekly Contest 403_
+###### 3197. **Find the Minimum Area to Cover All Ones II**: _(Hard) Array, Matrix, Enumeration, Weekly Contest 403_
 ###### 3201. **Find the Maximum Length of Valid Subsequence I**: _(Medium) Array, Dynamic Programming_
 ###### 3202. **Find the Maximum Length of Valid Subsequence II**: _(Medium) Array, Dynamic Programming_
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
