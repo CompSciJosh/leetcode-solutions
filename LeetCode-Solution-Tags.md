@@ -57,6 +57,7 @@
 ###### 1415. **The k-th Lexicographical String of All Happy Strings of Length n**: _(Medium) String, Backtracking_
 ###### 1422. **Maximum Score After Splitting a String**: _(Easy) String, Prefix Sum_
 ###### 1432. **Max Difference You Can Get From Changing an Integer**: _(Medium) Math, Greedy_
+###### 1493. **Longest Subarray of 1's After Deleting One Element**: _(Medium) Array, Dynamic Programming, Sliding Window, Biweekly Contest 29_
 ###### 1498. **Number of Subsequences That Satisfy the Given Sum Condition**: _(Medium) Array, Two Pointers, Binary Search, Sorting_
 ###### 1504. **Count Submatrices With All Ones**: _(Medium) Array, Dynamic Programming, Stack, Matrix, Monotonic Stack, Weekly Contest 196_
 ###### 1524. **Number of Sub-arrays With Odd Sum**: _(Medium) Array, Math, Dynamic Programming, Prefix Sum_
