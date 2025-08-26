@@ -22,6 +22,7 @@
 ###### 386. **Lexicographical Numbers**: _(Medium) Depth-First Search, Trie_
 ###### 416. **Partition Equal Subset Sum**: _(Medium) Array, Dynamic Programming_
 ###### 440. **K-th Smallest in Lexicographical Order**: _(Hard) Trie_
+###### 498. **Diagonal Traverse**: _(Medium) Array, Matrix, Simulation_
 ###### 594. **Longest Harmonious Subsequence**: _Array, Hash Table, Sliding Window, Sorting, Counting_
 ###### 679. **24 Game**: _(Hard) Array, Math, Backtracking_
 ###### 763. **Partition Labels**: _(Medium) Hash Table, Two Pointers, String, Greedy_
