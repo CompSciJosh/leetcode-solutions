@@ -166,6 +166,7 @@
 ###### 2966. **Divide Array Into Arrays With Max Difference**: _(Medium) Array, Greedy, Sorting_
 ###### 2999. **Count the Number of Powerful Integers**: _(Hard) Math, String, Dynamic Programming_
 ###### 3000. **Maximum Area of Longest Diagonal Rectangle**: _(Easy) Array, Weekly Contest 379_
+###### 3021. **Alice and Bob Playing Flower Game**: _(Medium) Math, Weekly Contest 382_
 ###### 3024. **Type of Triangle**: _(Easy) Array, Math, Sorting_
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
 ###### 3068. **Find the Maximum Sum of Node Values**: _(Hard) Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting_
