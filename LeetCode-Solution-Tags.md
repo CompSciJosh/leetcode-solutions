@@ -5,6 +5,7 @@
 ###### 20. **Valid Parenthesis**: _(Easy) String, Stack_
 ###### 26. **Remove Duplicates From Sorted Array**: _(Easy) Array, Two Pointers_
 ###### 27. **Remove Element**: _(Easy) Array, Two Pointers_
+###### 36. **Valid Sudoku**: _(Medium) Array, Hash Table, Matrix_
 ###### 38. **Count and Say**: _(Medium) String_
 ###### 49. **Group Anagrams**: _(Medium) Array, Hash Table, String, Sorting_
 ###### 73. **Set Matrix Zeroes**: _(Medium) Array, Hash Table, Matrix_
