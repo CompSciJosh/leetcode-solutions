@@ -75,6 +75,7 @@
 ###### 1752. **Check if Array Is Sorted and Rotated**: _(Easy) Array_
 ###### 1780. **Check if Number is a Sum of Powers of Three**: _(Medium) Math_
 ###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
+###### 1792. **Maximum Average Pass Ratio**: _(Medium) Array, Greedy, Heap (Priority Queue), Weekly Contest 232_
 ###### 1800. **Maximum Ascending Subarray Sum**: _(Easy) Array_
 ###### 1857. **Largest Color Value in a Directed Graph**: _(Hard) Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting_
 ###### 1863. **Sum of All Subset XOR Totals**: _(Easy) Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration_
