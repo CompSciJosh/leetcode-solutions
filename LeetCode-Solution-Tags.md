@@ -171,6 +171,7 @@
 ###### 3000. **Maximum Area of Longest Diagonal Rectangle**: _(Easy) Array, Weekly Contest 379_
 ###### 3021. **Alice and Bob Playing Flower Game**: _(Medium) Math, Weekly Contest 382_
 ###### 3024. **Type of Triangle**: _(Easy) Array, Math, Sorting_
+###### 3025. **Find the Number of Ways to Place People I**: _(Medium) Array, Math, Geometry, Sorting, Enumeration, Biweekly Contest 123_
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
 ###### 3068. **Find the Maximum Sum of Node Values**: _(Hard) Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting_
 ###### 3085. **Minimum Deletions to Make String K-Special**: _(Medium) Hash Table, String, Greedy, Sorting, Counting_
