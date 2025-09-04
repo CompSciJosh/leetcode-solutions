@@ -225,3 +225,4 @@
 ###### 3479. **Fruits Into Baskets III**: _(Medium) Array, Binary Search, Segment Tree, Ordered Set, Weekly Contest 440_
 ###### 3480. **Maximize Subarrays After Removing One Conflicting Pair**: _(Hard) Array, Segment Tree, Enumeration, Prefix Sum, Weekly Contest 440_
 ###### 3487. **Maximum Unique Subarray Sum After Deletion**: _(Easy) Array, Hash Table, Greedy, Weekly Contest 441_
+###### 3516. **Find Closest Person**: _(Easy) Math, Weekly Contest 445_
