@@ -119,6 +119,7 @@
 ###### 2302. **Count Subarrays With Score Less Than K**: _(Hard) Array, Binary Search, Sliding Window, Prefix Sum_
 ###### 2311. **Longest Binary Subsequence Less Than or Equal to K:** _(Medium) String, Dynamic Programming, Greedy, Memoization_
 ###### 2322. **Minimum Score After Removals on a Tree**: _(Hard) Array, Bit Manipulation, Tree, Depth-First Search, Weekly Contest 299_
+###### 2327. **Number of People Aware of a Secret**: _(Medium) Dynamic Programming, Queue, Simulation, Weekly Contest 300_
 ###### 2338. **Count the Number of Ideal Arrays**: _(Hard) Math, Dynamic Programming, Combinatorics, Number Theory_
 ###### 2342. **Max Sum of a Pair With Equal Sum of Digits**: _(Medium) Array, Hash Table, Sorting, Heap (Priority Queue)_
 ###### 2348. **Number of Zero-Filled Subarrays**: _(Medium) Array, Math, Biweekly Contest 83_
