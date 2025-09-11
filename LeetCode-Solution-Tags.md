@@ -156,6 +156,7 @@
 ###### 2698. **Find the Punishment Number of an Integer**: _(Medium) Math, Backtracking_
 ###### 2749. **Minimum Operations to Make the Integer Zero**: _(Medium) Bit Manipulation, Brainteaser, Enumeration, Weekly Contest 351_
 ###### 2780. **Minimum Index of a Valid Split**: _(Medium) Array, Hash Table, Sorting_
+###### 2785. **Sort Vowels in a String**: _(Medium) String, Sorting, Biweekly Contest 109_
 ###### 2787. **Ways to Express an Integer as Sum of Powers**: _(Medium) Dynamic Programming, Biweekly Contest 109_
 ###### 2799. **Count Complete Subarrays in an Array**: _(Medium) Array, Hash Table, Sliding Window_
 ###### 2818. **Apply Operations to Maximize Score**: _(Hard) Array, Math, Stack, Greedy, Sorting, Monotonic Stack, Number Theory_
