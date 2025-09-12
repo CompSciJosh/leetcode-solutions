@@ -196,6 +196,7 @@
 ###### 3201. **Find the Maximum Length of Valid Subsequence I**: _(Medium) Array, Dynamic Programming_
 ###### 3202. **Find the Maximum Length of Valid Subsequence II**: _(Medium) Array, Dynamic Programming_
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
+###### 3227. **Vowels Game in a String**: _(Medium) Math, String, Brainteaser, Game Theory, Weekly Contest 407_
 ###### 3272. **Find the Count of Good Integers** : _(Hard) Hash Table, Math, Combinatorics, Enumeration_
 ###### 3304. **Find the K-th Character in String Game I**: _(Easy) Math, Bit Manipulation, Recursion, Simulation_
 ###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
