@@ -234,3 +234,4 @@
 ###### 3487. **Maximum Unique Subarray Sum After Deletion**: _(Easy) Array, Hash Table, Greedy, Weekly Contest 441_
 ###### 3495. **Minimum Operations to Make Array Elements Zero**: _(Hard) Array, Math, Bit Manipulation, Weekly Contest 44_
 ###### 3516. **Find Closest Person**: _(Easy) Math, Weekly Contest 445_
+###### 3541. **Find Most Frequent Vowel and Consonant**: _(Easy) Hash Table, String, Counting, Biweekly Contest 156_
