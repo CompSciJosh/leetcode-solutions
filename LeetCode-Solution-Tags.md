@@ -224,6 +224,7 @@
 ###### 3396. **Minimum Number of Operations to Make Elements in Array Distinct**: _(Easy) Array, Hash Table_
 ###### 3403. **Find the Lexicographically Largest String From the Box I**: _(Medium) Two Pointers, String, Enumeration_
 ###### 3405. **Count the Number of Arrays with K Matching Adjacent Elements**: _(Hard) Math, Combinatorics_
+###### 3408. **Design Task Manager**: _(Medium) Hash Table, Design, Heap (Priority Queue), Ordered Set, Biweekly Contest 147_
 ###### 3423. **Maximum Difference Between Adjacent Elements in a Circular Array**: _(Easy) Array_
 ###### 3439. **Reschedule Meetings for Maximum Free Time I**: _(Medium) Array, Greedy, Sliding Window_
 ###### 3440. **Reschedule Meetings for Maximum Free Time II**: _(Medium) Array, Greedy, Enumeration_
