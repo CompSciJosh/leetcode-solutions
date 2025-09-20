@@ -128,6 +128,7 @@
 ###### 2342. **Max Sum of a Pair With Equal Sum of Digits**: _(Medium) Array, Hash Table, Sorting, Heap (Priority Queue)_
 ###### 2348. **Number of Zero-Filled Subarrays**: _(Medium) Array, Math, Biweekly Contest 83_
 ###### 2349. **Design a Number Container System**: _(Medium) Hash Table, Design, Heap (Priority Queue), Ordered Set_
+###### 2353. **Design a Food Rating System**: _(Medium) Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set, Weekly Contest 303_
 ###### 2359. **Find Closest Node to Given Two Nodes**: _(Medium) Depth-First Search, Graph_
 ###### 2364. **Count Number of Bad Pairs**: _(Medium) Array, Hash Table, Math, Counting_
 ###### 2375. **Construct Smallest Number From DI String**: _(Medium) String, Backtracking, Stack, Greedy_
