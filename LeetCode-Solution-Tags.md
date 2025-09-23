@@ -86,6 +86,7 @@
 ###### 1865. **Finding Pairs With a Certain Sum**: _(Medium) Array, Hash Table, Design_
 ###### 1900. **The Earliest and Latest Rounds Where Players Compete**: _(Hard) Dynamic Programming, Memoization_
 ###### 1910. **Remove All Occurrences of a Substring**: _(Medium) String, Stack, Simulation_
+###### 1912. **Design Movie Rental System**: _(Hard) Array, Hash Table, Design, Heap (Priority Queue), Ordered Set, Biweekly Contest 55_
 ###### 1920. **Build Array from Permutation**: _(Easy) Array, Simulation_
 ###### 1922. **Count Good Numbers**: _(Medium) Math, Recursion_
 ###### 1929. **Concatenation of Array**: _(Easy) Array, Simulation_
