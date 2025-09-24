@@ -180,6 +180,7 @@
 ###### 2966. **Divide Array Into Arrays With Max Difference**: _(Medium) Array, Greedy, Sorting_
 ###### 2999. **Count the Number of Powerful Integers**: _(Hard) Math, String, Dynamic Programming_
 ###### 3000. **Maximum Area of Longest Diagonal Rectangle**: _(Easy) Array, Weekly Contest 379_
+###### 3005. **Count Elements With Maximum Frequency**: _(Easy) Array, Hash Table, Counting, Weekly Contest 380_ 
 ###### 3021. **Alice and Bob Playing Flower Game**: _(Medium) Math, Weekly Contest 382_
 ###### 3024. **Type of Triangle**: _(Easy) Array, Math, Sorting_
 ###### 3025. **Find the Number of Ways to Place People I**: _(Medium) Array, Math, Geometry, Sorting, Enumeration, Biweekly Contest 123_
