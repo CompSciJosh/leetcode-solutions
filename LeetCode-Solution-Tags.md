@@ -29,6 +29,7 @@
 ###### 440. **K-th Smallest in Lexicographical Order**: _(Hard) Trie_
 ###### 498. **Diagonal Traverse**: _(Medium) Array, Matrix, Simulation_
 ###### 594. **Longest Harmonious Subsequence**: _Array, Hash Table, Sliding Window, Sorting, Counting_
+###### 611. **Valid Triangle Number**: _(Medium) Array, Two Pointers, Binary Search, Greedy, Sorting_
 ###### 679. **24 Game**: _(Hard) Array, Math, Backtracking_
 ###### 763. **Partition Labels**: _(Medium) Hash Table, Two Pointers, String, Greedy_
 ###### 781. **Rabbits in Forest**: _(Medium) Array, Hash Table, Math, Greedy_
