@@ -125,6 +125,7 @@
 ###### 2200. **Find All K-Distant Indices in an Array**: _(Easy) Array, Two Pointers_
 ###### 2206. **Divide Array Into Equal Pairs**: _(Easy) Array, Hash Table, Bit Manipulation, Counting_
 ###### 2210. **Count Hills and Valleys in an Array**: _(Easy) Array, Weekly Contest 285_
+###### 2221. **Find Triangular Sum of an Array**: _(Array, Math, Simulation, Combinatorics, Biweekly Contest 75)_
 ###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
 ###### 2264. **Largest 3-Same-Digit Number in String**: _(Easy) String, Weekly Contest 292_
 ###### 2294. **Partition Array Such That Maximum Difference Is K**: _(Medium) Array, Greedy, Sorting_
