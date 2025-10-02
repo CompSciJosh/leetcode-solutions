@@ -197,6 +197,7 @@
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
 ###### 3068. **Find the Maximum Sum of Node Values**: _(Hard) Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting_
 ###### 3085. **Minimum Deletions to Make String K-Special**: _(Medium) Hash Table, String, Greedy, Sorting, Counting_
+###### 3100. **Water Bottles II**: _(Medium) Math, Simulation, Weekly Contest 391_
 ###### 3105. **Longest Strictly Increasing or Strictly Decreasing Subarray**: _(Easy) Array_
 ###### 3108. **Minimum Cost Walk in Weighted Graph**: _(Hard) Array, Bit Manipulation, Union Find, Graph_
 ###### 3136. **Valid Word**: _(Easy) String_
