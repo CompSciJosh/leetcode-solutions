@@ -25,6 +25,7 @@
 ###### 347. **Top K Frequent Elements**: _(Medium) Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect_
 ###### 368. **Largest Divisible Subset**: _(Medium) Array, Math, Dynamic Programming, Sorting_
 ###### 386. **Lexicographical Numbers**: _(Medium) Depth-First Search, Trie_
+###### 407. **Trapping Rain Water II**: _(Hard) Array, Breadth-First Search, Heap (Priority Queue), Matrix_
 ###### 416. **Partition Equal Subset Sum**: _(Medium) Array, Dynamic Programming_
 ###### 440. **K-th Smallest in Lexicographical Order**: _(Hard) Trie_
 ###### 498. **Diagonal Traverse**: _(Medium) Array, Matrix, Simulation_
