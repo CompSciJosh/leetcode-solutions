@@ -28,6 +28,7 @@
 ###### 386. **Lexicographical Numbers**: _(Medium) Depth-First Search, Trie_
 ###### 407. **Trapping Rain Water II**: _(Hard) Array, Breadth-First Search, Heap (Priority Queue), Matrix_
 ###### 416. **Partition Equal Subset Sum**: _(Medium) Array, Dynamic Programming_
+###### 417. **Pacific Atlantic Water Flow**: _(Medium) Array, Depth-First Search, Breadth-First Search, Matrix_
 ###### 440. **K-th Smallest in Lexicographical Order**: _(Hard) Trie_
 ###### 498. **Diagonal Traverse**: _(Medium) Array, Matrix, Simulation_
 ###### 594. **Longest Harmonious Subsequence**: _Array, Hash Table, Sliding Window, Sorting, Counting_
