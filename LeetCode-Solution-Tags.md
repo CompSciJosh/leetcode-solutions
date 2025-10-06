@@ -35,6 +35,7 @@
 ###### 611. **Valid Triangle Number**: _(Medium) Array, Two Pointers, Binary Search, Greedy, Sorting_
 ###### 679. **24 Game**: _(Hard) Array, Math, Backtracking_
 ###### 763. **Partition Labels**: _(Medium) Hash Table, Two Pointers, String, Greedy_
+###### 778. **Swim in Rising Water**: _(Hard) Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Weekly Contest 70_
 ###### 781. **Rabbits in Forest**: _(Medium) Array, Hash Table, Math, Greedy_
 ###### 790. **Domino and Tromino Tiling**: _(Medium) Dynamic Programming_
 ###### 808. **Soup Servings**: _(Medium) Math, Dynamic Programming, Probability and Statistics, Weekly Contest 78_
