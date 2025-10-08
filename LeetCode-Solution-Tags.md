@@ -135,6 +135,7 @@
 ###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
 ###### 2264. **Largest 3-Same-Digit Number in String**: _(Easy) String, Weekly Contest 292_
 ###### 2294. **Partition Array Such That Maximum Difference Is K**: _(Medium) Array, Greedy, Sorting_
+###### 2300. **Successful Pairs of Spells and Potions**: _(Medium) Array, Two Pointers, Binary Search, Sorting, Biweekly Contest 80_
 ###### 2302. **Count Subarrays With Score Less Than K**: _(Hard) Array, Binary Search, Sliding Window, Prefix Sum_
 ###### 2311. **Longest Binary Subsequence Less Than or Equal to K:** _(Medium) String, Dynamic Programming, Greedy, Memoization_
 ###### 2322. **Minimum Score After Removals on a Tree**: _(Hard) Array, Bit Manipulation, Tree, Depth-First Search, Weekly Contest 299_
