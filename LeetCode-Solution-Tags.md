@@ -256,6 +256,7 @@
 ###### 3480. **Maximize Subarrays After Removing One Conflicting Pair**: _(Hard) Array, Segment Tree, Enumeration, Prefix Sum, Weekly Contest 440_
 ###### 3484. **Design Spreadsheet**: _(Medium) Array, Hash Table, String, Design, Matrix, Biweekly Contest 152_
 ###### 3487. **Maximum Unique Subarray Sum After Deletion**: _(Easy) Array, Hash Table, Greedy, Weekly Contest 441_
+###### 3494. **Find the Minimum Amount of Time to Brew Potions**: _(Medium) Array, Simulation, Prefix Sum, Weekly Contest 442_
 ###### 3495. **Minimum Operations to Make Array Elements Zero**: _(Hard) Array, Math, Bit Manipulation, Weekly Contest 44_
 ###### 3508. **Implement Router**: _(Medium) Array, Hash Table, Binary Search, Design, Queue, Ordered Set, Weekly Contest 444_
 ###### 3516. **Find Closest Person**: _(Easy) Math, Weekly Contest 445_
