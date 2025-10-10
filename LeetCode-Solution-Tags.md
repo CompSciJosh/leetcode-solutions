@@ -207,6 +207,7 @@
 ###### 3105. **Longest Strictly Increasing or Strictly Decreasing Subarray**: _(Easy) Array_
 ###### 3108. **Minimum Cost Walk in Weighted Graph**: _(Hard) Array, Bit Manipulation, Union Find, Graph_
 ###### 3136. **Valid Word**: _(Easy) String_
+###### 3147. **Taking Maximum Energy From the Mystic Dungeon**: _(Medium) Array, Prefix Sum, Weekly Contest 39_
 ###### 3151. **Special Array I**: _(Easy) Array_
 ###### 3160. **Find the Number of Distinct Colors Among the Balls**: _(Medium) Array, Hash Table, Simulation_
 ###### 3169. **Count Days Without Meetings**: _(Medium) Array, Sorting_
