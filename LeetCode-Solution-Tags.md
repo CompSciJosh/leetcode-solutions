@@ -233,6 +233,7 @@
 ###### 3341. **Find Minimum Time to Reach Last Room I**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
 ###### 3342. **Find Minimum Time to Reach Last Room II**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
 ###### 3343. **Count Number of Balanced Permutations**: _(Hard) Math, String. Dynamic Programming, Combinatorics_
+###### 3349. **Adjacent Increasing Subarrays Detection I**: _(Easy) Array, Weekly Contest 423_
 ###### 3355. **Zero Array Transformation I**: _(Medium) Array, Prefix Sum_
 ###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
 ###### 3362. **Zero Array Transformation III**: _(Medium) Array, Greedy, Sorting, Heap (Priority Queue), Prefix Sum_
