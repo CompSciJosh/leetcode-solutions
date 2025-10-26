@@ -84,6 +84,7 @@
 ###### 1550. **Three Consecutive Odds**: _(Easy) Array_
 ###### 1625. **Lexicographically Smallest String After Applying Operations**: _(Medium) String, Depth-First Search, Breadth-First Search, Enumeration, Weekly Contest 211_
 ###### 1695. **Maximum Erasure Value**: _(Medium) Array, Hash Table, Sliding Window, Weekly Contest 220_
+###### 1716. **Calculate Money in Leetcode Bank**: _(Easy) Math, Biweekly Contest 43_
 ###### 1717. **Maximum Score From Removing Substrings**: _(Medium) String, Stack, Greedy, Biweekly Contest 43_
 ###### 1718. **Construct the Lexicographically Largest Valid Sequence**: _(Medium) Array, Backtracking_
 ###### 1726. **Tuple with Same Product**: _(Medium) Array, Hash Table, Counting_
