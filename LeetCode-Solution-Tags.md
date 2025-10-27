@@ -124,6 +124,7 @@
 ###### 2099. **Find Subsequence of Length K With the Largest Sum**: _(Easy) Array, Hash Table, Sorting, Heap (Priority Queue)_
 ###### 2106. **Maximum Fruits Harvested After at Most K Steps**: _(Hard) Array, Binary Search, Sliding Window, Prefix Sum, Weekly Contest 271_
 ###### 2115. **Find All Possible Recipes from Given Supplies**: _(Medium) Array, Hash Table, String, Graph, Topological Sort_
+###### 2125. **Number of Laser Beams in a Bank**: _(Medium) Array, Math, String, Matrix, Weekly Contest 274_
 ###### 2131. **Longest Palindrome by Concatenating Two Letter Words**: _(Medium) Array, Hash Table, String, Greedy, Counting_
 ###### 2138. **Divide a String Into Groups of Size k**: _(Easy) String, Simulation_
 ###### 2140. **Solving Questions With Brainpower**: _(Medium) Array, Dynamic Programming_
