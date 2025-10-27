@@ -115,6 +115,7 @@
 ###### 2014. **Longest Subsequence Repeated k Times**: _(Hard) String, Backtracking, Greedy, Counting, Enumeration_
 ###### 2016. **Maximum Difference Between Increasing Elements**: _(Easy) Array_
 ###### 2040. **Kth Smallest Product of Two Sorted Arrays**: _(Hard) Array, Binary Search_
+###### 2043. **Simple Bank System**: _(Medium) Array, Hash Table, Design, Simulation, Weekly Contest 263_
 ###### 2044. **Count Number of Maximum Bitwise-OR Subsets**: _(Medium) Array, Backtracking, Bit Manipulation, Enumeration, Weekly Contest 263_
 ###### 2048. **Next Greater Numerically Balanced Number**: _(Medium) Hash Table, Math, Backtracking, Counting, Enumeration, Weekly Contest 264_
 ###### 2071. **Maximum Number of Tasks You Can Assign**: _(Hard) Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue_
