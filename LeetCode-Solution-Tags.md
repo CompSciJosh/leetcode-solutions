@@ -245,6 +245,7 @@
 ###### 3347. **Maximum Frequency of an Element After Performing Operations II**: _(Hard) Array, Binary Search, Sliding Window, Sorting, Prefix Sum, Biweekly Contest 143_
 ###### 3349. **Adjacent Increasing Subarrays Detection I**: _(Easy) Array, Weekly Contest 423_
 ###### 3350. **Adjacent Increasing Subarrays Detection II**: _(Medium) Array, Binary Search, Weekly Contest 423_
+###### 3354. **Make Array Elements Equal to Zero**: _(Easy) Array, Simulation, Prefix Sum, Weekly Contest 424_
 ###### 3355. **Zero Array Transformation I**: _(Medium) Array, Prefix Sum_
 ###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
 ###### 3362. **Zero Array Transformation III**: _(Medium) Array, Greedy, Sorting, Heap (Priority Queue), Prefix Sum_
