@@ -250,7 +250,6 @@
 ###### 3356. **Zero Array Transformation II**: _(Medium) Array, Binary Search, Prefix Sum_
 ###### 3362. **Zero Array Transformation III**: _(Medium) Array, Greedy, Sorting, Heap (Priority Queue), Prefix Sum_
 ###### 3363. **Find the Maximum Number of Fruits Collected**: _(Hard) Array, Dynamic Programming, Matrix, Biweekly Contest 144_
-###### 3370. **Smallest Number With All Set Bits**: _(Easy) Math, Bit Manipulation, Weekly Contest 426_
 ###### 3372. **Maximize the Number of Target Nodes After Connecting Trees I**: _(Medium) Tree, Depth-First Search, Breadth-First Search_
 ###### 3373. **Maximize the Number of Target Nodes After Connecting Trees II**: _(Hard) Tree, Depth-First Search, Breadth-First Search_
 ###### 3375. **Minimum Operations to Make Array Values Equal to K** : _(Easy) Array, Hash Table_
