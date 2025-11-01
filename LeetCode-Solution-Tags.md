@@ -230,6 +230,7 @@
 ###### 3201. **Find the Maximum Length of Valid Subsequence I**: _(Medium) Array, Dynamic Programming_
 ###### 3202. **Find the Maximum Length of Valid Subsequence II**: _(Medium) Array, Dynamic Programming_
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
+###### 3217. **Delete Nodes From Linked List Present in Array**: _(Medium) Array, Hash Table, Linked List, Weekly Contest 406_
 ###### 3227. **Vowels Game in a String**: _(Medium) Math, String, Brainteaser, Game Theory, Weekly Contest 407_
 ###### 3272. **Find the Count of Good Integers** : _(Hard) Hash Table, Math, Combinatorics, Enumeration_
 ###### 3289. **The Two Sneaky Numbers of Digitville**: _(Easy) Array, Hash Table, Math, Weekly Contest 415_
