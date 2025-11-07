@@ -171,6 +171,7 @@
 ###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
 ###### 2503. **Maximum Number of Points From Grid Queries**: _(Hard) Array, Two Pointers, Breadth-First Search, Union Find, Sorting, Heap (Priority Queue), Matrix_
 ###### 2523. **Closest Prime Numbers in Range**: _(Medium) Math, Number Theory_
+###### 2528. **Maximize the Minimum Powered City**: _(Hard) Array, Binary Search, Greedy, Queue, Sliding Window, Prefix Sum, Biweekly Contest 95_
 ###### 2529. **Maximum Count of Positive Integer and Negative Integer**: _(Easy) Array, Binary Search, Counting_
 ###### 2537. **Count the Number of Good Subarrays**: _(Medium) Array, Hash Table, Sliding Window_
 ###### 2551. **Put Marbles in Bags**: _(Hard) Array, Greedy, Sorting, Heap (Priority Queue)_
