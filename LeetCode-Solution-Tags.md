@@ -288,3 +288,4 @@
 ###### 3516. **Find Closest Person**: _(Easy) Math, Weekly Contest 445_
 ###### 3539. **Find Sum of Array Product of Magical Sequences**: _(Hard) Array, Math, Dynamic Programming, Bit Manipulation, Combinatorics, Bitmask, Weekly Contest 448_
 ###### 3541. **Find Most Frequent Vowel and Consonant**: _(Easy) Hash Table, String, Counting, Biweekly Contest 156_
+###### 3607. **Power Grid Maintenance**: _(Medium) Array, Hash Table, Depth-First Search, Breadth-First Search, Union Find, Graph, Heap (Priority Queue), Ordered Set, Weekly Contest 457_
