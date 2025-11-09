@@ -84,6 +84,7 @@
 ###### 1534. **Count Good Triplets**: _(Easy) Array, Enumeration_
 ###### 1550. **Three Consecutive Odds**: _(Easy) Array_
 ###### 1578. **Minimum Time to Make Rope Colorful**: _(Medium) Array, String, Dynamic Programming, Greedy, Weekly Contest 205_
+###### 1611. **Minimum One Bit Operations to Make Integers Zero**: _(Hard) Dynamic Programming, Bit Manipulation, Memoization, Weekly Contest 209_
 ###### 1625. **Lexicographically Smallest String After Applying Operations**: _(Medium) String, Depth-First Search, Breadth-First Search, Enumeration, Weekly Contest 211_
 ###### 1695. **Maximum Erasure Value**: _(Medium) Array, Hash Table, Sliding Window, Weekly Contest 220_
 ###### 1716. **Calculate Money in Leetcode Bank**: _(Easy) Math, Biweekly Contest 43_
