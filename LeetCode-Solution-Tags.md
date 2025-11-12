@@ -30,6 +30,7 @@
 ###### 416. **Partition Equal Subset Sum**: _(Medium) Array, Dynamic Programming_
 ###### 417. **Pacific Atlantic Water Flow**: _(Medium) Array, Depth-First Search, Breadth-First Search, Matrix_
 ###### 440. **K-th Smallest in Lexicographical Order**: _(Hard) Trie_
+###### 474. **Ones and Zeroes**: _(Medium) Array, String, Dynamic Programming_
 ###### 498. **Diagonal Traverse**: _(Medium) Array, Matrix, Simulation_
 ###### 594. **Longest Harmonious Subsequence**: _Array, Hash Table, Sliding Window, Sorting, Counting_
 ###### 611. **Valid Triangle Number**: _(Medium) Array, Two Pointers, Binary Search, Greedy, Sorting_
