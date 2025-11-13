@@ -187,6 +187,7 @@
 ###### 2594. **Minimum Time to Repair Cars**: _(Medium) Array, Binary Search_
 ###### 2598. **Smallest Missing Non-negative Integer After Operations**: _(Medium) Array, Hash Table, Math, Greedy, Weekly Contest 337_
 ###### 2616. **Minimize the Maximum Difference of Pairs**: _(Medium) Array, Binary Search, Greedy_
+###### 2654. **Minimum Number of Operations to Make All Array Elements Equal to 1**: _(Medium) Array, Math, Number Theory, Weekly Contest 342_
 ###### 2685. **Count the Number of Complete Components**: _(Medium) Depth-First Search, Breadth-First Search, Union Find, Graph_
 ###### 2698. **Find the Punishment Number of an Integer**: _(Medium) Math, Backtracking_
 ###### 2749. **Minimum Operations to Make the Integer Zero**: _(Medium) Bit Manipulation, Brainteaser, Enumeration, Weekly Contest 351_
