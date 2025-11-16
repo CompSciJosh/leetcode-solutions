@@ -240,6 +240,7 @@
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
 ###### 3217. **Delete Nodes From Linked List Present in Array**: _(Medium) Array, Hash Table, Linked List, Weekly Contest 406_
 ###### 3227. **Vowels Game in a String**: _(Medium) Math, String, Brainteaser, Game Theory, Weekly Contest 407_
+###### 3228. **Maximum Number of Operations to Move Ones to the End**: _(Medium) String, Greedy, Counting, Weekly Contest 407_
 ###### 3272. **Find the Count of Good Integers** : _(Hard) Hash Table, Math, Combinatorics, Enumeration_
 ###### 3289. **The Two Sneaky Numbers of Digitville**: _(Easy) Array, Hash Table, Math, Weekly Contest 415_
 ###### 3304. **Find the K-th Character in String Game I**: _(Easy) Math, Bit Manipulation, Recursion, Simulation_
