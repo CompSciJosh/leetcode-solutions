@@ -136,7 +136,7 @@
 ###### 2138. **Divide a String Into Groups of Size k**: _(Easy) String, Simulation_
 ###### 2140. **Solving Questions With Brainpower**: _(Medium) Array, Dynamic Programming_
 ###### 2145. **Count the Hidden Sequences**: _(Medium) Array, Prefix Sum_  
-###### 2154. **Keep Multiplying Found Values by Two: _(Easy) _
+###### 2154. **Keep Multiplying Found Values by Two**: _(Easy) Array, Hash Table, Sorting, Simulation, Weekly Contest 278_
 ###### 2169. **Count Operations to Obtain Zero**: _(Easy) Math, Simulation, Weekly Contest 280_
 ###### 2176. **Count Equal and Divisible Pairs in an Array**: _(Easy) Array_
 ###### 2179. **Count Good Triplets in an Array**: _(Hard) Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set_
