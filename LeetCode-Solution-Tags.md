@@ -36,6 +36,7 @@
 ###### 611. **Valid Triangle Number**: _(Medium) Array, Two Pointers, Binary Search, Greedy, Sorting_
 ###### 679. **24 Game**: _(Hard) Array, Math, Backtracking_
 ###### 717. **1-bit and 2-bit Characters**: _(Easy) Array_
+###### 757. **Set Intersection Size At Least Two**: _(Hard) Array, Greedy, Sorting, Weekly Contest 65_
 ###### 763. **Partition Labels**: _(Medium) Hash Table, Two Pointers, String, Greedy_
 ###### 778. **Swim in Rising Water**: _(Hard) Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Weekly Contest 70_
 ###### 781. **Rabbits in Forest**: _(Medium) Array, Hash Table, Math, Greedy_
