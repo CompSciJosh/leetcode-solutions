@@ -113,6 +113,7 @@
 ###### 1920. **Build Array from Permutation**: _(Easy) Array, Simulation_
 ###### 1922. **Count Good Numbers**: _(Medium) Math, Recursion_
 ###### 1929. **Concatenation of Array**: _(Easy) Array, Simulation_
+###### 1930. **Unique Length-3 Palindromic Subsequences**: _(Medium) Hash Table, String, Bit Manipulation, Prefix Sum, Weekly Contest 249_
 ###### 1931. **Painting a Grid With Three Different Colors**: _(Hard) Dynamic Programming_
 ###### 1935. **Maximum Number of Words You Can Type**: _(Easy) Hash Table, String, Weekly Contest 250_
 ###### 1948. **Delete Duplicate Folders in System**: _(Hard) Array, Hash Table, String, Trie, Hash Function_
