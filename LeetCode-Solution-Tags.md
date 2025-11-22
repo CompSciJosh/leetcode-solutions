@@ -237,6 +237,7 @@
 ###### 3170. **Lexicographically Minimum String After Removing Stars**: _(Medium) Hash Table, String, Stack, Greedy, Heap (Priority Queue)_
 ###### 3174. **Clear Digits**: _(Easy) String, Stack, Simulation_
 ###### 3186. **Maximum Total Damage With Spell Casting**: _(Medium) Array, Hash Table, Two Pointers, Binary Search, Dynamic Programming, Sorting, Counting, Weekly Contest 402_
+###### 3190. **Find Minimum Operations to Make All Elements Divisible by Three**: _(Easy) Array, Math, Biweekly Contest 133_
 ###### 3191. **Minimum Operations to Make Binary Array Elements Equal to One I**: _(Medium) Array, Bit Manipulation, Queue, Sliding Window, Prefix Sum_
 ###### 3195. **Find the Minimum Area to Cover All Ones I**: _(Medium) Array, Matrix, Weekly Contest 403_
 ###### 3197. **Find the Minimum Area to Cover All Ones II**: _(Hard) Array, Matrix, Enumeration, Weekly Contest 403_
