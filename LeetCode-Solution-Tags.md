@@ -62,6 +62,7 @@
 ###### 1123. **Lowest Common Ancestor of Deepest Leaves**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree_
 ###### 1233. **Remove Sub-Folders from the Filesystem**: _(Medium) Array, String, Depth-First Search, Trie_
 ###### 1261. **Find Elements in a Contaminated Binary Tree**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree_
+###### 1262. **Greatest Sum Divisible by Three**: _(Medium) Array, Dynamic Programming, Greedy, Sorting, Weekly Contest 163_
 ###### 1277. **Count Square Submatrices with All Ones**: _(Medium) Array, Dynamic Programming, Matrix, Weekly Contest 165_
 ###### 1290. **Convert Binary Number in a Linked List to Integer**: _(Easy) Linked List, Math_
 ###### 1295. **Find Numbers with Even Number of Digits**: _(Easy) Array, Math_
