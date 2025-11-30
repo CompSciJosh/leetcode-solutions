@@ -303,6 +303,7 @@
 ###### 3494. **Find the Minimum Amount of Time to Brew Potions**: _(Medium) Array, Simulation, Prefix Sum, Weekly Contest 442_
 ###### 3495. **Minimum Operations to Make Array Elements Zero**: _(Hard) Array, Math, Bit Manipulation, Weekly Contest 44_
 ###### 3508. **Implement Router**: _(Medium) Array, Hash Table, Binary Search, Design, Queue, Ordered Set, Weekly Contest 444_
+###### 3512. **Minimum Operations to Make Array Sum Divisible by K**: _(Easy) Array, Math, Biweekly Contest 154_
 ###### 3516. **Find Closest Person**: _(Easy) Math, Weekly Contest 445_
 ###### 3539. **Find Sum of Array Product of Magical Sequences**: _(Hard) Array, Math, Dynamic Programming, Bit Manipulation, Combinatorics, Bitmask, Weekly Contest 448_
 ###### 3541. **Find Most Frequent Vowel and Consonant**: _(Easy) Hash Table, String, Counting, Biweekly Contest 156_
