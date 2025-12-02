@@ -186,6 +186,7 @@
 ###### 2523. **Closest Prime Numbers in Range**: _(Medium) Math, Number Theory_
 ###### 2528. **Maximize the Minimum Powered City**: _(Hard) Array, Binary Search, Greedy, Queue, Sliding Window, Prefix Sum, Biweekly Contest 95_
 ###### 2529. **Maximum Count of Positive Integer and Negative Integer**: _(Easy) Array, Binary Search, Counting_
+###### 2536. **Increment Submatrices by One**: _(Medium) Array, Matrix, Prefix Sum, Weekly Contest 328_
 ###### 2537. **Count the Number of Good Subarrays**: _(Medium) Array, Hash Table, Sliding Window_
 ###### 2551. **Put Marbles in Bags**: _(Hard) Array, Greedy, Sorting, Heap (Priority Queue)_
 ###### 2560. **House Robber IV**: _(Medium) Array, Binary Search Tree_
