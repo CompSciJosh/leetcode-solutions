@@ -262,6 +262,7 @@
 ###### 3321. **Find X-Sum of All K-Long Subarrays II**: _(Hard) Array, Hash Table, Sliding Window, Heap (Priority Queue), Weekly Contest 419_
 ###### 3330. **Find the Original Typed String I**: _(Easy) String_
 ###### 3333. **Find the Original Typed String II**: _(Hard) String, Dynamic Programming, Prefix Sum_
+###### 3234. **Count the Number of Substrings With Dominant Ones**: _(Medium) String, Enumeration, Weekly Contest 408_
 ###### 3335. **Total Characters in String After Transformations I**: _(Medium) Hash Table, Math, String, Dynamic Programming, Counting_
 ###### 3337. **Total Characters in String After Transformations II**: _(Hard) Hash Table, Math, String, Dynamic Programming, Counting_
 ###### 3341. **Find Minimum Time to Reach Last Room I**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
