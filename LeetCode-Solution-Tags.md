@@ -253,6 +253,7 @@
 ###### 3217. **Delete Nodes From Linked List Present in Array**: _(Medium) Array, Hash Table, Linked List, Weekly Contest 406_
 ###### 3227. **Vowels Game in a String**: _(Medium) Math, String, Brainteaser, Game Theory, Weekly Contest 407_
 ###### 3228. **Maximum Number of Operations to Move Ones to the End**: _(Medium) String, Greedy, Counting, Weekly Contest 407_
+###### 3234. **Count the Number of Substrings With Dominant Ones**: _(Medium) String, Enumeration, Weekly Contest 408_
 ###### 3272. **Find the Count of Good Integers** : _(Hard) Hash Table, Math, Combinatorics, Enumeration_
 ###### 3289. **The Two Sneaky Numbers of Digitville**: _(Easy) Array, Hash Table, Math, Weekly Contest 415_
 ###### 3304. **Find the K-th Character in String Game I**: _(Easy) Math, Bit Manipulation, Recursion, Simulation_
@@ -262,7 +263,6 @@
 ###### 3321. **Find X-Sum of All K-Long Subarrays II**: _(Hard) Array, Hash Table, Sliding Window, Heap (Priority Queue), Weekly Contest 419_
 ###### 3330. **Find the Original Typed String I**: _(Easy) String_
 ###### 3333. **Find the Original Typed String II**: _(Hard) String, Dynamic Programming, Prefix Sum_
-###### 3234. **Count the Number of Substrings With Dominant Ones**: _(Medium) String, Enumeration, Weekly Contest 408_
 ###### 3335. **Total Characters in String After Transformations I**: _(Medium) Hash Table, Math, String, Dynamic Programming, Counting_
 ###### 3337. **Total Characters in String After Transformations II**: _(Hard) Hash Table, Math, String, Dynamic Programming, Counting_
 ###### 3341. **Find Minimum Time to Reach Last Room I**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
@@ -281,6 +281,7 @@
 ###### 3372. **Maximize the Number of Target Nodes After Connecting Trees I**: _(Medium) Tree, Depth-First Search, Breadth-First Search_
 ###### 3373. **Maximize the Number of Target Nodes After Connecting Trees II**: _(Hard) Tree, Depth-First Search, Breadth-First Search_
 ###### 3375. **Minimum Operations to Make Array Values Equal to K** : _(Easy) Array, Hash Table_
+###### 3381. **Maximum Subarray Sum With Length Divisible by K**: _(Medium) Array, Hash Table, Prefix Sum, Weekly Contest 427_
 ###### 3392. **Count Subarrays of Length Three With a Condition**: _(Easy) Array_
 ###### 3394. **Check if Grid can be Cut into Sections**: _(Medium) Array, Sorting_
 ###### 3396. **Minimum Number of Operations to Make Elements in Array Distinct**: _(Easy) Array, Hash Table_
