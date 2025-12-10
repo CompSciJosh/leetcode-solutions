@@ -87,6 +87,7 @@
 ###### 1504. **Count Submatrices With All Ones**: _(Medium) Array, Dynamic Programming, Stack, Matrix, Monotonic Stack, Weekly Contest 196_
 ###### 1513. **Number of Substrings With Only 1s**: _(Medium) Math, String, Weekly Contest 197_
 ###### 1518. **Water Bottles**: _(Easy) Math, Simulation, Weekly Contest 198_
+###### 1523. **Count Odd Numbers in an Interval Range**: _(Easy) Math, Biweekly Contest 31_
 ###### 1524. **Number of Sub-arrays With Odd Sum**: _(Medium) Array, Math, Dynamic Programming, Prefix Sum_
 ###### 1526. **Minimum Number of Increments on Subarrays to Form a Target Array**: _(Hard) Array, Dynamic Programming, Stack, Greedy, Monotonic Stack, Biweekly Contest 31_
 ###### 1534. **Count Good Triplets**: _(Easy) Array, Enumeration_
