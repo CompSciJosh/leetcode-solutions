@@ -116,6 +116,7 @@
 ###### 1912. **Design Movie Rental System**: _(Hard) Array, Hash Table, Design, Heap (Priority Queue), Ordered Set, Biweekly Contest 55_
 ###### 1920. **Build Array from Permutation**: _(Easy) Array, Simulation_
 ###### 1922. **Count Good Numbers**: _(Medium) Math, Recursion_
+###### 1925. **Count Square Sum Triples**: _(Easy) Math, Enumeration, Biweekly Contest 56_
 ###### 1929. **Concatenation of Array**: _(Easy) Array, Simulation_
 ###### 1930. **Unique Length-3 Palindromic Subsequences**: _(Medium) Hash Table, String, Bit Manipulation, Prefix Sum, Weekly Contest 249_
 ###### 1931. **Painting a Grid With Three Different Colors**: _(Hard) Dynamic Programming_
