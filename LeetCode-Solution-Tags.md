@@ -316,6 +316,7 @@
 ###### 3541. **Find Most Frequent Vowel and Consonant**: _(Easy) Hash Table, String, Counting, Biweekly Contest 156_
 ###### 3542. **Minimum Operations to Convert All Elements to Zero**: _(Medium) Array, Hash Table, Stack, Greedy, Monotonic Stack, Biweekly Contest 156_
 ###### 3578. **Count Partitions With Max-Min Difference at Most K**: _(Medium) Array, Dynamic Programming, Queue, Sliding Window, Prefix Sum, Monotonic Queue, Weekly Contest 453_
+###### 3583. **Count Special Triplets**: _(Medium) Array, Hash Table, Counting, Weekly Contest 454_
 ###### 3607. **Power Grid Maintenance**: _(Medium) Array, Hash Table, Depth-First Search, Breadth-First Search, Union Find, Graph, Heap (Priority Queue), Ordered Set, Weekly Contest 457_
 ###### 3623. **Count Number of Trapezoids I**: _(Medium) Array, Hash Table, Math, Geometry, Weekly Contest 459_
 ###### 3625. **Count Number of Trapezoids II**: _(Hard) Array, Hash Table, Math, Geometry, Weekly Contest 459_
