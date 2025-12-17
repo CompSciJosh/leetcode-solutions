@@ -143,6 +143,7 @@
 ###### 2138. **Divide a String Into Groups of Size k**: _(Easy) String, Simulation_
 ###### 2140. **Solving Questions With Brainpower**: _(Medium) Array, Dynamic Programming_
 ###### 2145. **Count the Hidden Sequences**: _(Medium) Array, Prefix Sum_  
+###### 2147. **Number of Ways to Divide a Long Corridor**: _(Hard) Math, String, Dynamic Programming, Biweekly Contest 70_
 ###### 2154. **Keep Multiplying Found Values by Two**: _(Easy) Array, Hash Table, Sorting, Simulation, Weekly Contest 278_
 ###### 2169. **Count Operations to Obtain Zero**: _(Easy) Math, Simulation, Weekly Contest 280_
 ###### 2176. **Count Equal and Divisible Pairs in an Array**: _(Easy) Array_
