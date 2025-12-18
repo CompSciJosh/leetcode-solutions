@@ -137,6 +137,7 @@
 ###### 2094. **Finding 3-Digit Even Numbers**: _(Easy) Array, Hash Table, Sorting, Enumeration_ 
 ###### 2099. **Find Subsequence of Length K With the Largest Sum**: _(Easy) Array, Hash Table, Sorting, Heap (Priority Queue)_
 ###### 2106. **Maximum Fruits Harvested After at Most K Steps**: _(Hard) Array, Binary Search, Sliding Window, Prefix Sum, Weekly Contest 271_
+###### 2110. **Number of Smooth Descent Periods of a Stock**: _(Medium) Array, Math, Dynamic Programming, Weekly Contest 272_
 ###### 2115. **Find All Possible Recipes from Given Supplies**: _(Medium) Array, Hash Table, String, Graph, Topological Sort_
 ###### 2125. **Number of Laser Beams in a Bank**: _(Medium) Array, Math, String, Matrix, Weekly Contest 274_
 ###### 2131. **Longest Palindrome by Concatenating Two Letter Words**: _(Medium) Array, Hash Table, String, Greedy, Counting_
