@@ -319,6 +319,7 @@
 ###### 3539. **Find Sum of Array Product of Magical Sequences**: _(Hard) Array, Math, Dynamic Programming, Bit Manipulation, Combinatorics, Bitmask, Weekly Contest 448_
 ###### 3541. **Find Most Frequent Vowel and Consonant**: _(Easy) Hash Table, String, Counting, Biweekly Contest 156_
 ###### 3542. **Minimum Operations to Convert All Elements to Zero**: _(Medium) Array, Hash Table, Stack, Greedy, Monotonic Stack, Biweekly Contest 156_
+###### 3562. **Maximum Profit from Trading Stocks with Discounts**: _(Hard) Array, Dynamic Programming, Tree, Depth-First Search, Weekly Contest 451_
 ###### 3577. **Count the Number of Computer Unlocking Permutations**: _(Medium) Array, Math, Brainteaser, Combinatorics, Weekly Contest 453_
 ###### 3578. **Count Partitions With Max-Min Difference at Most K**: _(Medium) Array, Dynamic Programming, Queue, Sliding Window, Prefix Sum, Monotonic Queue, Weekly Contest 453_
 ###### 3583. **Count Special Triplets**: _(Medium) Array, Hash Table, Counting, Weekly Contest 454_
