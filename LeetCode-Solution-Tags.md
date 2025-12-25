@@ -52,6 +52,7 @@
 ###### 904. **Fruit Into Baskets**: _(Medium) Array, Hash Table, Sliding Window, Weekly Contest 102_
 ###### 909. **Snakes and Ladders**: _(Medium) Array, Breadth-First Search, Matrix_
 ###### 944. **Delete Columns to Make Sorted**: _(Easy) Array, String, Weekly Contest 111_
+###### 955. **Delete Columns to Make Sorted II**: _(Medium) Array, String, Greedy, Weekly Contest 114_
 ###### 966. **Vowel Spellchecker**: _(Medium) Array, Hash Table, String, Weekly Contest 117_
 ###### 976. **Largest Perimeter Triangle**: _(Easy) Array, Math, Greedy, Sorting, Weekly Contest 119_
 ###### 1007. **Minimum Domino Rotations For Equal Row**: _(Medium) Array, Greedy_
