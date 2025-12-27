@@ -135,6 +135,7 @@
 ###### 2043. **Simple Bank System**: _(Medium) Array, Hash Table, Design, Simulation, Weekly Contest 263_
 ###### 2044. **Count Number of Maximum Bitwise-OR Subsets**: _(Medium) Array, Backtracking, Bit Manipulation, Enumeration, Weekly Contest 263_
 ###### 2048. **Next Greater Numerically Balanced Number**: _(Medium) Hash Table, Math, Backtracking, Counting, Enumeration, Weekly Contest 264_
+###### 2054. **Two Best Non-Overlapping Events**: _(Medium) Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue), Biweekly Contest 64_
 ###### 2071. **Maximum Number of Tasks You Can Assign**: _(Hard) Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue_
 ###### 2081. **Sum of k-Mirror Numbers**: _(Hard) Math, Enumeration_
 ###### 2092. **Find All People With Secret**: _(Hard) Depth-First Search, Breadth-First Search, Union Find, Graph, Sorting, Weekly Contest 269_
