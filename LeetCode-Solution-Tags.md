@@ -184,7 +184,7 @@
 ###### 2375. **Construct Smallest Number From DI String**: _(Medium) String, Backtracking, Stack, Greedy_
 ###### 2379. **Minimum Recolors to Get K Consecutive Black Blocks**: _(Easy) String, Sliding Window_
 ###### 2401. **Longest Nice Subarray**: _(Medium) Array, Bit Manipulation, Sliding Window_
-###### 2402. **Meeting Rooms III**: _(Hard) Array, Hash Table, Sorting, Heap (Priority Queue), Simulation_
+###### 2402. **Meeting Rooms III**: _(Hard) Array, Hash Table, Sorting, Heap (Priority Queue), Simulation, Weekly Contest 309_
 ###### 2410. **Maximum Matching of Players With Trainers**: _(Medium) Array, Two Pointers, Greedy, Sorting_
 ###### 2411. **Smallest Subarrays With Maximum Bitwise OR**: _(Medium) Array, Binary Search, Bit Manipulation, Sliding Window, Biweekly Contest 87_
 ###### 2419. **Longest Subarray With Maximum Bitwise AND**: _(Medium) Array, Bit Manipulation, Brainteaser, Weekly Contest 312_
