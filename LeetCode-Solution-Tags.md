@@ -10,6 +10,7 @@
 ###### 37. **Sudoku Solver**: _(Hard) Array, Hash Table, Backtracking, Matrix_
 ###### 38. **Count and Say**: _(Medium) String_
 ###### 49. **Group Anagrams**: _(Medium) Array, Hash Table, String, Sorting_
+###### 66. **Plus One**: _(Easy) Array, Math_
 ###### 73. **Set Matrix Zeroes**: _(Medium) Array, Hash Table, Matrix_
 ###### 75. **Sort Colors**: _(Medium) Array, Two Pointers, Sorting_
 ###### 118. **Pascal's Triangle**: _(Easy) Array, Dynamic Programming_
