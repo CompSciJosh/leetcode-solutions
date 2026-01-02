@@ -129,6 +129,7 @@
 ###### 1935. **Maximum Number of Words You Can Type**: _(Easy) Hash Table, String, Weekly Contest 250_
 ###### 1948. **Delete Duplicate Folders in System**: _(Hard) Array, Hash Table, String, Trie, Hash Function_
 ###### 1957. **Delete Characters to Make Fancy String**: _(Easy) String_
+###### 1970. **Last Day Where You Can Still Cross**: _(Hard) Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Matrix, Weekly Contest 254_
 ###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
 ###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
 ###### 2011. **Final Value of Variable After Performing Operations**: _(Easy) Array, String, Simulation, Weekly Contest 259_
