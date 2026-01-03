@@ -197,6 +197,7 @@
 ###### 2444. **Count Subarrays With Fixed Bounds**: _(Hard) Array, Queue, Sliding Window, Monotonic Queue_
 ###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
 ###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
+###### 2483. **Minimum Penalty for a Shop**: _(Medium) String, Prefix Sum, Biweekly Contest 92_
 ###### 2503. **Maximum Number of Points From Grid Queries**: _(Hard) Array, Two Pointers, Breadth-First Search, Union Find, Sorting, Heap (Priority Queue), Matrix_
 ###### 2523. **Closest Prime Numbers in Range**: _(Medium) Math, Number Theory_
 ###### 2528. **Maximize the Minimum Powered City**: _(Hard) Array, Binary Search, Greedy, Queue, Sliding Window, Prefix Sum, Biweekly Contest 95_
