@@ -247,6 +247,7 @@
 ###### 3027. **Find the Number of Ways to Place People II**: _(Hard) Array, Math, Geometry, Sorting, Enumeration, Biweekly Contest 123_
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
 ###### 3068. **Find the Maximum Sum of Node Values**: _(Hard) Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting_
+###### 3074. **Apple Redistribution into Boxes**: _(Easy) Array, Greedy, Sorting, Weekly Contest 388_
 ###### 3075. **Maximize Happiness of Selected Children**: _(Medium) Array, Greedy, Sorting, Weekly Contest 388_
 ###### 3085. **Minimum Deletions to Make String K-Special**: _(Medium) Hash Table, String, Greedy, Sorting, Counting_
 ###### 3100. **Water Bottles II**: _(Medium) Math, Simulation, Weekly Contest 391_
