@@ -153,6 +153,7 @@
 ###### 2131. **Longest Palindrome by Concatenating Two Letter Words**: _(Medium) Array, Hash Table, String, Greedy, Counting_
 ###### 2138. **Divide a String Into Groups of Size k**: _(Easy) String, Simulation_
 ###### 2140. **Solving Questions With Brainpower**: _(Medium) Array, Dynamic Programming_
+###### 2141. **Maximum Running Time of N Computers**: _(Hard) Array, Binary Search, Greedy, Sorting, Weekly Contest 276_
 ###### 2145. **Count the Hidden Sequences**: _(Medium) Array, Prefix Sum_  
 ###### 2147. **Number of Ways to Divide a Long Corridor**: _(Hard) Math, String, Dynamic Programming, Biweekly Contest 70_
 ###### 2154. **Keep Multiplying Found Values by Two**: _(Easy) Array, Hash Table, Sorting, Simulation, Weekly Contest 278_
