@@ -57,6 +57,7 @@
 ###### 944. **Delete Columns to Make Sorted**: _(Easy) Array, String, Weekly Contest 111_
 ###### 955. **Delete Columns to Make Sorted II**: _(Medium) Array, String, Greedy, Weekly Contest 114_
 ###### 960. **Delete Columns to Make Sorted III**: _(Hard) Array, String, Dynamic Programming, Weekly Contest 115_
+###### 961. **N-Repeated Element in Size 2N Array**: _(Easy) Array, Hash Table, Weekly Contest 116_
 ###### 966. **Vowel Spellchecker**: _(Medium) Array, Hash Table, String, Weekly Contest 117_
 ###### 976. **Largest Perimeter Triangle**: _(Easy) Array, Math, Greedy, Sorting, Weekly Contest 119_
 ###### 1007. **Minimum Domino Rotations For Equal Row**: _(Medium) Array, Greedy_
