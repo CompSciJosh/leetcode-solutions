@@ -83,6 +83,7 @@
 ###### 1352. **Product of the Last K Numbers**: _(Medium) Array, Math, Design, Data Stream, Prefix Sum_
 ###### 1353. **Maximum Number of Events That Can Be Attended**: _(Medium) Array, Greedy, Sorting, Heap (Priority Queue)_
 ###### 1358. **Number of Substrings Containing All Three Characters**: _(Medium) Hash Table, String, Sliding Window_
+###### 1390. **Four Divisors**: _(Medium) Array, Math, Weekly Contest 181_
 ###### 1394. **Find Lucky Integer in an Array**: _(Easy) Array, Hash Table, Counting_
 ###### 1399. **Count Largest Group**: _(Easy) Hash Table, Math_
 ###### 1411. **Number of Ways to Paint N × 3 Grid**: _(Hard) Dynamic Programming, Weekly Contest 184_
