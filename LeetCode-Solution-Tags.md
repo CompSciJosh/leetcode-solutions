@@ -93,6 +93,7 @@
 ###### 1422. **Maximum Score After Splitting a String**: _(Easy) String, Prefix Sum_
 ###### 1432. **Max Difference You Can Get From Changing an Integer**: _(Medium) Math, Greedy_
 ###### 1437. **Check If All 1's Are at Least Length K Places Away**: _(Easy) Array, Weekly Contest 187_
+###### 1458. **Max Dot Product of Two Subsequences**: _(Hard) Array, Dynamic Programming, Weekly Contest 190_
 ###### 1488. **Avoid Flood in The City**: _(Medium) Array, Hash Table, Binary Search, Greedy, Heap (Priority Queue), Weekly Contest 194_
 ###### 1493. **Longest Subarray of 1's After Deleting One Element**: _(Medium) Array, Dynamic Programming, Sliding Window, Biweekly Contest 29_
 ###### 1498. **Number of Subsequences That Satisfy the Given Sum Condition**: _(Medium) Array, Two Pointers, Binary Search, Sorting_
