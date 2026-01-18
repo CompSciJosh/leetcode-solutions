@@ -329,6 +329,7 @@
 ###### 3445. **Maximum Difference Between Even and Odd Frequency II**: _(Hard) String, Sliding Window, Enumeration, Prefix Sum_
 ###### 3446. **Sort Matrix by Diagonals**: _(Medium) Array, Sorting, Matrix, Weekly Contest 436_
 ###### 3453. **Separate Squares I**: _(Medium) Array, Binary Search, Biweekly Contest 150_
+###### 3454. **Separate Squares II**: _(Hard) Array, Binary Search, Segment Tree, Line Sweep, Biweekly Contest 150_
 ###### 3459. **Length of Longest V-Shaped Diagonal Segment**: _(Hard) Array, Dynamic Programming, Memoization, Matrix, Weekly Contest 437_
 ###### 3461. **Check If Digits Are Equal in String After Operations I**: _(Easy) Math, String, Simulation, Combinatorics, Number Theory, Weekly Contest 438_
 ###### 3477. **Fruits Into Baskets II**: _(Easy) Array, Binary Search, Segment Tree, Simulation, Ordered Set, Weekly Contest 440_
