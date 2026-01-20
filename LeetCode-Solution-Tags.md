@@ -250,6 +250,7 @@
 ###### 2962. **Count Subarrays Where Max Element Appears at Least K Times**: _(Medium) Array, Sliding Window_
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
 ###### 2966. **Divide Array Into Arrays With Max Difference**: _(Medium) Array, Greedy, Sorting_
+###### 2975. **Maximum Square Area by Removing Fences From a Field**: _(Medium) Array, Hash Table, Enumeration, Weekly Contest 377_
 ###### 2999. **Count the Number of Powerful Integers**: _(Hard) Math, String, Dynamic Programming_
 ###### 3000. **Maximum Area of Longest Diagonal Rectangle**: _(Easy) Array, Weekly Contest 379_
 ###### 3003. **Maximize the Number of Partitions After Operations**: _(Hard) String, Dynamic Programming, Bit Manipulation ,Bitmask, Weekly Contest 379_
