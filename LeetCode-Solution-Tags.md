@@ -259,6 +259,7 @@
 ###### 3024. **Type of Triangle**: _(Easy) Array, Math, Sorting_
 ###### 3025. **Find the Number of Ways to Place People I**: _(Medium) Array, Math, Geometry, Sorting, Enumeration, Biweekly Contest 123_
 ###### 3027. **Find the Number of Ways to Place People II**: _(Hard) Array, Math, Geometry, Sorting, Enumeration, Biweekly Contest 123_
+###### 3047. **Find the Largest Area of Square Inside Two Rectangles**: _(Medium) Array, Math, Geometry, Weekly Contest 386_
 ###### 3066. **Minimum Operations to Exceed Threshold Value II**: _(Medium) Array, Heap (Priority Queue), Simulation_
 ###### 3068. **Find the Maximum Sum of Node Values**: _(Hard) Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting_
 ###### 3074. **Apple Redistribution into Boxes**: _(Easy) Array, Greedy, Sorting, Weekly Contest 388_
