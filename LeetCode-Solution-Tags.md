@@ -128,6 +128,7 @@
 ###### 1857. **Largest Color Value in a Directed Graph**: _(Hard) Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting_
 ###### 1863. **Sum of All Subset XOR Totals**: _(Easy) Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration_
 ###### 1865. **Finding Pairs With a Certain Sum**: _(Medium) Array, Hash Table, Design_
+###### 1895. **Largest Magic Square**: _(Medium) Array, Matrix, Prefix Sum, Biweekly Contest 54_
 ###### 1900. **The Earliest and Latest Rounds Where Players Compete**: _(Hard) Dynamic Programming, Memoization_
 ###### 1910. **Remove All Occurrences of a Substring**: _(Medium) String, Stack, Simulation_
 ###### 1912. **Design Movie Rental System**: _(Hard) Array, Hash Table, Design, Heap (Priority Queue), Ordered Set, Biweekly Contest 55_
