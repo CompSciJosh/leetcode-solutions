@@ -79,6 +79,7 @@
 ###### 1266. **Minimum Time Visiting All Points**: _(Easy) Array, Math, Geometry, Weekly Contest 164_
 ###### 1277. **Count Square Submatrices with All Ones**: _(Medium) Array, Dynamic Programming, Matrix, Weekly Contest 165_
 ###### 1290. **Convert Binary Number in a Linked List to Integer**: _(Easy) Linked List, Math_
+###### 1292. **Maximum Side Length of a Square with Sum Less than or Equal to Threshold**: _(Medium) Array, Binary Search, Matrix, Prefix Sum, Weekly Contest 167_
 ###### 1295. **Find Numbers with Even Number of Digits**: _(Easy) Array, Math_
 ###### 1298. **Maximum Candies You Can Get from Boxes**: _(Hard) Array, Breadth-First Search, Graph_
 ###### 1304. **Find N Unique Integers Sum up to Zero**: _(Easy) Array, Math, Weekly Contest 169_
