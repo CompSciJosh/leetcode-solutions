@@ -294,6 +294,7 @@
 ###### 3304. **Find the K-th Character in String Game I**: _(Easy) Math, Bit Manipulation, Recursion, Simulation_
 ###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
 ###### 3307. **Find the K-th Character in String Game II**: _(Hard) Math, Bit Manipulation, Recursion_
+###### 3314. **Construct the Minimum Bitwise Array I**: _(Easy) Array, Bit Manipulation, Biweekly Contest 141_
 ###### 3318. **Find X-Sum of All K-Long Subarrays I**: _(Easy) Array, Hash Table, Sliding Window, Heap (Priority Queue), Weekly Contest 419_
 ###### 3321. **Find X-Sum of All K-Long Subarrays II**: _(Hard) Array, Hash Table, Sliding Window, Heap (Priority Queue), Weekly Contest 419_
 ###### 3330. **Find the Original Typed String I**: _(Easy) String_
