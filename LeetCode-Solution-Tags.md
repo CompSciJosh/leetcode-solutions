@@ -348,6 +348,7 @@
 ###### 3495. **Minimum Operations to Make Array Elements Zero**: _(Hard) Array, Math, Bit Manipulation, Weekly Contest 44_
 ###### 3507. **Minimum Pair Removal to Sort Array I**: _(Easy) Array, Hash Table, Linked List, Heap (Priority Queue), Simulation, Doubly-Linked List, Ordered Set, Weekly Contest 444_
 ###### 3508. **Implement Router**: _(Medium) Array, Hash Table, Binary Search, Design, Queue, Ordered Set, Weekly Contest 444_
+###### 3510. **Minimum Pair Removal to Sort Array II**: _(Hard) Array, Hash Table, Linked List, Heap (Priority Queue), Simulation, Doubly-Linked List, Ordered Set, Weekly Contest 444_
 ###### 3512. **Minimum Operations to Make Array Sum Divisible by K**: _(Easy) Array, Math, Biweekly Contest 154_
 ###### 3516. **Find Closest Person**: _(Easy) Math, Weekly Contest 445_
 ###### 3531. **Count Covered Buildings**: _(Medium) Array, Hash Table, Sorting, Weekly Contest 447_
