@@ -147,6 +147,7 @@
 ###### 1975. **Maximum Matrix Sum**: _(Medium) Array, Greedy, Matrix, Biweekly Contest 59_
 ###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
 ###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
+###### 1984. **Minimum Difference Between Highest and Lowest of K Scores**: _(Easy) Array, Sliding Window, Sorting, Weekly Contest 256_
 ###### 2011. **Final Value of Variable After Performing Operations**: _(Easy) Array, String, Simulation, Weekly Contest 259_
 ###### 2014. **Longest Subsequence Repeated k Times**: _(Hard) String, Backtracking, Greedy, Counting, Enumeration_
 ###### 2016. **Maximum Difference Between Increasing Elements**: _(Easy) Array_
