@@ -367,4 +367,5 @@
 ###### 3623. **Count Number of Trapezoids I**: _(Medium) Array, Hash Table, Math, Geometry, Weekly Contest 459_
 ###### 3625. **Count Number of Trapezoids II**: _(Hard) Array, Hash Table, Math, Geometry, Weekly Contest 459_
 ###### 3650. **Minimum Cost Path with Edge Reversals**: _(Medium) Graph Theory, Heap (Priority Queue), Shortest Path, Biweekly Contest 163_
+###### 3651. **Minimum Cost Path with Teleportations**: _(Hard) Array, Dynamic Programming, Matrix, Biweekly Contest 163_
 ###### 3652. **Best Time to Buy and Sell Stock using Strategy**: _(Medium) Array, Sliding Window, Prefix Sum, Weekly Contest 463_
