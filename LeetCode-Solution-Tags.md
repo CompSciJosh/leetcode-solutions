@@ -256,6 +256,7 @@
 ###### 2966. **Divide Array Into Arrays With Max Difference**: _(Medium) Array, Greedy, Sorting_
 ###### 2975. **Maximum Square Area by Removing Fences From a Field**: _(Medium) Array, Hash Table, Enumeration, Weekly Contest 377_
 ###### 2976. **Minimum Cost to Convert String I**: _(Medium) Array, String, Graph Theory, Shortest Path, Weekly Contest 377_
+###### 2977. **Minimum Cost to Convert String II**: _(Hard) Array, String, Dynamic Programming, Graph Theory, Trie, Shortest Path, Weekly Contest 377_
 ###### 2999. **Count the Number of Powerful Integers**: _(Hard) Math, String, Dynamic Programming_
 ###### 3000. **Maximum Area of Longest Diagonal Rectangle**: _(Easy) Array, Weekly Contest 379_
 ###### 3003. **Maximize the Number of Partitions After Operations**: _(Hard) String, Dynamic Programming, Bit Manipulation ,Bitmask, Weekly Contest 379_
