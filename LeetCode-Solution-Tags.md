@@ -73,6 +73,7 @@
 ###### 1092. **Shortest Common Supersequence**: _(Hard) String, Dynamic Programming_
 ###### 1123. **Lowest Common Ancestor of Deepest Leaves**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree_
 ###### 1161. **Maximum Level Sum of a Binary Tree**: _(Medium) Tree, Depth-First Search, Breadth-First Search, Binary Tree, Weekly Contest 150_
+###### 1200. **Minimum Absolute Difference**: _(Easy) Array, Sorting, Weekly Contest 155_
 ###### 1233. **Remove Sub-Folders from the Filesystem**: _(Medium) Array, String, Depth-First Search, Trie_
 ###### 1261. **Find Elements in a Contaminated Binary Tree**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree_
 ###### 1262. **Greatest Sum Divisible by Three**: _(Medium) Array, Dynamic Programming, Greedy, Sorting, Weekly Contest 163_
