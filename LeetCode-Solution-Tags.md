@@ -114,6 +114,7 @@
 ###### 1578. **Minimum Time to Make Rope Colorful**: _(Medium) Array, String, Dynamic Programming, Greedy, Weekly Contest 205_
 ###### 1611. **Minimum One Bit Operations to Make Integers Zero**: _(Hard) Dynamic Programming, Bit Manipulation, Memoization, Weekly Contest 209_
 ###### 1625. **Lexicographically Smallest String After Applying Operations**: _(Medium) String, Depth-First Search, Breadth-First Search, Enumeration, Weekly Contest 211_
+###### 1653. **Minimum Deletions to Make String Balanced**: _(Medium) Senior, String, Dynamic Programming, Stack, Biweekly Contest 39_
 ###### 1695. **Maximum Erasure Value**: _(Medium) Array, Hash Table, Sliding Window, Weekly Contest 220_
 ###### 1716. **Calculate Money in Leetcode Bank**: _(Easy) Math, Biweekly Contest 43_
 ###### 1717. **Maximum Score From Removing Substrings**: _(Medium) String, Stack, Greedy, Biweekly Contest 43_
