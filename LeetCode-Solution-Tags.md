@@ -381,3 +381,4 @@
 ###### 3651. **Minimum Cost Path with Teleportations**: _(Hard) Array, Dynamic Programming, Matrix, Biweekly Contest 163_
 ###### 3652. **Best Time to Buy and Sell Stock using Strategy**: _(Medium) Array, Sliding Window, Prefix Sum, Weekly Contest 463_
 ###### 3719. **Longest Balanced Subarray I**: _(Medium) Senior, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
+###### 3721. **Longest Balanced Subarray II**: _(Hard) Principal, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
