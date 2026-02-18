@@ -46,6 +46,7 @@
 ###### 778. **Swim in Rising Water**: _(Hard) Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Weekly Contest 70_
 ###### 781. **Rabbits in Forest**: _(Medium) Array, Hash Table, Math, Greedy_
 ###### 790. **Domino and Tromino Tiling**: _(Medium) Dynamic Programming_
+###### 799. **Champagne Tower**: _(Medium) Principal, Dynamic Programming, Weekly Contest 75_
 ###### 808. **Soup Servings**: _(Medium) Math, Dynamic Programming, Probability and Statistics, Weekly Contest 78_
 ###### 812. **Largest Triangle Area**: _(Easy) Array, Math, Geometry, Weekly Contest 79_
 ###### 837. **New 21 Game**: _(Medium) Math, Dynamic Programming, Sliding Window, Probability and Statistics, Weekly Contest 85_
