@@ -11,6 +11,7 @@
 ###### 38. **Count and Say**: _(Medium) String_
 ###### 49. **Group Anagrams**: _(Medium) Array, Hash Table, String, Sorting_
 ###### 66. **Plus One**: _(Easy) Array, Math_
+###### 67. **Add Binary**: _(Easy) Math, String, Bit Manipulation, Simulation_
 ###### 73. **Set Matrix Zeroes**: _(Medium) Array, Hash Table, Matrix_
 ###### 75. **Sort Colors**: _(Medium) Array, Two Pointers, Sorting_
 ###### 85. **Maximal Rectangle**: _(Hard) Array, Dynamic Programming, Stack, Matrix, Monotonic Stack_
