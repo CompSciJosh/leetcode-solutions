@@ -23,6 +23,7 @@
 ###### 155. **Min Stack**: _(Medium) Stack, Design_
 ###### 165. **Compare Version Numbers**: _(Medium) Two Pointers, String_
 ###### 166. **Fraction to Recurring Decimal**: _(Medium) Hash Table, Math, String_
+###### 190. **Reverse Bits**: _(Easy) Divide and Conquer, Bit Manipulation_
 ###### 231. **Power of Two**: _(Easy) Math, Bit Manipulation, Recursion_
 ###### 242. **Valid Anagram**: _(Easy) Hash Table, String, Sorting_
 ###### 326. **Power of Three**: _(Easy) Math, Recursion_
