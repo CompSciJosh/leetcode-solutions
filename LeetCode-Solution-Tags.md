@@ -42,6 +42,7 @@
 ###### 611. **Valid Triangle Number**: _(Medium) Array, Two Pointers, Binary Search, Greedy, Sorting_
 ###### 679. **24 Game**: _(Hard) Array, Math, Backtracking_
 ###### 693. **Binary Number with Alternating Bits**: _(Easy) Mid Level, Bit Manipulation_
+###### 696. **Count Binary Substrings**: _(Easy) Staff, Two Pointers, String_
 ###### 712. **Minimum ASCII Delete Sum for Two Strings**: _(Medium) String, Dynamic Programming_ 
 ###### 717. **1-bit and 2-bit Characters**: _(Easy) Array_
 ###### 756. **Pyramid Transition Matrix**: _(Medium) Hash Table, String, Backtracking, Bit Manipulation, Weekly Contest 65_
