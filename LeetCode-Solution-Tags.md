@@ -107,6 +107,7 @@
 ###### 1390. **Four Divisors**: _(Medium) Array, Math, Weekly Contest 181_
 ###### 1394. **Find Lucky Integer in an Array**: _(Easy) Array, Hash Table, Counting_
 ###### 1399. **Count Largest Group**: _(Easy) Hash Table, Math_
+###### 1404. **Number of Steps to Reduce a Number in Binary Representation to One**: _(Medium) Senior, String, Bit Manipulation, Simulation, Weekly Contest 183_
 ###### 1411. **Number of Ways to Paint N × 3 Grid**: _(Hard) Dynamic Programming, Weekly Contest 184_
 ###### 1415. **The k-th Lexicographical String of All Happy Strings of Length n**: _(Medium) String, Backtracking_
 ###### 1422. **Maximum Score After Splitting a String**: _(Easy) String, Prefix Sum_
