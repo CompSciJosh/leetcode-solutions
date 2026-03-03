@@ -101,6 +101,7 @@
 ###### 1351. **Count Negative Numbers in a Sorted Matrix**: _(Easy) Array, Binary Search, Matrix, Weekly Contest 176_
 ###### 1352. **Product of the Last K Numbers**: _(Medium) Array, Math, Design, Data Stream, Prefix Sum_
 ###### 1353. **Maximum Number of Events That Can Be Attended**: _(Medium) Array, Greedy, Sorting, Heap (Priority Queue)_
+###### 1356. **Sort Integers by The Number of 1 Bits**: _(Easy) Mid Level, Array, Bit Manipulation, Sorting, Counting, Biweekly Contest 20_
 ###### 1358. **Number of Substrings Containing All Three Characters**: _(Medium) Hash Table, String, Sliding Window_
 ###### 1382. **Balance a Binary Search Tree**: _(Medium) Senior, Divide and Conquer, Greedy, Tree, Depth-First Search, Binary Search Tree, Binary Tree, Weekly Contest 180_
 ###### 1390. **Four Divisors**: _(Medium) Array, Math, Weekly Contest 181_
