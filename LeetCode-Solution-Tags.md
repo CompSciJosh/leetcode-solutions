@@ -76,6 +76,7 @@
 ###### 1007. **Minimum Domino Rotations For Equal Row**: _(Medium) Array, Greedy_
 ###### 1015. **Smallest Integer Divisible by K**: _(Medium) Hash Table, Math, Weekly Contest 129_
 ###### 1018. **Binary Prefix Divisible By 5**: _(Easy) Array, Bit Manipulation, Weekly Contest 130_
+###### 1022. **Sum of Root To Leaf Binary Numbers**: _(Easy) Staff, Tree, Depth-First Search, Binary Tree, Weekly Contest 131_
 ###### 1028. **Recover a Tree From Preorder Traversal**: _(Hard) String, Tree, Depth-First Search, Binary Tree_
 ###### 1039. **Minimum Score Triangulation of Polygon**: _(Medium) Array, Dynamic Programming, Weekly Contest 135_
 ###### 1061. **Lexicographically Smallest Equivalent String**: _(Medium) String, Union Find_
