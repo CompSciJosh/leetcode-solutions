@@ -394,6 +394,7 @@
 ###### 3650. **Minimum Cost Path with Edge Reversals**: _(Medium) Graph Theory, Heap (Priority Queue), Shortest Path, Biweekly Contest 163_
 ###### 3651. **Minimum Cost Path with Teleportations**: _(Hard) Array, Dynamic Programming, Matrix, Biweekly Contest 163_
 ###### 3652. **Best Time to Buy and Sell Stock using Strategy**: _(Medium) Array, Sliding Window, Prefix Sum, Weekly Contest 463_
+###### 3666. **Minimum Operations to Equalize Binary String**: _(Hard) Senior Staff, Math, String, Breadth-First Search, Union-Find, Ordered Set, Biweekly Contest 164_
 ###### 3713. **Longest Balanced Substring I**: _(Medium) Senior, Hash Table, String, Counting, Enumeration, Weekly Contest 471_
 ###### 3714. **Longest Balanced Substring II**: _(Medium) Staff, Hash Table, String, Prefix Sum, Weekly Contest 471_
 ###### 3719. **Longest Balanced Subarray I**: _(Medium) Senior, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
