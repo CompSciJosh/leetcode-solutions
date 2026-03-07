@@ -125,6 +125,7 @@
 ###### 1524. **Number of Sub-arrays With Odd Sum**: _(Medium) Array, Math, Dynamic Programming, Prefix Sum_
 ###### 1526. **Minimum Number of Increments on Subarrays to Form a Target Array**: _(Hard) Array, Dynamic Programming, Stack, Greedy, Monotonic Stack, Biweekly Contest 31_
 ###### 1534. **Count Good Triplets**: _(Easy) Array, Enumeration_
+###### 1545. **Find Kth Bit in Nth Binary String**: _(Medium) Senior, String, Recursion, Simulation, Weekly Contest 201_
 ###### 1550. **Three Consecutive Odds**: _(Easy) Array_
 ###### 1578. **Minimum Time to Make Rope Colorful**: _(Medium) Array, String, Dynamic Programming, Greedy, Weekly Contest 205_
 ###### 1611. **Minimum One Bit Operations to Make Integers Zero**: _(Hard) Dynamic Programming, Bit Manipulation, Memoization, Weekly Contest 209_
@@ -161,7 +162,7 @@
 ###### 1935. **Maximum Number of Words You Can Type**: _(Easy) Hash Table, String, Weekly Contest 250_
 ###### 1948. **Delete Duplicate Folders in System**: _(Hard) Array, Hash Table, String, Trie, Hash Function_
 ###### 1957. **Delete Characters to Make Fancy String**: _(Easy) String_
-###### 1970. **Last Day Where You Can Still Cross**: _(Hard) Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Matrix, Weekly Contest 254_
+###### 1970. **Last Day Where You Can Still Cross**: _(Hard) Senior Staff, Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Weekly Contest 254_
 ###### 1975. **Maximum Matrix Sum**: _(Medium) Array, Greedy, Matrix, Biweekly Contest 59_
 ###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
 ###### 1980. **Find Unique Binary String**: _(Medium) Array, Hash Table, String, Backtracking_
