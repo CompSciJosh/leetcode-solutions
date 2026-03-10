@@ -125,6 +125,7 @@
 ###### 1524. **Number of Sub-arrays With Odd Sum**: _(Medium) Array, Math, Dynamic Programming, Prefix Sum_
 ###### 1526. **Minimum Number of Increments on Subarrays to Form a Target Array**: _(Hard) Array, Dynamic Programming, Stack, Greedy, Monotonic Stack, Biweekly Contest 31_
 ###### 1534. **Count Good Triplets**: _(Easy) Array, Enumeration_
+###### 1536. **Minimum Swaps to Arrange a Binary Grid**: _(Medium) Staff, Array, Greedy, Matrix, Weekly Contest 200_
 ###### 1545. **Find Kth Bit in Nth Binary String**: _(Medium) Senior, String, Recursion, Simulation, Weekly Contest 201_
 ###### 1550. **Three Consecutive Odds**: _(Easy) Array_
 ###### 1578. **Minimum Time to Make Rope Colorful**: _(Medium) Array, String, Dynamic Programming, Greedy, Weekly Contest 205_
