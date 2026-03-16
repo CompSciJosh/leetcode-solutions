@@ -300,6 +300,7 @@
 ###### 3105. **Longest Strictly Increasing or Strictly Decreasing Subarray**: _(Easy) Array_
 ###### 3108. **Minimum Cost Walk in Weighted Graph**: _(Hard) Array, Bit Manipulation, Union Find, Graph_
 ###### 3129. **Find All Possible Stable Binary Arrays I**: _(Medium) Staff, Dynamic Programming, Prefix Sum, Biweekly Contest 129_
+###### 3130. **Find All Possible Stable Binary Arrays II**: _(Hard) Principal, Dynamic Programming, Prefix Sum, Biweekly Contest 129_
 ###### 3136. **Valid Word**: _(Easy) String_
 ###### 3147. **Taking Maximum Energy From the Mystic Dungeon**: _(Medium) Array, Prefix Sum, Weekly Contest 39_
 ###### 3151. **Special Array I**: _(Easy) Array_
