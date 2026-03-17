@@ -74,6 +74,7 @@
 ###### 966. **Vowel Spellchecker**: _(Medium) Array, Hash Table, String, Weekly Contest 117_
 ###### 976. **Largest Perimeter Triangle**: _(Easy) Array, Math, Greedy, Sorting, Weekly Contest 119_
 ###### 1007. **Minimum Domino Rotations For Equal Row**: _(Medium) Array, Greedy_
+###### 1009. **Complement of Base 10 Integer**: _(Easy) Junior, Bit Manipulation, Weekly Contest 128_
 ###### 1015. **Smallest Integer Divisible by K**: _(Medium) Hash Table, Math, Weekly Contest 129_
 ###### 1018. **Binary Prefix Divisible By 5**: _(Easy) Array, Bit Manipulation, Weekly Contest 130_
 ###### 1022. **Sum of Root To Leaf Binary Numbers**: _(Easy) Staff, Tree, Depth-First Search, Binary Tree, Weekly Contest 131_
