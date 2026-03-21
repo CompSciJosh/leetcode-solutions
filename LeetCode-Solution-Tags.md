@@ -323,6 +323,7 @@
 ###### 3234. **Count the Number of Substrings With Dominant Ones**: _(Medium) String, Enumeration, Weekly Contest 408_
 ###### 3272. **Find the Count of Good Integers** : _(Hard) Hash Table, Math, Combinatorics, Enumeration_
 ###### 3289. **The Two Sneaky Numbers of Digitville**: _(Easy) Array, Hash Table, Math, Weekly Contest 415_
+###### 3296. **Minimum Number of Seconds to Make Mountain Height Zero**: _(Medium) Staff, Array, Math, Binary Search, Greedy, Heap (Priority Queue), Weekly Contest 416_
 ###### 3304. **Find the K-th Character in String Game I**: _(Easy) Math, Bit Manipulation, Recursion, Simulation_
 ###### 3306. **Count of Substrings Containing Every Vowel and K Consonants II**: _(Medium) Hash Table, String, Sliding Window_
 ###### 3307. **Find the K-th Character in String Game II**: _(Hard) Math, Bit Manipulation, Recursion_
