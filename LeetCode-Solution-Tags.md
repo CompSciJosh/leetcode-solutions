@@ -110,7 +110,7 @@
 ###### 1399. **Count Largest Group**: _(Easy) Hash Table, Math_
 ###### 1404. **Number of Steps to Reduce a Number in Binary Representation to One**: _(Medium) Senior, String, Bit Manipulation, Simulation, Weekly Contest 183_
 ###### 1411. **Number of Ways to Paint N × 3 Grid**: _(Hard) Dynamic Programming, Weekly Contest 184_
-###### 1415. **The k-th Lexicographical String of All Happy Strings of Length n**: _(Medium) String, Backtracking_
+###### 1415. **The k-th Lexicographical String of All Happy Strings of Length n**: _(Medium) Staff, String, Backtracking, Biweekly Contest 24_
 ###### 1422. **Maximum Score After Splitting a String**: _(Easy) String, Prefix Sum_
 ###### 1432. **Max Difference You Can Get From Changing an Integer**: _(Medium) Math, Greedy_
 ###### 1437. **Check If All 1's Are at Least Length K Places Away**: _(Easy) Array, Weekly Contest 187_
