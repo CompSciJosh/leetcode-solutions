@@ -132,6 +132,7 @@
 ###### 1578. **Minimum Time to Make Rope Colorful**: _(Medium) Array, String, Dynamic Programming, Greedy, Weekly Contest 205_
 ###### 1582. **Special Positions in a Binary Matrix**: _(Easy) Mid Level, Array, Matrix, Weekly Contest 206_
 ###### 1611. **Minimum One Bit Operations to Make Integers Zero**: _(Hard) Dynamic Programming, Bit Manipulation, Memoization, Weekly Contest 209_
+###### 1622. **Fancy Sequence**: _(Hard) Principal, Math, Design, Segment Tree, Biweekly Contest 37_
 ###### 1625. **Lexicographically Smallest String After Applying Operations**: _(Medium) String, Depth-First Search, Breadth-First Search, Enumeration, Weekly Contest 211_
 ###### 1653. **Minimum Deletions to Make String Balanced**: _(Medium) Senior, String, Dynamic Programming, Stack, Biweekly Contest 39_
 ###### 1680. **Concatenation of Consecutive Binary Numbers**: _(Medium) Staff, Math, Bit Manipulation, Simulation, Weekly Contest 218_
