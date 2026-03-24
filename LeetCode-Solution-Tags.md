@@ -321,6 +321,7 @@
 ###### 3201. **Find the Maximum Length of Valid Subsequence I**: _(Medium) Array, Dynamic Programming_
 ###### 3202. **Find the Maximum Length of Valid Subsequence II**: _(Medium) Array, Dynamic Programming_
 ###### 3208. **Alternating Groups II**: _(Medium) Array, Sliding Window_
+###### 3212. **Count Submatrices With Equal Frequency of X and Y**: _(Medium) Staff, Array, Matrix, Prefix Sum, Weekly Contest 405_
 ###### 3217. **Delete Nodes From Linked List Present in Array**: _(Medium) Array, Hash Table, Linked List, Weekly Contest 406_
 ###### 3227. **Vowels Game in a String**: _(Medium) Math, String, Brainteaser, Game Theory, Weekly Contest 407_
 ###### 3228. **Maximum Number of Operations to Move Ones to the End**: _(Medium) String, Greedy, Counting, Weekly Contest 407_
