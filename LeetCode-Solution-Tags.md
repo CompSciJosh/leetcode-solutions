@@ -154,6 +154,7 @@
 ###### 1863. **Sum of All Subset XOR Totals**: _(Easy) Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration_
 ###### 1865. **Finding Pairs With a Certain Sum**: _(Medium) Array, Hash Table, Design_
 ###### 1877. **Minimize Maximum Pair Sum in Array**: _(Medium) Array, Two Pointers, Greedy, Sorting, Biweekly Contest 53_
+###### 1878. **Get Biggest Three Rhombus Sums in a Grid**: _(Medium) Staff, Array, Math, Sorting, Heap (Priority Queue), Matrix, Prefix Sum, Biweekly Contest 53_
 ###### 1888. **Minimum Number of Flips to Make the Binary String Alternating**: _(Medium) Staff, String, Dynamic Programming, Sliding Window, Weekly Contest 244_
 ###### 1895. **Largest Magic Square**: _(Medium) Array, Matrix, Prefix Sum, Biweekly Contest 54_
 ###### 1900. **The Earliest and Latest Rounds Where Players Compete**: _(Hard) Dynamic Programming, Memoization_
