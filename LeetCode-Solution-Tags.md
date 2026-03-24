@@ -404,6 +404,7 @@
 ###### 3634. **Minimum Removals to Balance Array**: _(Medium) Senior, Array, Sliding Window, Sorting, Biweekly Contest 162_
 ###### 3637. **Trionic Array I**: _(Easy) Array, Weekly Contest 461_
 ###### 3640. **Trionic Array II**: _(Hard) Senior Staff, Array, Dynamic Programming, Weekly Contest 461_
+###### 3643. **Flip Square Submatrix Vertically**: _(Easy) Mid Level, Array, Two Pointers, Matrix, Weekly Contest 462_
 ###### 3650. **Minimum Cost Path with Edge Reversals**: _(Medium) Graph Theory, Heap (Priority Queue), Shortest Path, Biweekly Contest 163_
 ###### 3651. **Minimum Cost Path with Teleportations**: _(Hard) Array, Dynamic Programming, Matrix, Biweekly Contest 163_
 ###### 3652. **Best Time to Buy and Sell Stock using Strategy**: _(Medium) Array, Sliding Window, Prefix Sum, Weekly Contest 463_
