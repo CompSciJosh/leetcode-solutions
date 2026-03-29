@@ -280,6 +280,7 @@
 ###### 2929. **Distribute Candies Among Children II**: _(Medium) Math, Combinatorics, Enumeration_
 ###### 2942. **Find Words Containing Character**: _(Easy) Array, String_      
 ###### 2943. **Maximize Area of Square Hole in Grid**: _(Medium) Array, Sorting, Biweekly Contest 118_
+###### 2946. **Matrix Similarity After Cyclic Shifts**: _(Easy) Mid Level, Array, Math, Matrix, Simulation, Weekly Contest 373_
 ###### 2962. **Count Subarrays Where Max Element Appears at Least K Times**: _(Medium) Array, Sliding Window_
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
 ###### 2966. **Divide Array Into Arrays With Max Difference**: _(Medium) Array, Greedy, Sorting_
