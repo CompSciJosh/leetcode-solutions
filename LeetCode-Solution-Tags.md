@@ -263,6 +263,7 @@
 ###### 2685. **Count the Number of Complete Components**: _(Medium) Depth-First Search, Breadth-First Search, Union Find, Graph_
 ###### 2698. **Find the Punishment Number of an Integer**: _(Medium) Math, Backtracking_
 ###### 2749. **Minimum Operations to Make the Integer Zero**: _(Medium) Bit Manipulation, Brainteaser, Enumeration, Weekly Contest 351_
+###### 2751. **Robot Collisions**: _(Hard) Senior Staff, Array, Stack, Sorting, Simulation, Weekly Contest 351_
 ###### 2780. **Minimum Index of a Valid Split**: _(Medium) Array, Hash Table, Sorting_
 ###### 2785. **Sort Vowels in a String**: _(Medium) String, Sorting, Biweekly Contest 109_
 ###### 2787. **Ways to Express an Integer as Sum of Powers**: _(Medium) Dynamic Programming, Biweekly Contest 109_
