@@ -148,6 +148,7 @@
 ###### 1749. **Maximum Absolute Sum of Any Subarray**: _(Medium) Array, Dynamic Programming_
 ###### 1751. **Maximum Number of Events That Can Be Attended II**: _(Hard) Array, Binary Search, Dynamic Programming, Sorting_
 ###### 1752. **Check if Array Is Sorted and Rotated**: _(Easy) Array_
+###### 1758. **Minimum Changes To Make Alternating Binary String**: _(Easy) Mid Level, String, Weekly Contest 228_
 ###### 1780. **Check if Number is a Sum of Powers of Three**: _(Medium) Math_
 ###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
 ###### 1792. **Maximum Average Pass Ratio**: _(Medium) Array, Greedy, Heap (Priority Queue), Weekly Contest 232_
