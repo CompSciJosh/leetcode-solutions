@@ -150,6 +150,7 @@
 ###### 1752. **Check if Array Is Sorted and Rotated**: _(Easy) Array_
 ###### 1758. **Minimum Changes To Make Alternating Binary String**: _(Easy) Mid Level, String, Weekly Contest 228_
 ###### 1780. **Check if Number is a Sum of Powers of Three**: _(Medium) Math_
+###### 1784. **Check if Binary String Has at Most One Segment of Ones**: _(Easy) Mid Level, String, Weekly Contest 231_
 ###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
 ###### 1792. **Maximum Average Pass Ratio**: _(Medium) Array, Greedy, Heap (Priority Queue), Weekly Contest 232_
 ###### 1800. **Maximum Ascending Subarray Sum**: _(Easy) Array_
