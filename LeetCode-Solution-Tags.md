@@ -373,6 +373,7 @@
 ###### 3403. **Find the Lexicographically Largest String From the Box I**: _(Medium) Two Pointers, String, Enumeration_
 ###### 3405. **Count the Number of Arrays with K Matching Adjacent Elements**: _(Hard) Math, Combinatorics_
 ###### 3408. **Design Task Manager**: _(Medium) Hash Table, Design, Heap (Priority Queue), Ordered Set, Biweekly Contest 147_
+###### 3418. **Maximum Amount of Money Robot Can Earn**: _(Medium) Staff, Array, Dynamic Programming, Matrix, Weekly Contest 432_
 ###### 3423. **Maximum Difference Between Adjacent Elements in a Circular Array**: _(Easy) Array_
 ###### 3432. **Count Partitions with Even Sum Difference**: _(Easy) Array, Math, Prefix Sum, Weekly Contest 434_
 ###### 3433. **Count Mentions Per User**: _(Medium) Array, Math, Sorting, Simulation, Weekly Contest 434_
