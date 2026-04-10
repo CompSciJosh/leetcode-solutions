@@ -40,6 +40,7 @@
 ###### 498. **Diagonal Traverse**: _(Medium) Array, Matrix, Simulation_
 ###### 594. **Longest Harmonious Subsequence**: _Array, Hash Table, Sliding Window, Sorting, Counting_
 ###### 611. **Valid Triangle Number**: _(Medium) Array, Two Pointers, Binary Search, Greedy, Sorting_
+###### 657. **Robot Return to Origin**: _(Easy) Mid Level, String, Simulation_
 ###### 679. **24 Game**: _(Hard) Array, Math, Backtracking_
 ###### 693. **Binary Number with Alternating Bits**: _(Easy) Mid Level, Bit Manipulation_
 ###### 696. **Count Binary Substrings**: _(Easy) Staff, Two Pointers, String_
