@@ -434,3 +434,4 @@
 ###### 3714. **Longest Balanced Substring II**: _(Medium) Staff, Hash Table, String, Prefix Sum, Weekly Contest 471_
 ###### 3719. **Longest Balanced Subarray I**: _(Medium) Senior, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
 ###### 3721. **Longest Balanced Subarray II**: _(Hard) Principal, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
+###### 3740. **Minimum Distance Between Three Equal Elements I**: _(Easy) Mid Level, Array, Hash Table, Weekly Contest 475_
