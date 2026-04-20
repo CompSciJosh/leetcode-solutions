@@ -247,6 +247,7 @@
 ###### 2438. **Range Product Queries of Powers**: _(Medium) Array, Bit Manipulation, Prefix Sum, Biweekly Contest 89_
 ###### 2444. **Count Subarrays With Fixed Bounds**: _(Hard) Array, Queue, Sliding Window, Monotonic Queue_
 ###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
+###### 2463. **Minimum Total Distance Traveled**: _(Hard) Senior Staff, Array, Dynamic Programming, Sorting, Weekly Contest 318_
 ###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
 ###### 2483. **Minimum Penalty for a Shop**: _(Medium) String, Prefix Sum, Biweekly Contest 92_
 ###### 2503. **Maximum Number of Points From Grid Queries**: _(Hard) Array, Two Pointers, Breadth-First Search, Union Find, Sorting, Heap (Priority Queue), Matrix_
