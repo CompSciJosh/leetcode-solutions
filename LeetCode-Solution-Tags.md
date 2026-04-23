@@ -439,3 +439,4 @@
 ###### 3721. **Longest Balanced Subarray II**: _(Hard) Principal, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
 ###### 3740. **Minimum Distance Between Three Equal Elements I**: _(Easy) Mid Level, Array, Hash Table, Weekly Contest 475_
 ###### 3741. **Minimum Distance Between Three Equal Elements II**: _(Medium) Senior, Array, Hash Table, Weekly Contest 475_
+###### 3761. **Minimum Absolute Distance Between Mirror Pairs**: _(Medium) Staff, Array, Hash Table, Math, Weekly Contest 478_
