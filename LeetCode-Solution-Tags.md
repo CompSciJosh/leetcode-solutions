@@ -247,6 +247,7 @@
 ###### 2435. **Paths in Matrix Whose Sum Is Divisible by K**: _(Hard) Array, Dynamic Programming, Matrix, Weekly Contest 314_
 ###### 2438. **Range Product Queries of Powers**: _(Medium) Array, Bit Manipulation, Prefix Sum, Biweekly Contest 89_
 ###### 2444. **Count Subarrays With Fixed Bounds**: _(Hard) Array, Queue, Sliding Window, Monotonic Queue_
+###### 2452. **Words Within Two Edits of Dictionary**: _(Medium) Senior, Array, String, Trie, Biweekly Contest 90_
 ###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
 ###### 2463. **Minimum Total Distance Traveled**: _(Hard) Senior Staff, Array, Dynamic Programming, Sorting, Weekly Contest 318_
 ###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
