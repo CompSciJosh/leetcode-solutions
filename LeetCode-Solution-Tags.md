@@ -268,6 +268,7 @@
 ###### 2579. **Count Total Number of Colored Cells**: _(Medium) Math_
 ###### 2594. **Minimum Time to Repair Cars**: _(Medium) Array, Binary Search_
 ###### 2598. **Smallest Missing Non-negative Integer After Operations**: _(Medium) Array, Hash Table, Math, Greedy, Weekly Contest 337_
+###### 2615. **Sum of Distances**: _(Medium) Senior, Array, Hash Table, Prefix Sum, Weekly Contest 340_
 ###### 2616. **Minimize the Maximum Difference of Pairs**: _(Medium) Array, Binary Search, Greedy_
 ###### 2654. **Minimum Number of Operations to Make All Array Elements Equal to 1**: _(Medium) Array, Math, Number Theory, Weekly Contest 342_
 ###### 2685. **Count the Number of Complete Components**: _(Medium) Depth-First Search, Breadth-First Search, Union Find, Graph_
