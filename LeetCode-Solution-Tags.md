@@ -280,6 +280,7 @@
 ###### 2787. **Ways to Express an Integer as Sum of Powers**: _(Medium) Dynamic Programming, Biweekly Contest 109_
 ###### 2799. **Count Complete Subarrays in an Array**: _(Medium) Array, Hash Table, Sliding Window_
 ###### 2818. **Apply Operations to Maximize Score**: _(Hard) Array, Math, Stack, Greedy, Sorting, Monotonic Stack, Number Theory_
+###### 2833. **Furthest Point From Origin**: _(Easy) Mid Level, String, Counting, Weekly Contest 360_
 ###### 2839. **Check if Strings Can be Made Equal With Operations I**: _(Easy) Mid Level, String, Biweekly Contest 112_
 ###### 2840. **Check if Strings Can be Made Equal With Operations II**: _(Medium) Senior, Hash Table, String, Sorting, Biweekly Contest 112_
 ###### 2843. **Count Symmetric Integers**: _(Easy) Math, Enumeration_
