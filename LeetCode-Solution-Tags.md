@@ -132,6 +132,7 @@
 ###### 1536. **Minimum Swaps to Arrange a Binary Grid**: _(Medium) Staff, Array, Greedy, Matrix, Weekly Contest 200_
 ###### 1545. **Find Kth Bit in Nth Binary String**: _(Medium) Senior, String, Recursion, Simulation, Weekly Contest 201_
 ###### 1550. **Three Consecutive Odds**: _(Easy) Array_
+###### 1559. **Detect Cycles in 2D Grid**: _(Medium) Senior Staff, Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Biweekly Contest 33_
 ###### 1578. **Minimum Time to Make Rope Colorful**: _(Medium) Array, String, Dynamic Programming, Greedy, Weekly Contest 205_
 ###### 1582. **Special Positions in a Binary Matrix**: _(Easy) Mid Level, Array, Matrix, Weekly Contest 206_
 ###### 1594. **Maximum Non Negative Product in a Matrix**: _(Medium) Staff, Array, Dynamic Programming, Matrix, Weekly Contest 207_
