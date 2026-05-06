@@ -109,6 +109,7 @@
 ###### 1358. **Number of Substrings Containing All Three Characters**: _(Medium) Hash Table, String, Sliding Window_
 ###### 1382. **Balance a Binary Search Tree**: _(Medium) Senior, Divide and Conquer, Greedy, Tree, Depth-First Search, Binary Search Tree, Binary Tree, Weekly Contest 180_
 ###### 1390. **Four Divisors**: _(Medium) Array, Math, Weekly Contest 181_
+###### 1391. **Check if There is a Valid Path in a Grid**: _(Medium) Staff, Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Weekly Contest 181_
 ###### 1394. **Find Lucky Integer in an Array**: _(Easy) Array, Hash Table, Counting_
 ###### 1399. **Count Largest Group**: _(Easy) Hash Table, Math_
 ###### 1404. **Number of Steps to Reduce a Number in Binary Representation to One**: _(Medium) Senior, String, Bit Manipulation, Simulation, Weekly Contest 183_
