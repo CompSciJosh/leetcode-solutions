@@ -422,6 +422,7 @@
 ###### 3546. **Equal Sum Grid Partition I**: _(Medium) Senior, Array, Matrix, Enumeration, Prefix Sum, Weekly Contest 449_
 ###### 3548. **Equal Sum Grid Partition II**: _(Hard) Principal, Array, Hash Table, Matrix, Enumeration, Prefix Sum, Weekly Contest 449_
 ###### 3562. **Maximum Profit from Trading Stocks with Discounts**: _(Hard) Array, Dynamic Programming, Tree, Depth-First Search, Weekly Contest 451_
+###### 3567. **Minimum Absolute Difference in Sliding Submatrix**: _(Medium) Senior, Array, Sorting, Matrix, Weekly Contest 452_
 ###### 3573. **Best Time to Buy and Sell Stock V**: _(Medium) Array, Dynamic Programming, Biweekly Contest 158_
 ###### 3577. **Count the Number of Computer Unlocking Permutations**: _(Medium) Array, Math, Brainteaser, Combinatorics, Weekly Contest 453_
 ###### 3578. **Count Partitions With Max-Min Difference at Most K**: _(Medium) Array, Dynamic Programming, Queue, Sliding Window, Prefix Sum, Monotonic Queue, Weekly Contest 453_
