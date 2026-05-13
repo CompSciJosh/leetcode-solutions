@@ -10,6 +10,7 @@
 ###### 37. **Sudoku Solver**: _(Hard) Array, Hash Table, Backtracking, Matrix_
 ###### 38. **Count and Say**: _(Medium) String_
 ###### 49. **Group Anagrams**: _(Medium) Array, Hash Table, String, Sorting_
+###### 61. **Rotate List**: _(Medium) Linked List, Two Pointers_
 ###### 66. **Plus One**: _(Easy) Array, Math_
 ###### 67. **Add Binary**: _(Easy) Math, String, Bit Manipulation, Simulation_
 ###### 73. **Set Matrix Zeroes**: _(Medium) Array, Hash Table, Matrix_
