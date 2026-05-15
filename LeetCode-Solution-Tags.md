@@ -435,6 +435,7 @@
 ###### 3607. **Power Grid Maintenance**: _(Medium) Array, Hash Table, Depth-First Search, Breadth-First Search, Union Find, Graph, Heap (Priority Queue), Ordered Set, Weekly Contest 457_
 ###### 3623. **Count Number of Trapezoids I**: _(Medium) Array, Hash Table, Math, Geometry, Weekly Contest 459_
 ###### 3625. **Count Number of Trapezoids II**: _(Hard) Array, Hash Table, Math, Geometry, Weekly Contest 459_
+###### 3629. **Minimum Jumps to Reach End via Prime Teleportation**: _(Medium) Staff, Array, Hash Table, Math, Breadth-First Search, Number Theory, Weekly Contest 460_
 ###### 3634. **Minimum Removals to Balance Array**: _(Medium) Senior, Array, Sliding Window, Sorting, Biweekly Contest 162_
 ###### 3637. **Trionic Array I**: _(Easy) Array, Weekly Contest 461_
 ###### 3640. **Trionic Array II**: _(Hard) Senior Staff, Array, Dynamic Programming, Weekly Contest 461_
