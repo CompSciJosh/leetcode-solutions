@@ -143,6 +143,7 @@
 ###### 1622. **Fancy Sequence**: _(Hard) Principal, Math, Design, Segment Tree, Biweekly Contest 37_
 ###### 1625. **Lexicographically Smallest String After Applying Operations**: _(Medium) String, Depth-First Search, Breadth-First Search, Enumeration, Weekly Contest 211_
 ###### 1653. **Minimum Deletions to Make String Balanced**: _(Medium) Senior, String, Dynamic Programming, Stack, Biweekly Contest 39_
+###### 1674. **Minimum Moves to Make Array Complementary**: _(Medium) Senior Staff, Array, Hash Table, Prefix Sum, Weekly Contest 217_
 ###### 1680. **Concatenation of Consecutive Binary Numbers**: _(Medium) Staff, Math, Bit Manipulation, Simulation, Weekly Contest 218_
 ###### 1689. **Partitioning Into Minimum Number Of Deci-Binary Numbers**: _(Medium) Senior, String, Greedy, Weekly Contest 219_
 ###### 1695. **Maximum Erasure Value**: _(Medium) Array, Hash Table, Sliding Window, Weekly Contest 220_
