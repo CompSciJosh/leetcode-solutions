@@ -21,6 +21,7 @@
 ###### 120. **Triangle**: _(Medium) Array, Dynamic Programming_
 ###### 135. **Candy**: _(Hard) Array, Greedy_
 ###### 146. **LRU Cache**: _(Medium) Hash Table, Linked List, Design, Doubly-Linked List_
+###### 153. **Find Minimum in Rotated Sorted Array**: _(Medium) Array, Binary Search_
 ###### 155. **Min Stack**: _(Medium) Stack, Design_
 ###### 165. **Compare Version Numbers**: _(Medium) Two Pointers, String_
 ###### 166. **Fraction to Recurring Decimal**: _(Medium) Hash Table, Math, String_
