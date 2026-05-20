@@ -284,6 +284,7 @@
 ###### 2751. **Robot Collisions**: _(Hard) Senior Staff, Array, Stack, Sorting, Simulation, Weekly Contest 351_
 ###### 2770. **Maximum Number of Jumps to Reach the Last Index**: _(Medium) Senior, Array, Dynamic Programming, Weekly Contest 353_
 ###### 2780. **Minimum Index of a Valid Split**: _(Medium) Array, Hash Table, Sorting_
+###### 2784. **Check if Array is Good**: _(Easy) Mid Level, Array, Hash Table, Sorting, Biweekly Contest 109_
 ###### 2785. **Sort Vowels in a String**: _(Medium) String, Sorting, Biweekly Contest 109_
 ###### 2787. **Ways to Express an Integer as Sum of Powers**: _(Medium) Dynamic Programming, Biweekly Contest 109_
 ###### 2799. **Count Complete Subarrays in an Array**: _(Medium) Array, Hash Table, Sliding Window_
