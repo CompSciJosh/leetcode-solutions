@@ -102,6 +102,7 @@
 ###### 1295. **Find Numbers with Even Number of Digits**: _(Easy) Array, Math_
 ###### 1298. **Maximum Candies You Can Get from Boxes**: _(Hard) Array, Breadth-First Search, Graph_
 ###### 1304. **Find N Unique Integers Sum up to Zero**: _(Easy) Array, Math, Weekly Contest 169_
+###### 1306. **Jump Game III**: _(Medium) Staff, Array, Depth-First Search, Breadth-First Search, Weekly Contest 169_
 ###### 1317. **Convert Integer to the Sum of Two No-Zero Integers**: _(Easy) Math, Weekly Contest 171_
 ###### 1320. **Minimum Distance to Type a Word Using Two Fingers**: _(Hard) Principal, String, Dynamic Programming, Weekly Contest 171_
 ###### 1323. **Maximum 69 Number**: _(Easy) Math, Greedy, Weekly Contest 172_
