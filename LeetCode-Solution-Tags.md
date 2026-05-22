@@ -107,6 +107,7 @@
 ###### 1320. **Minimum Distance to Type a Word Using Two Fingers**: _(Hard) Principal, String, Dynamic Programming, Weekly Contest 171_
 ###### 1323. **Maximum 69 Number**: _(Easy) Math, Greedy, Weekly Contest 172_
 ###### 1339. **Maximum Product of Splitted Binary Tree**: _(Medium) Tree, Depth-First Search, Binary Tree, Weekly Contest 174_
+###### 1345. **Jump Game IV**: _(Hard) Senior Staff, Array, Hash Table, Breadth-First Search, Biweekly Contest 19_
 ###### 1351. **Count Negative Numbers in a Sorted Matrix**: _(Easy) Array, Binary Search, Matrix, Weekly Contest 176_
 ###### 1352. **Product of the Last K Numbers**: _(Medium) Array, Math, Design, Data Stream, Prefix Sum_
 ###### 1353. **Maximum Number of Events That Can Be Attended**: _(Medium) Array, Greedy, Sorting, Heap (Priority Queue)_
