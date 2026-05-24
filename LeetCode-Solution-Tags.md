@@ -282,6 +282,7 @@
 ###### 2615. **Sum of Distances**: _(Medium) Senior, Array, Hash Table, Prefix Sum, Weekly Contest 340_
 ###### 2616. **Minimize the Maximum Difference of Pairs**: _(Medium) Array, Binary Search, Greedy_
 ###### 2654. **Minimum Number of Operations to Make All Array Elements Equal to 1**: _(Medium) Array, Math, Number Theory, Weekly Contest 342_
+###### 2657. **Find the Prefix Common Array of Two Arrays**: _(Medium) Senior, Array, Hash Table, Bit Manipulation, Biweekly Contest 103_
 ###### 2685. **Count the Number of Complete Components**: _(Medium) Depth-First Search, Breadth-First Search, Union Find, Graph_
 ###### 2698. **Find the Punishment Number of an Integer**: _(Medium) Math, Backtracking_
 ###### 2749. **Minimum Operations to Make the Integer Zero**: _(Medium) Bit Manipulation, Brainteaser, Enumeration, Weekly Contest 351_
