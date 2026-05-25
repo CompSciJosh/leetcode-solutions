@@ -6,6 +6,7 @@
 ###### 20. **Valid Parenthesis**: _(Easy) String, Stack_
 ###### 26. **Remove Duplicates From Sorted Array**: _(Easy) Array, Two Pointers_
 ###### 27. **Remove Element**: _(Easy) Array, Two Pointers_
+###### 33. **Search in Rotated Sorted Array**: _(Medium) Array, Binary Search_
 ###### 36. **Valid Sudoku**: _(Medium) Array, Hash Table, Matrix_
 ###### 37. **Sudoku Solver**: _(Hard) Array, Hash Table, Backtracking, Matrix_
 ###### 38. **Count and Say**: _(Medium) String_
