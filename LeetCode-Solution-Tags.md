@@ -173,6 +173,7 @@
 ###### 1861. **Rotating the Box**: _(Medium) Staff, Array, Two Pointers, Matrix, Biweekly Contest 52_
 ###### 1863. **Sum of All Subset XOR Totals**: _(Easy) Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration_
 ###### 1865. **Finding Pairs With a Certain Sum**: _(Medium) Array, Hash Table, Design_
+###### 1871. **Jump Game VII**: _(Medium) Staff, String, Dynamic Programming, Sliding Window, Prefix Sum, Weekly Contest 242_
 ###### 1877. **Minimize Maximum Pair Sum in Array**: _(Medium) Array, Two Pointers, Greedy, Sorting, Biweekly Contest 53_
 ###### 1878. **Get Biggest Three Rhombus Sums in a Grid**: _(Medium) Staff, Array, Math, Sorting, Heap (Priority Queue), Matrix, Prefix Sum, Biweekly Contest 53_
 ###### 1886. **Determine Whether Matrix Can Be Obtained By Rotation**: _(Easy) Mid Level, Array, Matrix, Weekly Contest 244_
