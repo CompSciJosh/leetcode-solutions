@@ -350,6 +350,7 @@
 ###### 3147. **Taking Maximum Energy From the Mystic Dungeon**: _(Medium) Array, Prefix Sum, Weekly Contest 39_
 ###### 3151. **Special Array I**: _(Easy) Array_
 ###### 3160. **Find the Number of Distinct Colors Among the Balls**: _(Medium) Array, Hash Table, Simulation_
+###### 3161. **Block Placement Queries**: _(Hard) Principal, Array, Binary Search, Binary Indexed Tree, Segment Tree, Biweekly Contest 131_
 ###### 3169. **Count Days Without Meetings**: _(Medium) Array, Sorting_
 ###### 3170. **Lexicographically Minimum String After Removing Stars**: _(Medium) Hash Table, String, Stack, Greedy, Heap (Priority Queue)_
 ###### 3174. **Clear Digits**: _(Easy) String, Stack, Simulation_
