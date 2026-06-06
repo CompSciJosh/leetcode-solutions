@@ -161,7 +161,7 @@
 ###### 1733. **Minimum Number of People to Teach**: _(Medium) Array, Hash Table, Greedy, Biweekly Contest 44_
 ###### 1749. **Maximum Absolute Sum of Any Subarray**: _(Medium) Array, Dynamic Programming_
 ###### 1751. **Maximum Number of Events That Can Be Attended II**: _(Hard) Array, Binary Search, Dynamic Programming, Sorting_
-###### 1752. **Check if Array Is Sorted and Rotated**: _(Easy) Array_
+###### 1752. **Check if Array Is Sorted and Rotated**: _(Easy) Mid Level, Array, Weekly Contest 227_
 ###### 1758. **Minimum Changes To Make Alternating Binary String**: _(Easy) Mid Level, String, Weekly Contest 228_
 ###### 1780. **Check if Number is a Sum of Powers of Three**: _(Medium) Math_
 ###### 1784. **Check if Binary String Has at Most One Segment of Ones**: _(Easy) Mid Level, String, Weekly Contest 231_
