@@ -274,6 +274,7 @@
 ###### 2529. **Maximum Count of Positive Integer and Negative Integer**: _(Easy) Array, Binary Search, Counting_
 ###### 2536. **Increment Submatrices by One**: _(Medium) Array, Matrix, Prefix Sum, Weekly Contest 328_
 ###### 2537. **Count the Number of Good Subarrays**: _(Medium) Array, Hash Table, Sliding Window_
+###### 2540. **Minimum Common Value**: _(Easy) Mid Level, Array, Hash Table, Two Pointers, Binary Search, Biweekly Contest 96_
 ###### 2551. **Put Marbles in Bags**: _(Hard) Array, Greedy, Sorting, Heap (Priority Queue)_
 ###### 2560. **House Robber IV**: _(Medium) Array, Binary Search Tree_
 ###### 2561. **Rearranging Fruits**: _(Hard) Array, Hash Table, Greedy, Sort, Weekly Contest 331_
