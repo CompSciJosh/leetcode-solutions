@@ -476,5 +476,6 @@
 ###### 3740. **Minimum Distance Between Three Equal Elements I**: _(Easy) Mid Level, Array, Hash Table, Weekly Contest 475_
 ###### 3741. **Minimum Distance Between Three Equal Elements II**: _(Medium) Senior, Array, Hash Table, Weekly Contest 475_
 ###### 3742. **Maximum Path Score in a Grid**: _(Medium) Staff, Array, Dynamic Programming, Matrix, Weekly Contest 475_
+###### 3753. **Total Waviness of Numbers in Range II**: _(Hard) Senior Staff, Math, Dynamic Programming, Biweekly Contest 170_
 ###### 3761. **Minimum Absolute Distance Between Mirror Pairs**: _(Medium) Staff, Array, Hash Table, Math, Weekly Contest 478_
 ###### 3783. **Mirror Distance of an Integer**: _(Easy) Mid Level, Math, Weekly Contest 481_
