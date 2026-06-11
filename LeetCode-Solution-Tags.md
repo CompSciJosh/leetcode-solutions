@@ -282,6 +282,7 @@
 ###### 2566. **Maximum Difference by Remapping a Digit**: _(Easy) Math, Greedy_
 ###### 2570. **Merge Two 2D Arrays by Summing Values**: _(Easy) Array, Hash Table, Two Pointers_
 ###### 2573. **Find the String with LCP**: _(Hard) Senior Staff, Array, String, Dynamic Programming, Greedy, Union-Find, Matrix, Weekly Contest 333_
+###### 2574. **Left and Right Sum Differences**: _(Easy) Mid Level, Array, Prefix Sum, Weekly Contest 334_
 ###### 2579. **Count Total Number of Colored Cells**: _(Medium) Math_
 ###### 2594. **Minimum Time to Repair Cars**: _(Medium) Array, Binary Search_
 ###### 2598. **Smallest Missing Non-negative Integer After Operations**: _(Medium) Array, Hash Table, Math, Greedy, Weekly Contest 337_
