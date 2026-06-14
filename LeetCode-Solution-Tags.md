@@ -227,7 +227,7 @@
 ###### 2169. **Count Operations to Obtain Zero**: _(Easy) Math, Simulation, Weekly Contest 280_
 ###### 2176. **Count Equal and Divisible Pairs in an Array**: _(Easy) Array_
 ###### 2179. **Count Good Triplets in an Array**: _(Hard) Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set_
-###### 2161. **Partition Array According to Given Pivot**: _(Medium) Array, Two Pointers, Simulation_
+###### 2161. **Partition Array According to Given Pivot**: _(Medium) Senior, Array, Two Pointers, Simulation, Biweekly Contest 71_
 ###### 2163. **Minimum Difference in Sums After Removal of Elements**: _(Hard) Array, Dynamic Programming, Heap (Priority Queue)_
 ###### 2196. **Create Binary Tree From Descriptions**: _(Medium) Senior, Array, Hash Table, Tree, Binary Tree, Weekly Contest 283_
 ###### 2197. **Replace Non-Coprime Numbers in Array**: _(Hard) Array, Math, Stack, Number Theory, Weekly Contest 283_
