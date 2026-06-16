@@ -471,6 +471,7 @@
 ###### 3655. **XOR After Range Multiplication Queries II**: _(Hard) Principal, Array, Divide and Conquer, Weekly Contest 463_
 ###### 3661. **Maximum Walls Destroyed by Robots** _(Hard) Senior Staff, Array, Binary Search, Dynamic Programming, Sorting, Weekly Contest 464_
 ###### 3666. **Minimum Operations to Equalize Binary String**: _(Hard) Senior Staff, Math, String, Breadth-First Search, Union-Find, Ordered Set, Biweekly Contest 164_
+###### 3689. **Maximum Total Subarray Value I**: _(Medium) Senior, Array, Greedy, Weekly Contest 468_
 ###### 3713. **Longest Balanced Substring I**: _(Medium) Senior, Hash Table, String, Counting, Enumeration, Weekly Contest 471_
 ###### 3714. **Longest Balanced Substring II**: _(Medium) Staff, Hash Table, String, Prefix Sum, Weekly Contest 471_
 ###### 3719. **Longest Balanced Subarray I**: _(Medium) Senior, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
