@@ -452,6 +452,7 @@
 ###### 3577. **Count the Number of Computer Unlocking Permutations**: _(Medium) Array, Math, Brainteaser, Combinatorics, Weekly Contest 453_
 ###### 3578. **Count Partitions With Max-Min Difference at Most K**: _(Medium) Array, Dynamic Programming, Queue, Sliding Window, Prefix Sum, Monotonic Queue, Weekly Contest 453_
 ###### 3583. **Count Special Triplets**: _(Medium) Array, Hash Table, Counting, Weekly Contest 454_
+###### 3558. **Number of Ways to Assign Edge Weights I**: _(Medium) Staff, Math, Tree, Depth-First Search, Biweekly Contest 157_
 ###### 3600. **Maximize Spanning Tree Stability with Upgrades**: _(Hard) Senior Staff, Binary Search, Greedy, Union-Find, Graph Theory, Minimum Spanning Tree, Weekly Contest 456_
 ###### 3606. **Coupon Code Validator**: _(Easy) Array, Hash Table, String, Sorting, Weekly Contest 457_
 ###### 3607. **Power Grid Maintenance**: _(Medium) Array, Hash Table, Depth-First Search, Breadth-First Search, Union Find, Graph, Heap (Priority Queue), Ordered Set, Weekly Contest 457_
