@@ -486,3 +486,4 @@
 ###### 3753. **Total Waviness of Numbers in Range II**: _(Hard) Senior Staff, Math, Dynamic Programming, Biweekly Contest 170_
 ###### 3761. **Minimum Absolute Distance Between Mirror Pairs**: _(Medium) Staff, Array, Hash Table, Math, Weekly Contest 478_
 ###### 3783. **Mirror Distance of an Integer**: _(Easy) Mid Level, Math, Weekly Contest 481_
+###### 3838. **Weighted Word Mapping**: _(Easy) Mid Level, Array, String, Simulation, Biweekly Contest 176_
