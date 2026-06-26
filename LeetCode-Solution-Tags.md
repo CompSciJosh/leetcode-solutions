@@ -459,6 +459,7 @@
 ###### 3606. **Coupon Code Validator**: _(Easy) Array, Hash Table, String, Sorting, Weekly Contest 457_
 ###### 3607. **Power Grid Maintenance**: _(Medium) Array, Hash Table, Depth-First Search, Breadth-First Search, Union Find, Graph, Heap (Priority Queue), Ordered Set, Weekly Contest 457_
 ###### 3612. **Process String with Special Operations I**: _(Medium) Senior, String, Simulation, Weekly Contest 458_
+###### 3614. **Process String with Special Operations II**: _(Hard) Senior Staff, String, Simulation, Weekly Contest 458_
 ###### 3623. **Count Number of Trapezoids I**: _(Medium) Array, Hash Table, Math, Geometry, Weekly Contest 459_
 ###### 3625. **Count Number of Trapezoids II**: _(Hard) Array, Hash Table, Math, Geometry, Weekly Contest 459_
 ###### 3629. **Minimum Jumps to Reach End via Prime Teleportation**: _(Medium) Staff, Array, Hash Table, Math, Breadth-First Search, Number Theory, Weekly Contest 460_
