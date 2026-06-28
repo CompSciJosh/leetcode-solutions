@@ -158,6 +158,7 @@
 ###### 1718. **Construct the Lexicographically Largest Valid Sequence**: _(Medium) Array, Backtracking_
 ###### 1726. **Tuple with Same Product**: _(Medium) Array, Hash Table, Counting_
 ###### 1727. **Largest Submatrix With Rearrangements**: _(Medium) Staff, Array, Greedy, Sorting, Matrix, Weekly Contest 224_
+###### 1732. **Find the Highest Altitude**: _(Easy) Mid Level, Array, Prefix Sum, Biweekly Contest 44_
 ###### 1733. **Minimum Number of People to Teach**: _(Medium) Array, Hash Table, Greedy, Biweekly Contest 44_
 ###### 1749. **Maximum Absolute Sum of Any Subarray**: _(Medium) Array, Dynamic Programming_
 ###### 1751. **Maximum Number of Events That Can Be Attended II**: _(Hard) Array, Binary Search, Dynamic Programming, Sorting_
