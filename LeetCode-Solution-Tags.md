@@ -169,6 +169,7 @@
 ###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
 ###### 1792. **Maximum Average Pass Ratio**: _(Medium) Array, Greedy, Heap (Priority Queue), Weekly Contest 232_
 ###### 1800. **Maximum Ascending Subarray Sum**: _(Easy) Array_
+###### 1833. **Maximum Ice Cream Bars**: _(Medium), Senior, Array, Greedy, Sorting, Counting Sort, Weekly Contest 237_
 ###### 1848. **Minimum Distance to the Target Element**: _(Easy) Mid Level, Array, Weekly Contest 239_
 ###### 1857. **Largest Color Value in a Directed Graph**: _(Hard) Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting_
 ###### 1861. **Rotating the Box**: _(Medium) Staff, Array, Two Pointers, Matrix, Biweekly Contest 52_
