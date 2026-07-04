@@ -482,6 +482,7 @@
 ###### 3689. **Maximum Total Subarray Value I**: _(Medium) Senior, Array, Greedy, Weekly Contest 468_
 ###### 3691. **Maximum Total Subarray Value II**: _(Hard) Principal, Array, Greedy, Segment Tree, Heap (Priority Queue), Weekly Contest 468_
 ###### 3699. **Number of ZigZag Arrays I**: _(Hard) Senior Staff, Dynamic Programming, Prefix Sum, Weekly Contest 469_
+###### 3700. **Number of ZigZag Arrays II**: _(Hard) Principal, Math, Dynamic Programming, Weekly Contest 469_
 ###### 3713. **Longest Balanced Substring I**: _(Medium) Senior, Hash Table, String, Counting, Enumeration, Weekly Contest 471_
 ###### 3714. **Longest Balanced Substring II**: _(Medium) Staff, Hash Table, String, Prefix Sum, Weekly Contest 471_
 ###### 3719. **Longest Balanced Subarray I**: _(Medium) Senior, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
