@@ -195,6 +195,7 @@
 ###### 1935. **Maximum Number of Words You Can Type**: _(Easy) Hash Table, String, Weekly Contest 250_
 ###### 1948. **Delete Duplicate Folders in System**: _(Hard) Array, Hash Table, String, Trie, Hash Function_
 ###### 1957. **Delete Characters to Make Fancy String**: _(Easy) String_
+###### 1967. **Number of Strings That Appear as Substrings in Word**: _(Easy) Mid Level, Array, String, Weekly Contest 254_
 ###### 1970. **Last Day Where You Can Still Cross**: _(Hard) Senior Staff, Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Weekly Contest 254_
 ###### 1975. **Maximum Matrix Sum**: _(Medium) Array, Greedy, Matrix, Biweekly Contest 59_
 ###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
