@@ -380,6 +380,7 @@
 ###### 3228. **Maximum Number of Operations to Move Ones to the End**: _(Medium) String, Greedy, Counting, Weekly Contest 407_
 ###### 3234. **Count the Number of Substrings With Dominant Ones**: _(Medium) String, Enumeration, Weekly Contest 408_
 ###### 3272. **Find the Count of Good Integers** : _(Hard) Hash Table, Math, Combinatorics, Enumeration_
+###### 3286. **Find a Safe Walk Through a Grid**: _(Medium) Staff, Array, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path, Biweekly Contest 139_
 ###### 3289. **The Two Sneaky Numbers of Digitville**: _(Easy) Array, Hash Table, Math, Weekly Contest 415_
 ###### 3296. **Minimum Number of Seconds to Make Mountain Height Zero**: _(Medium) Staff, Array, Math, Binary Search, Greedy, Heap (Priority Queue), Weekly Contest 416_
 ###### 3300. **Minimum Element After Replacement With Digit Sum**: _(Easy) Mid Level, Array, Math, Biweekly Contest 140_
