@@ -450,6 +450,7 @@
 ###### 3512. **Minimum Operations to Make Array Sum Divisible by K**: _(Easy) Array, Math, Biweekly Contest 154_
 ###### 3516. **Find Closest Person**: _(Easy) Math, Weekly Contest 445_
 ###### 3531. **Count Covered Buildings**: _(Medium) Array, Hash Table, Sorting, Weekly Contest 447_
+###### 3532. **Path Existence Queries in a Graph I**: _(Medium) Senior, Array, Hash Table, Binary Search, Union-Find, Graph Theory, Weekly Contest 447_
 ###### 3539. **Find Sum of Array Product of Magical Sequences**: _(Hard) Array, Math, Dynamic Programming, Bit Manipulation, Combinatorics, Bitmask, Weekly Contest 448_
 ###### 3541. **Find Most Frequent Vowel and Consonant**: _(Easy) Hash Table, String, Counting, Biweekly Contest 156_
 ###### 3542. **Minimum Operations to Convert All Elements to Zero**: _(Medium) Array, Hash Table, Stack, Greedy, Monotonic Stack, Biweekly Contest 156_
