@@ -109,6 +109,7 @@
 ###### 1317. **Convert Integer to the Sum of Two No-Zero Integers**: _(Easy) Math, Weekly Contest 171_
 ###### 1320. **Minimum Distance to Type a Word Using Two Fingers**: _(Hard) Principal, String, Dynamic Programming, Weekly Contest 171_
 ###### 1323. **Maximum 69 Number**: _(Easy) Math, Greedy, Weekly Contest 172_
+###### 1331. **Rank Transform of an Array**: _(Easy) Mid Level, Array, Hash Table, Sorting, Biweekly Contest 18_
 ###### 1339. **Maximum Product of Splitted Binary Tree**: _(Medium) Tree, Depth-First Search, Binary Tree, Weekly Contest 174_
 ###### 1340. **Jump Game V**: _(Hard) Senior Staff, Array, Dynamic Programming, Sorting, Weekly Contest 174_
 ###### 1345. **Jump Game IV**: _(Hard) Senior Staff, Array, Hash Table, Breadth-First Search, Biweekly Contest 19_
