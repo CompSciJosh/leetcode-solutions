@@ -100,7 +100,7 @@
 ###### 1266. **Minimum Time Visiting All Points**: _(Easy) Array, Math, Geometry, Weekly Contest 164_
 ###### 1277. **Count Square Submatrices with All Ones**: _(Medium) Array, Dynamic Programming, Matrix, Weekly Contest 165_
 ###### 1290. **Convert Binary Number in a Linked List to Integer**: _(Easy) Linked List, Math_
-###### 1291. **Sequential Digits**: _(Medium) , Staff, Enumeration, Weekly Contest 167_
+###### 1291. **Sequential Digits**: _(Medium) Staff, Enumeration, Weekly Contest 167_
 ###### 1292. **Maximum Side Length of a Square with Sum Less than or Equal to Threshold**: _(Medium) Array, Binary Search, Matrix, Prefix Sum, Weekly Contest 167_
 ###### 1295. **Find Numbers with Even Number of Digits**: _(Easy) Array, Math_
 ###### 1298. **Maximum Candies You Can Get from Boxes**: _(Hard) Array, Breadth-First Search, Graph_
@@ -504,3 +504,4 @@
 ###### 3761. **Minimum Absolute Distance Between Mirror Pairs**: _(Medium) Staff, Array, Hash Table, Math, Weekly Contest 478_
 ###### 3783. **Mirror Distance of an Integer**: _(Easy) Mid Level, Math, Weekly Contest 481_
 ###### 3838. **Weighted Word Mapping**: _(Easy) Mid Level, Array, String, Simulation, Biweekly Contest 176_
+###### 3867. **Sum of GCD of Formed Pairs**: _(Medium) Senior, Array, Math, Two Pointers, Sorting, Simulation, Number Theory, Biweekly Contest 178_
