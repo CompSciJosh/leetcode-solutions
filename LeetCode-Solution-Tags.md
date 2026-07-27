@@ -201,6 +201,7 @@
 ###### 1970. **Last Day Where You Can Still Cross**: _(Hard) Senior Staff, Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Weekly Contest 254_
 ###### 1975. **Maximum Matrix Sum**: _(Medium) Array, Greedy, Matrix, Biweekly Contest 59_
 ###### 1976. **Number of Ways to Arrive at Destination**: _(Medium) Dynamic Programming, Graph, Topological Sort, Shortest Path_
+###### 1979. **Find Greatest Common Divisor of Array**: _(Easy) Mid Level, Array, Math, Number Theory, Weekly Contest 255_
 ###### 1980. **Find Unique Binary String**: _(Medium) Senior, Array, Hash Table, String, Backtracking, Weekly Contest 255_
 ###### 1984. **Minimum Difference Between Highest and Lowest of K Scores**: _(Easy) Array, Sliding Window, Sorting, Weekly Contest 256_
 ###### 2011. **Final Value of Variable After Performing Operations**: _(Easy) Array, String, Simulation, Weekly Contest 259_
