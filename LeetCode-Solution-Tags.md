@@ -452,6 +452,7 @@
 ###### 3510. **Minimum Pair Removal to Sort Array II**: _(Hard) Array, Hash Table, Linked List, Heap (Priority Queue), Simulation, Doubly-Linked List, Ordered Set, Weekly Contest 444_
 ###### 3512. **Minimum Operations to Make Array Sum Divisible by K**: _(Easy) Array, Math, Biweekly Contest 154_
 ###### 3513. **Number of Unique XOR Triplets I**: _(Medium) Senior, Array, Math, Bit Manipulation, Biweekly Contest 154_
+###### 3514. **Number of Unique XOR Triplets II**: _(Medium) Staff, Array, Math, Bit Manipulation, Enumeration, Biweekly Contest 154_
 ###### 3516. **Find Closest Person**: _(Easy) Math, Weekly Contest 445_
 ###### 3531. **Count Covered Buildings**: _(Medium) Array, Hash Table, Sorting, Weekly Contest 447_
 ###### 3532. **Path Existence Queries in a Graph I**: _(Medium) Senior, Array, Hash Table, Binary Search, Union-Find, Graph Theory, Weekly Contest 447_
