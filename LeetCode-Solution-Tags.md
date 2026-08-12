@@ -344,6 +344,7 @@
 ###### 3005. **Count Elements With Maximum Frequency**: _(Easy) Array, Hash Table, Counting, Weekly Contest 380_ 
 ###### 3010. **Divide an Array Into Subarrays With Minimum Cost I**: _(Easy) Array, Sorting, Enumeration, Biweekly Contest 122_
 ###### 3013. **Divide an Array Into Subarrays With Minimum Cost II**: _(Hard) Array, Hash Table, Sliding Window, Heap (Priority Queue), Biweekly Contest 122_
+###### 3014. **Minimum Number of Pushes to Type Word I**: _(Easy) Mid Level, Math, String, Greedy. Weekly Contest 381_
 ###### 3021. **Alice and Bob Playing Flower Game**: _(Medium) Math, Weekly Contest 382_
 ###### 3024. **Type of Triangle**: _(Easy) Array, Math, Sorting_
 ###### 3025. **Find the Number of Ways to Place People I**: _(Medium) Array, Math, Geometry, Sorting, Enumeration, Biweekly Contest 123_
