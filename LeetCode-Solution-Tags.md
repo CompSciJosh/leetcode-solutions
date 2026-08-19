@@ -407,6 +407,7 @@
 ###### 3341. **Find Minimum Time to Reach Last Room I**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
 ###### 3342. **Find Minimum Time to Reach Last Room II**: _(Medium) Array, Graph, Heap (Priority Queue), Matrix, Shortest Path_
 ###### 3343. **Count Number of Balanced Permutations**: _(Hard) Math, String. Dynamic Programming, Combinatorics_
+###### 3345. **Smallest Divisible Digit Product I**: _(Easy) Mid Level, Math, Enumeration, Biweekly Contest 143_
 ###### 3346. **Maximum Frequency of an Element After Performing Operations I**: _(Medium) Array, Binary Search, Sliding Window, Sorting, Prefix Sum, Biweekly Contest 143_
 ###### 3347. **Maximum Frequency of an Element After Performing Operations II**: _(Hard) Array, Binary Search, Sliding Window, Sorting, Prefix Sum, Biweekly Contest 143_
 ###### 3349. **Adjacent Increasing Subarrays Detection I**: _(Easy) Array, Weekly Contest 423_
