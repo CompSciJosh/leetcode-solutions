@@ -410,6 +410,7 @@
 ###### 3345. **Smallest Divisible Digit Product I**: _(Easy) Mid Level, Math, Enumeration, Biweekly Contest 143_
 ###### 3346. **Maximum Frequency of an Element After Performing Operations I**: _(Medium) Array, Binary Search, Sliding Window, Sorting, Prefix Sum, Biweekly Contest 143_
 ###### 3347. **Maximum Frequency of an Element After Performing Operations II**: _(Hard) Array, Binary Search, Sliding Window, Sorting, Prefix Sum, Biweekly Contest 143_
+###### 3348. **Smallest Divisible Digit Product II**: _(Hard) Principal, Math, String, Backtracking, Greedy, Number Theory, Biweekly Contest 143_
 ###### 3349. **Adjacent Increasing Subarrays Detection I**: _(Easy) Array, Weekly Contest 423_
 ###### 3350. **Adjacent Increasing Subarrays Detection II**: _(Medium) Array, Binary Search, Weekly Contest 423_
 ###### 3354. **Make Array Elements Equal to Zero**: _(Easy) Array, Simulation, Prefix Sum, Weekly Contest 424_
