@@ -94,6 +94,7 @@
 ###### 1081. **Smallest Subsequence of Distinct Characters**: _(Medium) Senior Staff, String, Stack, Greedy, Monotonic Stack, Weekly Contest 140_
 ###### 1092. **Shortest Common Supersequence**: _(Hard) String, Dynamic Programming_
 ###### 1123. **Lowest Common Ancestor of Deepest Leaves**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree_
+###### 1140. **Stone Game II**: _(Medium) Principal, Array, Math, Dynamic Programming, Minimax, Prefix Sum, Game Theory, Zero-Sum Game, Weekly Contest 147_
 ###### 1161. **Maximum Level Sum of a Binary Tree**: _(Medium) Tree, Depth-First Search, Breadth-First Search, Binary Tree, Weekly Contest 150_
 ###### 1189. **Maximum Number of Balloons**: _(Easy) Mid Level, Hash Table, String, Counting, Weekly Contest 154_
 ###### 1200. **Minimum Absolute Difference**: _(Easy) Array, Sorting, Weekly Contest 155_
