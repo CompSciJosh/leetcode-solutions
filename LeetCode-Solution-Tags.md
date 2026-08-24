@@ -212,6 +212,7 @@
 ###### 2011. **Final Value of Variable After Performing Operations**: _(Easy) Array, String, Simulation, Weekly Contest 259_
 ###### 2014. **Longest Subsequence Repeated k Times**: _(Hard) String, Backtracking, Greedy, Counting, Enumeration_
 ###### 2016. **Maximum Difference Between Increasing Elements**: _(Easy) Array_
+###### 2029. **Stone Game IX**: _(Medium) Staff, Array, Math, Greedy, Minimax, Counting, Game Theory, Nim Game, Zero-Sum Game, Weekly Contest 261_
 ###### 2040. **Kth Smallest Product of Two Sorted Arrays**: _(Hard) Array, Binary Search_
 ###### 2043. **Simple Bank System**: _(Medium) Array, Hash Table, Design, Simulation, Weekly Contest 263_
 ###### 2044. **Count Number of Maximum Bitwise-OR Subsets**: _(Medium) Array, Backtracking, Bit Manipulation, Enumeration, Weekly Contest 263_
