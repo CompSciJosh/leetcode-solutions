@@ -199,6 +199,7 @@
 ###### 1920. **Build Array from Permutation**: _(Easy) Array, Simulation_
 ###### 1922. **Count Good Numbers**: _(Medium) Math, Recursion_
 ###### 1925. **Count Square Sum Triples**: _(Easy) Math, Enumeration, Biweekly Contest 56_
+###### 1927. **Sum Game**: _(Medium) Staff, Math, String, Greedy, Game Theory, Biweekly Contest 56_
 ###### 1929. **Concatenation of Array**: _(Easy) Array, Simulation_
 ###### 1930. **Unique Length-3 Palindromic Subsequences**: _(Medium) Hash Table, String, Bit Manipulation, Prefix Sum, Weekly Contest 249_
 ###### 1931. **Painting a Grid With Three Different Colors**: _(Hard) Dynamic Programming_
