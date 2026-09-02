@@ -368,6 +368,7 @@
 ###### 3074. **Apple Redistribution into Boxes**: _(Easy) Array, Greedy, Sorting, Weekly Contest 388_
 ###### 3075. **Maximize Happiness of Selected Children**: _(Medium) Array, Greedy, Sorting, Weekly Contest 388_
 ###### 3085. **Minimum Deletions to Make String K-Special**: _(Medium) Hash Table, String, Greedy, Sorting, Counting_
+###### 3090. **Maximum Length Substring With Two Occurrences**: _(Easy) Mid Level, Hash Table, String, Sliding Window, Weekly Contest 390_
 ###### 3093. **Longest Common Suffix Queries**: _(Hard) Senior Staff, Array, String, Trie, Weekly Contest 390_
 ###### 3100. **Water Bottles II**: _(Medium) Math, Simulation, Weekly Contest 391_
 ###### 3105. **Longest Strictly Increasing or Strictly Decreasing Subarray**: _(Easy) Array_
