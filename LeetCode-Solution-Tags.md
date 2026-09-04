@@ -341,6 +341,7 @@
 ###### 2942. **Find Words Containing Character**: _(Easy) Array, String_      
 ###### 2943. **Maximize Area of Square Hole in Grid**: _(Medium) Array, Sorting, Biweekly Contest 118_
 ###### 2946. **Matrix Similarity After Cyclic Shifts**: _(Easy) Mid Level, Array, Math, Matrix, Simulation, Weekly Contest 373_
+###### 2948. **Make Lexicographically Smallest Array by Swapping Elements**: _(Medium) Staff, Array, Union-Find, Sorting, Weekly Contest 373_
 ###### 2958. **Length of Longest Subarray With at Most K Frequency**: _(Medium) Staff, Array, Hash Table, Sliding Window, Biweekly Contest 119_
 ###### 2962. **Count Subarrays Where Max Element Appears at Least K Times**: _(Medium) Array, Sliding Window_
 ###### 2965. **Find Missing and Repeated Values**: _(Easy) Array, Hash Table, Math, Matrix_
