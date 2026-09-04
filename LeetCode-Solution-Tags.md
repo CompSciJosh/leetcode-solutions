@@ -226,6 +226,7 @@
 ###### 2071. **Maximum Number of Tasks You Can Assign**: _(Hard) Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue_
 ###### 2078. **Two Furthest Houses With Different Colors**: _(Easy) Mid Level, Array, Greedy, Weekly Contest 268_
 ###### 2081. **Sum of k-Mirror Numbers**: _(Hard) Math, Enumeration_
+###### 2091. **Removing Minimum and Maximum From Array**: _(Medium) Staff, Array, Greedy, Weekly Contest 269_
 ###### 2092. **Find All People With Secret**: _(Hard) Depth-First Search, Breadth-First Search, Union Find, Graph, Sorting, Weekly Contest 269_
 ###### 2094. **Finding 3-Digit Even Numbers**: _(Easy) Array, Hash Table, Sorting, Enumeration_ 
 ###### 2099. **Find Subsequence of Length K With the Largest Sum**: _(Easy) Array, Hash Table, Sorting, Heap (Priority Queue)_
