@@ -222,6 +222,7 @@
 ###### 2044. **Count Number of Maximum Bitwise-OR Subsets**: _(Medium) Array, Backtracking, Bit Manipulation, Enumeration, Weekly Contest 263_
 ###### 2048. **Next Greater Numerically Balanced Number**: _(Medium) Hash Table, Math, Backtracking, Counting, Enumeration, Weekly Contest 264_
 ###### 2054. **Two Best Non-Overlapping Events**: _(Medium) Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue), Biweekly Contest 64_
+###### 2058. **Find the Minimum and Maximum Number of Nodes Between Critical Points**: _(Medium) Senior, Linked List, Weekly Contest 265_
 ###### 2069. **Walking Robot Simulation II**: _(Medium) Senior, Design, Simulation, Biweekly Contest 65_
 ###### 2071. **Maximum Number of Tasks You Can Assign**: _(Hard) Array, Binary Search, Greedy, Queue, Sorting, Monotonic Queue_
 ###### 2078. **Two Furthest Houses With Different Colors**: _(Easy) Mid Level, Array, Greedy, Weekly Contest 268_
