@@ -541,3 +541,4 @@
 ###### 3838. **Weighted Word Mapping**: _(Easy) Mid Level, Array, String, Simulation, Biweekly Contest 176_
 ###### 3867. **Sum of GCD of Formed Pairs**: _(Medium) Senior, Array, Math, Two Pointers, Sorting, Simulation, Number Theory, Biweekly Contest 178_
 ###### 3875. **Construct Uniform Parity Array I**: _(Easy) Mid Level, Array, Math, Weekly Contest 494_
+###### 3876. **Construct Uniform Parity Array II**: _(Medium) Senior, Array, Math, Weekly Contest 494_
