@@ -526,6 +526,7 @@
 ###### 3702. **Longest Subsequence With Non-Zero Bitwise XOR**: _(Medium) Senior, Array, Bit Manipulation, Weekly Contest 470_
 ###### 3713. **Longest Balanced Substring I**: _(Medium) Senior, Hash Table, String, Counting, Enumeration, Weekly Contest 471_
 ###### 3714. **Longest Balanced Substring II**: _(Medium) Staff, Hash Table, String, Prefix Sum, Weekly Contest 471_
+###### 3718. **Smallest Missing Multiple of K**: _(Easy) Mid Level, Array, Hash Table, Weekly Contest 472_
 ###### 3719. **Longest Balanced Subarray I**: _(Medium) Senior, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
 ###### 3720. **Lexicographically Smallest Permutation Greater Than Target**: _(Medium) Staff, Hash Table, String, Greedy, Counting, Enumeration, Weekly Contest 472_
 ###### 3721. **Longest Balanced Subarray II**: _(Hard) Principal, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
