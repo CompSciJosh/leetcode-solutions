@@ -141,6 +141,7 @@
 ###### 1493. **Longest Subarray of 1's After Deleting One Element**: _(Medium) Array, Dynamic Programming, Sliding Window, Biweekly Contest 29_
 ###### 1498. **Number of Subsequences That Satisfy the Given Sum Condition**: _(Medium) Array, Two Pointers, Binary Search, Sorting_
 ###### 1504. **Count Submatrices With All Ones**: _(Medium) Array, Dynamic Programming, Stack, Matrix, Monotonic Stack, Weekly Contest 196_
+###### 1510. **Stone Game IV**: _(Hard) Senior Staff, Math, Dynamic Programming, Minimax, Game Theory, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game, Biweekly Contest 30_
 ###### 1513. **Number of Substrings With Only 1s**: _(Medium) Math, String, Weekly Contest 197_
 ###### 1518. **Water Bottles**: _(Easy) Math, Simulation, Weekly Contest 198_
 ###### 1523. **Count Odd Numbers in an Interval Range**: _(Easy) Math, Biweekly Contest 31_
