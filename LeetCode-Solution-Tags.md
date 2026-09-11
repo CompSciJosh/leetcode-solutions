@@ -547,3 +547,4 @@
 ###### 3871. **Count Commas in Range II**: _(Medium) Senior, Math, Weekly Contest 493_
 ###### 3875. **Construct Uniform Parity Array I**: _(Easy) Mid Level, Array, Math, Weekly Contest 494_
 ###### 3876. **Construct Uniform Parity Array II**: _(Medium) Senior, Array, Math, Weekly Contest 494_
+###### 3903. **Smallest Stable Index I**: _(Easy) Mid Level, Array, Prefix Sum, Weekly Contest 498_
