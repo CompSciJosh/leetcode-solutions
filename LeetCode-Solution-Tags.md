@@ -548,3 +548,4 @@
 ###### 3875. **Construct Uniform Parity Array I**: _(Easy) Mid Level, Array, Math, Weekly Contest 494_
 ###### 3876. **Construct Uniform Parity Array II**: _(Medium) Senior, Array, Math, Weekly Contest 494_
 ###### 3903. **Smallest Stable Index I**: _(Easy) Mid Level, Array, Prefix Sum, Weekly Contest 498_
+###### 3904. **Smallest Stable Index II*: _(Medium) Senior, Array, Prefix Sum, Weekly Contest 498_
