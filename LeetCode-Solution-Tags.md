@@ -18,6 +18,7 @@
 ###### 75. **Sort Colors**: _(Medium) Array, Two Pointers, Sorting_
 ###### 85. **Maximal Rectangle**: _(Hard) Array, Dynamic Programming, Stack, Matrix, Monotonic Stack_
 ###### 110. **Balanced Binary Tree**: _(Easy) Tree, Depth-First Search, Binary Tree_
+###### 115. **Distinct Subsequences**: _(Hard) String, Dynamic Programming_
 ###### 118. **Pascal's Triangle**: _(Easy) Array, Dynamic Programming_
 ###### 120. **Triangle**: _(Medium) Array, Dynamic Programming_
 ###### 135. **Candy**: _(Hard) Array, Greedy_
