@@ -264,6 +264,7 @@
 ###### 2226. **Maximum Candies Allocated to K Children**: _(Medium) Array, Binary Search_
 ###### 2257. **Count Unguarded Cells in the Grid**: _(Medium) Array, Matrix, Simulation, Biweekly Contest 77_
 ###### 2264. **Largest 3-Same-Digit Number in String**: _(Easy) String, Weekly Contest 292_
+###### 2265. **Count Nodes Equal to Average of Subtree**: _(Medium) Senior, Tree, Depth-First Search, Binary Tree, Weekly Contest 292_
 ###### 2273. **Find Resultant Array After Removing Anagrams**: _(Easy) Array, Hash Table, String, Sorting, Weekly Contest 293_
 ###### 2294. **Partition Array Such That Maximum Difference Is K**: _(Medium) Array, Greedy, Sorting_
 ###### 2300. **Successful Pairs of Spells and Potions**: _(Medium) Array, Two Pointers, Binary Search, Sorting, Biweekly Contest 80_
