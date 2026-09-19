@@ -470,6 +470,7 @@
 ###### 3477. **Fruits Into Baskets II**: _(Easy) Array, Binary Search, Segment Tree, Simulation, Ordered Set, Weekly Contest 440_
 ###### 3479. **Fruits Into Baskets III**: _(Medium) Array, Binary Search, Segment Tree, Ordered Set, Weekly Contest 440_
 ###### 3480. **Maximize Subarrays After Removing One Conflicting Pair**: _(Hard) Array, Segment Tree, Enumeration, Prefix Sum, Weekly Contest 440_
+###### 3483. **Unique 3-Digit Even Numbers**: _(Easy) Mid Level, Array, Hash Table, Recursion, Enumeration, Biweekly Contest 152_
 ###### 3484. **Design Spreadsheet**: _(Medium) Array, Hash Table, String, Design, Matrix, Biweekly Contest 152_
 ###### 3487. **Maximum Unique Subarray Sum After Deletion**: _(Easy) Array, Hash Table, Greedy, Weekly Contest 441_
 ###### 3488. **Closest Equal Element Queries**: _(Medium) Senior, Array, Hash Table, Binary Search, Weekly Contest 441_
