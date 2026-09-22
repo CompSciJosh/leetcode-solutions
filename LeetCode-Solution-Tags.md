@@ -295,6 +295,7 @@
 ###### 2460. **Apply Operations to an Array**: _(Easy) Array, Two Pointers, Simulation_
 ###### 2463. **Minimum Total Distance Traveled**: _(Hard) Senior Staff, Array, Dynamic Programming, Sorting, Weekly Contest 318_
 ###### 2467. **Most Profitable Path in a Tree**: _(Medium) Array, Tree, Depth-First Search, Breadth-First Search, Graph_
+###### 2472. **Maximum Number of Non-overlapping Palindrome Substrings**: _(Hard) Senior Staff, Two Pointers, String, Dynamic Programming, Greedy, Weekly Contest 319_
 ###### 2483. **Minimum Penalty for a Shop**: _(Medium) String, Prefix Sum, Biweekly Contest 92_
 ###### 2492. **Minimum Score of a Path Between Two Cities**: _(Medium) Staff, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Weekly Contest 322_
 ###### 2503. **Maximum Number of Points From Grid Queries**: _(Hard) Array, Two Pointers, Breadth-First Search, Union Find, Sorting, Heap (Priority Queue), Matrix_
