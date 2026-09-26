@@ -131,6 +131,7 @@
 ###### 1391. **Check if There is a Valid Path in a Grid**: _(Medium) Staff, Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Weekly Contest 181_
 ###### 1394. **Find Lucky Integer in an Array**: _(Easy) Array, Hash Table, Counting_
 ###### 1399. **Count Largest Group**: _(Easy) Hash Table, Math_
+###### 1401. **Circle and Rectangle Overlapping**: _(Medium) Staff, Math, Geometry, Biweekly Contest 23_
 ###### 1404. **Number of Steps to Reduce a Number in Binary Representation to One**: _(Medium) Senior, String, Bit Manipulation, Simulation, Weekly Contest 183_
 ###### 1411. **Number of Ways to Paint N × 3 Grid**: _(Hard) Dynamic Programming, Weekly Contest 184_
 ###### 1415. **The k-th Lexicographical String of All Happy Strings of Length n**: _(Medium) Staff, String, Backtracking, Biweekly Contest 24_
