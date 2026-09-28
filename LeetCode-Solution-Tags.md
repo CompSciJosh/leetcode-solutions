@@ -489,6 +489,7 @@
 ###### 3514. **Number of Unique XOR Triplets II**: _(Medium) Staff, Array, Math, Bit Manipulation, Enumeration, Biweekly Contest 154_
 ###### 3516. **Find Closest Person**: _(Easy) Math, Weekly Contest 445_
 ###### 3518. **Smallest Palindromic Rearrangement II**: _(Hard) Senior Staff, Hash Table, Math, String, Combinatorics, Counting, Weekly Contest 445_
+###### 3525. **Find X Value of Array II**: _(Hard) Senior Staff, Array, Math, Segment Tree, Weekly Contest 446_
 ###### 3531. **Count Covered Buildings**: _(Medium) Array, Hash Table, Sorting, Weekly Contest 447_
 ###### 3532. **Path Existence Queries in a Graph I**: _(Medium) Senior, Array, Hash Table, Binary Search, Union-Find, Graph Theory, Weekly Contest 447_
 ###### 3534. **Path Existence Queries in a Graph II**: _(Hard) Principal, Array, Two Pointers, Binary Search, Dynamic Programming, Greedy, Bit Manipulation, Graph Theory, Sorting, Weekly Contest 447_
