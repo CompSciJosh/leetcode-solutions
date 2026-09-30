@@ -186,6 +186,7 @@
 ###### 1790. **Check if One String Swap Can Make Strings Equal**: _(Easy) Hash Table, String, Counting_
 ###### 1792. **Maximum Average Pass Ratio**: _(Medium) Array, Greedy, Heap (Priority Queue), Weekly Contest 232_
 ###### 1800. **Maximum Ascending Subarray Sum**: _(Easy) Array_
+###### 1807. **Evaluate the Bracket Pairs of a String**: _(Medium) Staff, Array, Hash Table, String, Weekly Contest 234_
 ###### 1833. **Maximum Ice Cream Bars**: _(Medium), Senior, Array, Greedy, Sorting, Counting Sort, Weekly Contest 237_
 ###### 1846. **Maximum Element After Decreasing and Rearranging**: _(Medium) Staff, Array, Greedy, Sorting, Biweekly Contest 51_
 ###### 1848. **Minimum Distance to the Target Element**: _(Easy) Mid Level, Array, Weekly Contest 239_
