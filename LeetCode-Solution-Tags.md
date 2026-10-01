@@ -101,6 +101,7 @@
 ###### 1140. **Stone Game II**: _(Medium) Principal, Array, Math, Dynamic Programming, Minimax, Prefix Sum, Game Theory, Zero-Sum Game, Weekly Contest 147_
 ###### 1161. **Maximum Level Sum of a Binary Tree**: _(Medium) Tree, Depth-First Search, Breadth-First Search, Binary Tree, Weekly Contest 150_
 ###### 1189. **Maximum Number of Balloons**: _(Easy) Mid Level, Hash Table, String, Counting, Weekly Contest 154_
+###### 1190. **Reverse Substrings Between Each Pair of Parentheses**: _(Medium) Senior, String, Stack, Bracket Sequences, Weekly Contest 154_
 ###### 1200. **Minimum Absolute Difference**: _(Easy) Array, Sorting, Weekly Contest 155_
 ###### 1233. **Remove Sub-Folders from the Filesystem**: _(Medium) Array, String, Depth-First Search, Trie_
 ###### 1261. **Find Elements in a Contaminated Binary Tree**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree_
