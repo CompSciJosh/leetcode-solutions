@@ -97,6 +97,7 @@
 ###### 1081. **Smallest Subsequence of Distinct Characters**: _(Medium) Senior Staff, String, Stack, Greedy, Monotonic Stack, Weekly Contest 140_
 ###### 1092. **Shortest Common Supersequence**: _(Hard) String, Dynamic Programming_
 ###### 1096. **Brace Expansion II**: _(Hard) Principal, Hash Table, String, Backtracking, Stack, Breadth-First Search, Sorting, Weekly Contest 142_
+###### 1111. **Maximum Nesting Depth of Two Valid Parentheses Strings**: _(Medium) Senior Staff, String, Stack, Bracket Sequences, Weekly Contest 144_
 ###### 1123. **Lowest Common Ancestor of Deepest Leaves**: _(Medium) Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree_
 ###### 1140. **Stone Game II**: _(Medium) Principal, Array, Math, Dynamic Programming, Minimax, Prefix Sum, Game Theory, Zero-Sum Game, Weekly Contest 147_
 ###### 1161. **Maximum Level Sum of a Binary Tree**: _(Medium) Tree, Depth-First Search, Breadth-First Search, Binary Tree, Weekly Contest 150_
