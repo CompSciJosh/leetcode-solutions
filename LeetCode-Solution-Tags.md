@@ -3,7 +3,7 @@
 ###### 1. **Two Sum**: _(Easy) Array, Hash Table_
 ###### 11. **Container With Most Water**: _(Medium) Array, Two Pointers, Greedy_
 ###### 13. **Roman to Integer**: _(Easy) Hash Table, Math, String_
-###### 20. **Valid Parenthesis**: _(Easy) String, Stack_
+###### 20. **Valid Parentheses**: _(Easy) String, Stack, Bracket Sequences_
 ###### 26. **Remove Duplicates From Sorted Array**: _(Easy) Array, Two Pointers_
 ###### 27. **Remove Element**: _(Easy) Array, Two Pointers_
 ###### 33. **Search in Rotated Sorted Array**: _(Medium) Array, Binary Search_
