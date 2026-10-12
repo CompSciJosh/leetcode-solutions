@@ -48,6 +48,7 @@
 ###### 611. **Valid Triangle Number**: _(Medium) Array, Two Pointers, Binary Search, Greedy, Sorting_
 ###### 628. **Maximum Product of Three Numbers**: _(Easy) Mid Level, Array, Math, Sorting_
 ###### 657. **Robot Return to Origin**: _(Easy) Mid Level, String, Simulation_
+###### 678. **Valid Parenthesis String**: _(Medium) Principal, String, Dynamic Programming, Stack, Greedy, Bracket Sequences_
 ###### 679. **24 Game**: _(Hard) Array, Math, Backtracking_
 ###### 693. **Binary Number with Alternating Bits**: _(Easy) Mid Level, Bit Manipulation_
 ###### 696. **Count Binary Substrings**: _(Easy) Staff, Two Pointers, String_
