@@ -79,6 +79,7 @@
 ###### 898. **Bitwise ORs of Subarrays**: _(Medium) Array, Dynamic Programming, Bit Manipulation, Weekly Contest 100_
 ###### 904. **Fruit Into Baskets**: _(Medium) Array, Hash Table, Sliding Window, Weekly Contest 102_
 ###### 909. **Snakes and Ladders**: _(Medium) Array, Breadth-First Search, Matrix_
+###### 921. **Minimum Add to Make Parentheses Valid**: _(Medium) Senior, String, Stack, Greedy, Bracket Sequences, Weekly Contest 106_
 ###### 940. **Distinct Subsequences II**: _(Hard) Principal, String, Dynamic Programming, Weekly Contest 110_
 ###### 944. **Delete Columns to Make Sorted**: _(Easy) Array, String, Weekly Contest 111_
 ###### 955. **Delete Columns to Make Sorted II**: _(Medium) Array, String, Greedy, Weekly Contest 114_
