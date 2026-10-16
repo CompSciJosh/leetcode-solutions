@@ -31,6 +31,7 @@
 ###### 190. **Reverse Bits**: _(Easy) Divide and Conquer, Bit Manipulation_
 ###### 231. **Power of Two**: _(Easy) Math, Bit Manipulation, Recursion_
 ###### 242. **Valid Anagram**: _(Easy) Hash Table, String, Sorting_
+###### 301. **Remove Invalid Parentheses**: _(Hard) String, Backtracking, Breadth-First Search_
 ###### 326. **Power of Three**: _(Easy) Math, Recursion_
 ###### 342. **Power of Four**: _(Easy) Math, Bit Manipulation, Recursion_
 ###### 347. **Top K Frequent Elements**: _(Medium) Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect_
