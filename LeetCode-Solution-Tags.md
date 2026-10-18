@@ -160,6 +160,7 @@
 ###### 1526. **Minimum Number of Increments on Subarrays to Form a Target Array**: _(Hard) Array, Dynamic Programming, Stack, Greedy, Monotonic Stack, Biweekly Contest 31_
 ###### 1534. **Count Good Triplets**: _(Easy) Array, Enumeration_
 ###### 1536. **Minimum Swaps to Arrange a Binary Grid**: _(Medium) Staff, Array, Greedy, Matrix, Weekly Contest 200_
+###### 1541. **Minimum Insertions to Balance a Parentheses String**: _(Medium) Staff, String, Stack, Greedy, Bracket Sequences, Biweekly Contest 32_
 ###### 1545. **Find Kth Bit in Nth Binary String**: _(Medium) Senior, String, Recursion, Simulation, Weekly Contest 201_
 ###### 1550. **Three Consecutive Odds**: _(Easy) Array_
 ###### 1559. **Detect Cycles in 2D Grid**: _(Medium) Senior Staff, Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Biweekly Contest 33_
