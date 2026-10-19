@@ -352,6 +352,7 @@
 ###### 2873. **Maximum Value of an Ordered Triplet I**: _(Easy) Array_
 ###### 2874. **Maximum Value of an Ordered Triplet II**: _(Medium) Array_
 ###### 2894. **Divisible and Non-divisible Sums Difference**: _(Easy) Math_
+###### 2897. **Apply Operations on Array to Maximize Sum of Squares**: _(Hard) Senior Staff, Array, Hash Table, Greedy, Bit Manipulation, Weekly Contest 366_
 ###### 2900. **Longest Unequal Adjacent Groups Subsequence I**: _(Easy) Array, String, Dynamic Programming, Greedy_
 ###### 2901. **Longest Unequal Adjacent Groups Subsequence II**: _(Medium) Array, String, Dynamic Programming_
 ###### 2904. **Shortest and Lexicographically Smallest Beautiful String**: _(Medium) Senior, String, Sliding Window, Weekly Contest 367_
