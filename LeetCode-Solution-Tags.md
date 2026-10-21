@@ -552,6 +552,7 @@
 ###### 3719. **Longest Balanced Subarray I**: _(Medium) Senior, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
 ###### 3720. **Lexicographically Smallest Permutation Greater Than Target**: _(Medium) Staff, Hash Table, String, Greedy, Counting, Enumeration, Weekly Contest 472_
 ###### 3721. **Longest Balanced Subarray II**: _(Hard) Principal, Array, Hash Table, Divide and Conquer, Segment Tree, Prefix Sum, Weekly Contest 472_
+###### 3723. **Maximize Sum of Squares of Digits**: _(Medium) Staff, Math, Greedy, Biweekly Contest 168_
 ###### 3731. **Find Missing Elements**: _(Easy) Mid Level, Array, Hash Table, Sorting, Weekly Contest 474_
 ###### 3734. **Lexicographically Smallest Palindromic Permutation Greater Than Target**: _(Hard) Senior Staff, Two Pointers, String, Enumeration, Weekly Contest 474_
 ###### 3739. **Count Subarrays With Majority Element II**: _(Hard) Senior Staff, Array, Hash Table, Divide and Conquer, Segment Tree, Merge Sort, Prefix Sum, Biweekly Contest 169_
