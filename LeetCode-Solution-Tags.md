@@ -357,6 +357,7 @@
 ###### 2901. **Longest Unequal Adjacent Groups Subsequence II**: _(Medium) Array, String, Dynamic Programming_
 ###### 2904. **Shortest and Lexicographically Smallest Beautiful String**: _(Medium) Senior, String, Sliding Window, Weekly Contest 367_
 ###### 2906. **Construct Product Matrix**: _(Medium) Staff, Array, Matrix, Prefix Sum, Weekly Contest 367_
+###### 2916. **Subarrays Distinct Element Sum of Squares II**: _(Hard) Principal, Array, Hash Table, Binary Indexed Tree, Segment Tree, Biweekly Contest 116_
 ###### 2918. **Minimum Equal Sum of Two Arrays After Replacing Zeros**: _(Medium) Array, Greedy_
 ###### 2929. **Distribute Candies Among Children II**: _(Medium) Math, Combinatorics, Enumeration_
 ###### 2942. **Find Words Containing Character**: _(Easy) Array, String_      
