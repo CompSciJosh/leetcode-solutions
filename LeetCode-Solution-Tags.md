@@ -165,6 +165,7 @@
 ###### 1550. **Three Consecutive Odds**: _(Easy) Array_
 ###### 1559. **Detect Cycles in 2D Grid**: _(Medium) Senior Staff, Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Biweekly Contest 33_
 ###### 1563. **Stone Game V**: _(Hard) Principal, Array, Math, Dynamic Programming, Game Theory, Weekly Contest 203_
+###### 1569. **Number of Ways to Reorder Array to Get Same BST**: _(Hard) Principal, Array, Math, Divide and Conquer, Dynamic Programming, Tree, Union-Find, Binary Search Tree, Memoization, Combinatorics, Binary Tree, Fermat's Little Theorem, Weekly Contest 204_
 ###### 1578. **Minimum Time to Make Rope Colorful**: _(Medium) Array, String, Dynamic Programming, Greedy, Weekly Contest 205_
 ###### 1582. **Special Positions in a Binary Matrix**: _(Easy) Mid Level, Array, Matrix, Weekly Contest 206_
 ###### 1594. **Maximum Non Negative Product in a Matrix**: _(Medium) Staff, Array, Dynamic Programming, Matrix, Weekly Contest 207_
