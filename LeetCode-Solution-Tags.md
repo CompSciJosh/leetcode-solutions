@@ -575,6 +575,7 @@
 ###### 3871. **Count Commas in Range II**: _(Medium) Senior, Math, Weekly Contest 493_
 ###### 3875. **Construct Uniform Parity Array I**: _(Easy) Mid Level, Array, Math, Weekly Contest 494_
 ###### 3876. **Construct Uniform Parity Array II**: _(Medium) Senior, Array, Math, Weekly Contest 494_
+###### 3882. **Minimum XOR Path in a Grid**: _(Medium) Staff, Array, Dynamic Programming, Bit Manipulation, Matrix, Biweekly Contest 179_
 ###### 3903. **Smallest Stable Index I**: _(Easy) Mid Level, Array, Prefix Sum, Weekly Contest 498_
 ###### 3904. **Smallest Stable Index II*: _(Medium) Senior, Array, Prefix Sum, Weekly Contest 498_
 ###### 3970. **Shortest Path With At Most K Consecutive Identical Characters**: _(Medium) Staff, String, Graph Theory, Heap (Priority Queue), Shortest Path, Weekly Contest 507_
