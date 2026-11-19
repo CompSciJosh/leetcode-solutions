@@ -568,6 +568,7 @@
 ###### 3761. **Minimum Absolute Distance Between Mirror Pairs**: _(Medium) Staff, Array, Hash Table, Math, Weekly Contest 478_
 ###### 3783. **Mirror Distance of an Integer**: _(Easy) Mid Level, Math, Weekly Contest 481_
 ###### 3838. **Weighted Word Mapping**: _(Easy) Mid Level, Array, String, Simulation, Biweekly Contest 176_
+###### 3841. **Palindromic Path Queries in a Tree**: _(Hard) Principal, Array, String, Divide and Conquer, Bit Manipulation, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree, Biweekly Contest 176_
 ###### 3863. **Minimum Operations to Sort a String**: _(Medium) Staff, String, Weekly Contest 492_
 ###### 3867. **Sum of GCD of Formed Pairs**: _(Medium) Senior, Array, Math, Two Pointers, Sorting, Simulation, Number Theory, Biweekly Contest 178_
 ###### 3870. **Count Commas in Range**: _(Easy) Mid Level, Math, Weekly Contest 493_
